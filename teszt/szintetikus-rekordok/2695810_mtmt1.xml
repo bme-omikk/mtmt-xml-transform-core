@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML version 2.3-->
+<!--Original version was created 01/04/2011 by Istvan Kollar and Peter Z. Csurcsia-->
+<!--Software version 2.7 1970.01.01 01:01 23/07/2013 redefined and modified by: MTMT-->
+<!--query: https://vm.mtmt.hu/www/index.php?mode=xml&DocumentID=2695810&Full=1 -->
+<!--MyCite: Éles MTMT felület. -->
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mycite.xsd">
+ <xsd_version>2.4.</xsd_version>
+
+<record>
+  <technical_data>
+   <filesource identifier="2695810" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2014-02-03T11:00:30+00:00">
+    <name first="Budai" last="Erzsébet"></name>
+    <comment>BME admin - INAKTÍV</comment>
+    <identifiers>
+     <identifier>10014103</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Teszt" last="Elek"/>
+    <comment>MTO teszt</comment>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">10023926</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2013"/>
+   <edited>
+    <entry event="created" date="2013-11-13" time="11:36" login="teszt-mto"/>
+    <entry event="last-modified" date="2014-06-23" time="19:04"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Elek" last="Teszt" share="1">Teszt E</name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10023926</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors>
+    <editor>
+     <name first="szerző" last="Nem igazi" share="1">Nem igazi szerző</name>
+     <comment>nincs</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10019163</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </editor>
+   </editors>
+   <title>Könyv címe</title>
+   <subtitle>Könyv alcíme</subtitle>
+   <volume>kötetszám</volume>
+   <date year="2008"/>
+   <identifiers>
+    <identifier name="PubMed" identifier="mejjjjdline-id/konyv.1234"/>
+    <identifier name="BME OMIKK" identifier="000149211888"/>
+    <identifier name="Teljes dokumentum" identifier="http://publikus.web.intrabbbb"/>
+    <identifier name="Egyéb URL" identifier="http://webcimrrrr.kiado.intra"/>
+    <identifier type="url" name="publisher" public="false"></identifier>
+   </identifiers>
+   <language>Bolgár</language>
+   <abstract>Ez itt az absztrakt helye.</abstract>
+   <comment>EZ meg a megjegyzés.</comment>
+   <administrative_comment>admin megjegyzés</administrative_comment>
+   <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Osiris Kiadó</publisher>
+   <published city="Debrecen" country="Magyarország"/>
+   <classifications>
+    <classification>
+     <type identifier="23">könyv</type>
+     <subtype identifier="10000394">monográfia</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="150"/>
+   </length>
+   <container type="series">
+    <volume_title>Kötetcím</volume_title>
+    <volume_number>sor.kötet</volume_number>
+    <title_series>Sorozatcím</title_series>
+    <identifiers/>
+   </container>
+   <references>
+    <reference>Közleményben hivatkozott művek</reference>
+   </references>
+   <keywords>
+    <keyword>test of normality</keyword>
+   </keywords>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="kézi felvitel"/>
+    <owner>
+     <name first="Szmolyán" last="Mária"></name>
+     <comment>BME admin 5</comment>
+     <identifiers>
+      <identifier>10014110</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2013-11-13" time="11:41" login="mszmolyan"/>
+     <entry event="last-modified" date="2014-09-07" time="20:42"/>
+    </edited>
+    <independent independent-ok="not given">true</independent>
+    <language>Magyar</language>
+    <foreign_only>false</foreign_only>
+    <published_abroad>false</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">14054732</identifier>
+     <identifier name="DOI" identifier="nemigazi.doi/idezokonyv.1234"/>
+     <identifier name="Google books" identifier="RWAYAAAAIAAJ"/>
+     <identifier name="Teljes dokumentum" identifier="http://publikus.web.intra"/>
+     <identifier name="Egyéb URL" validator="J" identifier="scopus-id/idezokonyv.1234"/>
+     <identifier name="Egyéb URL" validator="J" identifier="WoS-UT/idezokonyv.1"/>
+    </identifiers>
+    <title>Közlemény címe</title>
+    <subtitle>Közlemény alcíme</subtitle>
+    <comment>megjegyzés</comment>
+    <administrative_comment>admin megjegyzés</administrative_comment>
+    <volume>Kötetszám</volume>
+    <context>szövegkörnyezet</context>
+    <date year="2010"/>
+    <publisher>Kiadó</publisher>
+    <authors>
+     <author>
+      <name>Idéző szerző</name>
+     </author>
+    </authors>
+    <editors>
+     <editor>
+      <name>Sorozatszerkesztő</name>
+     </editor>
+     <editor>
+      <name>Könyv szerkesztője</name>
+     </editor>
+    </editors>
+    <length>
+     <entry page_number="100"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="23">könyv</type>
+     </classification>
+    </classifications>
+    <container type="series">
+     <title_series>Sorozatcím</title_series>
+    </container>
+    <references/>
+   </citation>
+  </citations>
+ </record>
+
+</records>

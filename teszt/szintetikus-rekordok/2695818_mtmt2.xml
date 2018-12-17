@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myciteResult>
+  <serverUrl>https://m2.mtmt.hu/</serverUrl>
+  <labelLang>hun</labelLang>
+  <responseDate>2018-12-17 18:57</responseDate>
+  <content>
+    <publication>
+      <otype>Achievement</otype>
+      <generatedId>false</generatedId>
+      <resolvingDuplum>false</resolvingDuplum>
+      <mtid>2695818</mtid>
+      <status>APPROVED</status>
+      <published>true</published>
+      <comment>megjegyzés</comment>
+      <unhandledTickets>0</unhandledTickets>
+      <oldTimestamp>2017-05-29T20:26:02.000+0000</oldTimestamp>
+      <deleted>false</deleted>
+      <oldId>2695818</oldId>
+      <lastRefresh>2018-10-06T18:41:48.977+0000</lastRefresh>
+      <lastModified>2017-05-29T20:26:02.000+0000</lastModified>
+      <created>2013-11-13T16:19:00.000+0000</created>
+      <creator>
+        <otype>Author</otype>
+        <mtid>10023926</mtid>
+        <link>/api/author/10023926</link>
+        <label>Teszt Elek (MTO teszt)</label>
+        <familyName>Teszt</familyName>
+        <givenName>Elek</givenName>
+        <published>true</published>
+        <oldId>10023926</oldId>
+        <snippet>true</snippet>
+      </creator>
+      <lastDuplumOK>2018-12-05T17:40:12.604+0000</lastDuplumOK>
+      <lastDuplumSearch>2018-12-05T17:40:12.604+0000</lastDuplumSearch>
+      <core>true</core>
+      <citations>
+        <citation>
+          <otype>Citation</otype>
+          <generatedId>false</generatedId>
+          <resolvingDuplum>false</resolvingDuplum>
+          <mtid>24054738</mtid>
+          <status>APPROVED</status>
+          <published>true</published>
+          <comment>megjegyzés</comment>
+          <unhandledTickets>0</unhandledTickets>
+          <oldTimestamp>2015-01-13T14:07:41.000+0000</oldTimestamp>
+          <deleted>false</deleted>
+          <oldId>14054738</oldId>
+          <lastModified>2015-01-13T14:07:41.000+0000</lastModified>
+          <created>2013-11-13T16:39:00.000+0000</created>
+          <publication>
+            <snippet>true</snippet>
+            <languages>
+              <language>
+                <snippet>true</snippet>
+                <mtid>10044</mtid>
+                <nameEng>No linguistic content</nameEng>
+                <link>/api/language/10044</link>
+                <name>Nem adható meg</name>
+                <otype>Language</otype>
+                <label>Nem adható meg</label>
+                <published>true</published>
+                <oldId>10000149</oldId>
+              </language>
+            </languages>
+            <citation>false</citation>
+            <publishedAt/>
+            <identifiers>
+              <identifier>
+                <snippet>true</snippet>
+                <mtid>867467</mtid>
+                <link>/api/publicationidentifier/867467</link>
+                <idValue>medline-id/egyeb.1234</idValue>
+                <otype>PublicationIdentifier</otype>
+                <label>PubMed: medline-id/egyeb.1234</label>
+                <source>
+                  <snippet>true</snippet>
+                  <mtid>17</mtid>
+                  <linkPattern>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=@@@&amp;dopt=Abstract</linkPattern>
+                  <link>/api/publicationsource/17</link>
+                  <name>PubMed</name>
+                  <otype>PlainSource</otype>
+                  <label>PubMed</label>
+                  <published>true</published>
+                  <type>
+                    <snippet>true</snippet>
+                    <mtid>10003</mtid>
+                    <link>/api/publicationsourcetype/10003</link>
+                    <otype>PublicationSourceType</otype>
+                    <label>Indexelő adatbázis</label>
+                    <published>true</published>
+                    <mayHaveOa>false</mayHaveOa>
+                  </type>
+                  <oldId>17</oldId>
+                  <publiclyVisible>true</publiclyVisible>
+                </source>
+                <published>false</published>
+                <oaFree>false</oaFree>
+                <oldId>890475</oldId>
+              </identifier>
+              <identifier>
+                <snippet>true</snippet>
+                <mtid>867468</mtid>
+                <link>/api/publicationidentifier/867468</link>
+                <idValue>http://publikus.web.intra</idValue>
+                <otype>PublicationIdentifier</otype>
+                <label>Teljes dokumentum: http://publikus.web.intra</label>
+                <source>
+                  <snippet>true</snippet>
+                  <mtid>39</mtid>
+                  <linkPattern>@@@</linkPattern>
+                  <link>/api/publicationsource/39</link>
+                  <name>Teljes dokumentum</name>
+                  <otype>PlainSource</otype>
+                  <label>Teljes dokumentum</label>
+                  <published>true</published>
+                  <type>
+                    <snippet>true</snippet>
+                    <mtid>10006</mtid>
+                    <link>/api/publicationsourcetype/10006</link>
+                    <otype>PublicationSourceType</otype>
+                    <label>Link</label>
+                    <published>true</published>
+                    <mayHaveOa>false</mayHaveOa>
+                  </type>
+                  <oldId>39</oldId>
+                  <publiclyVisible>true</publiclyVisible>
+                </source>
+                <published>false</published>
+                <oaFree>false</oaFree>
+                <oldId>890479</oldId>
+              </identifier>
+              <identifier>
+                <snippet>true</snippet>
+                <mtid>867469</mtid>
+                <link>/api/publicationidentifier/867469</link>
+                <idValue>http://webcim.kiado.intra</idValue>
+                <otype>PublicationIdentifier</otype>
+                <label>Egyéb URL: http://webcim.kiado.intra</label>
+                <source>
+                  <snippet>true</snippet>
+                  <mtid>40</mtid>
+                  <linkPattern>@@@</linkPattern>
+                  <link>/api/publicationsource/40</link>
+                  <name>Egyéb URL</name>
+                  <otype>PlainSource</otype>
+                  <label>Egyéb URL</label>
+                  <published>true</published>
+                  <type>
+                    <snippet>true</snippet>
+                    <mtid>10006</mtid>
+                    <link>/api/publicationsourcetype/10006</link>
+                    <otype>PublicationSourceType</otype>
+                    <label>Link</label>
+                    <published>true</published>
+                    <mayHaveOa>false</mayHaveOa>
+                  </type>
+                  <oldId>40</oldId>
+                  <publiclyVisible>true</publiclyVisible>
+                </source>
+                <published>false</published>
+                <oaFree>false</oaFree>
+                <oldId>890480</oldId>
+              </identifier>
+              <identifier>
+                <snippet>true</snippet>
+                <mtid>867466</mtid>
+                <link>/api/publicationidentifier/867466</link>
+                <idValue>googlescholat/egyeb1</idValue>
+                <otype>PublicationIdentifier</otype>
+                <label>Google scholar: googlescholat/egyeb1</label>
+                <source>
+                  <snippet>true</snippet>
+                  <mtid>12</mtid>
+                  <linkPattern>http://scholar.Google.com/scholar?hl=en&amp;lr=&amp;cluster=@@@</linkPattern>
+                  <link>/api/publicationsource/12</link>
+                  <name>Google scholar</name>
+                  <otype>PlainSource</otype>
+                  <label>Google scholar</label>
+                  <published>true</published>
+                  <type>
+                    <snippet>true</snippet>
+                    <mtid>10003</mtid>
+                    <link>/api/publicationsourcetype/10003</link>
+                    <otype>PublicationSourceType</otype>
+                    <label>Indexelő adatbázis</label>
+                    <published>true</published>
+                    <mayHaveOa>false</mayHaveOa>
+                  </type>
+                  <oldId>12</oldId>
+                  <publiclyVisible>true</publiclyVisible>
+                </source>
+                <published>false</published>
+                <oaFree>false</oaFree>
+                <oldId>890474</oldId>
+              </identifier>
+            </identifiers>
+            <link>/api/publication/2695818</link>
+            <label>Teszt E. Egyéb címe: Egyéb alcíme. (2006)</label>
+            <published>true</published>
+            <type>
+              <snippet>true</snippet>
+              <mtid>22</mtid>
+              <code>22</code>
+              <link>/api/publicationtype/22</link>
+              <otype>PublicationType</otype>
+              <label>Alkotás</label>
+              <listPosition>20</listPosition>
+              <published>true</published>
+              <oldId>22</oldId>
+              <otypeName>Achievement</otypeName>
+            </type>
+            <title>Egyéb címe</title>
+            <oldId>2695818</oldId>
+            <publicationPending>false</publicationPending>
+            <mtid>2695818</mtid>
+            <core>true</core>
+            <conferencePublication>false</conferencePublication>
+            <foreignLanguage>true</foreignLanguage>
+            <subType>
+              <snippet>true</snippet>
+              <mtid>10000401</mtid>
+              <nameEng>Space</nameEng>
+              <docType>
+                <snippet>true</snippet>
+                <mtid>22</mtid>
+                <code>22</code>
+                <link>/api/publicationtype/22</link>
+                <otype>PublicationType</otype>
+                <label>Alkotás</label>
+                <listPosition>20</listPosition>
+                <published>true</published>
+                <oldId>22</oldId>
+                <otypeName>Achievement</otypeName>
+              </docType>
+              <link>/api/subtype/10000401</link>
+              <name>Tér</name>
+              <otype>SubType</otype>
+              <label>Tér (Alkotás)</label>
+              <listPosition>2091</listPosition>
+              <published>true</published>
+              <oldId>10000401</oldId>
+            </subType>
+            <fullPublication>false</fullPublication>
+            <otype>Achievement</otype>
+            <publishedYear>2006</publishedYear>
+            <category>
+              <snippet>true</snippet>
+              <mtid>6</mtid>
+              <link>/api/category/6</link>
+              <otype>Category</otype>
+              <label>Műszaki</label>
+              <published>true</published>
+              <oldId>6</oldId>
+            </category>
+          </publication>
+          <related>
+            <snippet>true</snippet>
+            <languages>
+              <language>
+                <snippet>true</snippet>
+                <mtid>10022</mtid>
+                <nameEng>Croatian</nameEng>
+                <link>/api/language/10022</link>
+                <name>Horvát</name>
+                <otype>Language</otype>
+                <label>Horvát</label>
+                <published>true</published>
+                <oldId>35</oldId>
+              </language>
+            </languages>
+            <citation>true</citation>
+            <publishedAt/>
+            <identifiers>
+              <identifier>
+                <snippet>true</snippet>
+                <mtid>7894915</mtid>
+                <link>/api/publicationidentifier/7894915</link>
+                <idValue>nemigazi.doi/egyebidezo.1234</idValue>
+                <otype>PublicationIdentifier</otype>
+                <label>DOI: nemigazi.doi/egyebidezo.1234</label>
+                <source>
+                  <snippet>true</snippet>
+                  <mtid>6</mtid>
+                  <linkPattern>http://dx.doi.org/@@@</linkPattern>
+                  <link>/api/publicationsource/6</link>
+                  <name>DOI</name>
+                  <otype>PlainSource</otype>
+                  <label>DOI</label>
+                  <published>true</published>
+                  <type>
+                    <snippet>true</snippet>
+                    <mtid>10001</mtid>
+                    <link>/api/publicationsourcetype/10001</link>
+                    <otype>PublicationSourceType</otype>
+                    <label>DOI</label>
+                    <published>true</published>
+                    <mayHaveOa>false</mayHaveOa>
+                  </type>
+                  <oldId>6</oldId>
+                  <publiclyVisible>true</publiclyVisible>
+                </source>
+                <published>false</published>
+                <oldId>6892688</oldId>
+              </identifier>
+              <identifier>
+                <snippet>true</snippet>
+                <mtid>7894917</mtid>
+                <link>/api/publicationidentifier/7894917</link>
+                <idValue>http://publikus.web.intra</idValue>
+                <otype>PublicationIdentifier</otype>
+                <label>Teljes dokumentum: http://publikus.web.intra</label>
+                <source>
+                  <snippet>true</snippet>
+                  <mtid>39</mtid>
+                  <linkPattern>@@@</linkPattern>
+                  <link>/api/publicationsource/39</link>
+                  <name>Teljes dokumentum</name>
+                  <otype>PlainSource</otype>
+                  <label>Teljes dokumentum</label>
+                  <published>true</published>
+                  <type>
+                    <snippet>true</snippet>
+                    <mtid>10006</mtid>
+                    <link>/api/publicationsourcetype/10006</link>
+                    <otype>PublicationSourceType</otype>
+                    <label>Link</label>
+                    <published>true</published>
+                    <mayHaveOa>false</mayHaveOa>
+                  </type>
+                  <oldId>39</oldId>
+                  <publiclyVisible>true</publiclyVisible>
+                </source>
+                <published>false</published>
+                <oldId>6892689</oldId>
+              </identifier>
+              <identifier>
+                <snippet>true</snippet>
+                <mtid>7894918</mtid>
+                <link>/api/publicationidentifier/7894918</link>
+                <idValue>scopus-id/egyebidezo.1234</idValue>
+                <otype>PublicationIdentifier</otype>
+                <label>Egyéb URL: scopus-id/egyebidezo.1234</label>
+                <source>
+                  <snippet>true</snippet>
+                  <mtid>40</mtid>
+                  <linkPattern>@@@</linkPattern>
+                  <link>/api/publicationsource/40</link>
+                  <name>Egyéb URL</name>
+                  <otype>PlainSource</otype>
+                  <label>Egyéb URL</label>
+                  <published>true</published>
+                  <type>
+                    <snippet>true</snippet>
+                    <mtid>10006</mtid>
+                    <link>/api/publicationsourcetype/10006</link>
+                    <otype>PublicationSourceType</otype>
+                    <label>Link</label>
+                    <published>true</published>
+                    <mayHaveOa>false</mayHaveOa>
+                  </type>
+                  <oldId>40</oldId>
+                  <publiclyVisible>true</publiclyVisible>
+                </source>
+                <published>false</published>
+                <oldId>6892686</oldId>
+              </identifier>
+              <identifier>
+                <snippet>true</snippet>
+                <mtid>7894919</mtid>
+                <link>/api/publicationidentifier/7894919</link>
+                <idValue>WoS-UT/egyebidezo.1</idValue>
+                <otype>PublicationIdentifier</otype>
+                <label>Egyéb URL: WoS-UT/egyebidezo.1</label>
+                <source>
+                  <snippet>true</snippet>
+                  <mtid>40</mtid>
+                  <linkPattern>@@@</linkPattern>
+                  <link>/api/publicationsource/40</link>
+                  <name>Egyéb URL</name>
+                  <otype>PlainSource</otype>
+                  <label>Egyéb URL</label>
+                  <published>true</published>
+                  <type>
+                    <snippet>true</snippet>
+                    <mtid>10006</mtid>
+                    <link>/api/publicationsourcetype/10006</link>
+                    <otype>PublicationSourceType</otype>
+                    <label>Link</label>
+                    <published>true</published>
+                    <mayHaveOa>false</mayHaveOa>
+                  </type>
+                  <oldId>40</oldId>
+                  <publiclyVisible>true</publiclyVisible>
+                </source>
+                <published>false</published>
+                <oldId>6892685</oldId>
+              </identifier>
+              <identifier>
+                <snippet>true</snippet>
+                <mtid>7894916</mtid>
+                <link>/api/publicationidentifier/7894916</link>
+                <idValue>matarka/egyebidezo</idValue>
+                <otype>PublicationIdentifier</otype>
+                <label>Matarka: matarka/egyebidezo</label>
+                <source>
+                  <snippet>true</snippet>
+                  <mtid>33</mtid>
+                  <linkPattern>http://www.matarka.hu/egy-kozlemeny-oldala.php?MatarkaID=@@@</linkPattern>
+                  <link>/api/publicationsource/33</link>
+                  <name>Matarka</name>
+                  <otype>PlainSource</otype>
+                  <label>Matarka</label>
+                  <published>true</published>
+                  <type>
+                    <snippet>true</snippet>
+                    <mtid>10003</mtid>
+                    <link>/api/publicationsourcetype/10003</link>
+                    <otype>PublicationSourceType</otype>
+                    <label>Indexelő adatbázis</label>
+                    <published>true</published>
+                    <mayHaveOa>false</mayHaveOa>
+                  </type>
+                  <oldId>33</oldId>
+                  <publiclyVisible>true</publiclyVisible>
+                </source>
+                <published>false</published>
+                <oldId>6892687</oldId>
+              </identifier>
+            </identifiers>
+            <link>/api/publication/24054738</link>
+            <label>Egyéb idéző. Egyéb idéző címe: alcím. (2008)</label>
+            <published>true</published>
+            <type>
+              <snippet>true</snippet>
+              <mtid>29</mtid>
+              <code>29</code>
+              <link>/api/publicationtype/29</link>
+              <otype>PublicationType</otype>
+              <label>Egyéb</label>
+              <listPosition>15</listPosition>
+              <published>true</published>
+              <oldId>29</oldId>
+              <otypeName>PublicationOther</otypeName>
+            </type>
+            <title>Egyéb idéző címe</title>
+            <oldId>14054738</oldId>
+            <publicationPending>false</publicationPending>
+            <nationalOrigin>false</nationalOrigin>
+            <mtid>24054738</mtid>
+            <core>false</core>
+            <foreignEdition>true</foreignEdition>
+            <foreignLanguage>true</foreignLanguage>
+            <otype>PublicationOther</otype>
+            <publishedYear>2008</publishedYear>
+          </related>
+          <source>kézi felvitel</source>
+          <externalCitation>false</externalCitation>
+          <context>szövegkörnyezet</context>
+          <link>/api/citation/24054738</link>
+          <label>Egyéb idéző. Egyéb idéző címe: alcím. (2008)</label><template>&lt;div class=&quot;Citation short-list&quot;&gt; &lt;div class=&quot;publication Publication&quot;&gt;Forrásközlemény: [2695818] Teszt E. Egyéb címe: Egyéb alcíme. (2006) &lt;/div&gt; &lt;div class=&quot;related Publication&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;Idéző: &lt;div class=&quot;PublicationOther Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; &gt;Egyéb, idéző szerző &lt;/span&gt; &lt;/div &gt; &lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;24054738&quot; mtid=&quot;24054738&quot; target=&quot;_blank&quot;&gt;Egyéb idéző címe&lt;span class=&quot;subTitle&quot;&gt;: alcím&lt;/span&gt;&lt;/a&gt; &lt;span class=&quot;page&quot;&gt; &lt;/span&gt; (2008) &lt;/div&gt; &lt;div class=&quot;pub-info&quot;&gt; &lt;span class=&quot;description1&quot;&gt;Szabad mező1&lt;/span &gt;, &lt;span class=&quot;description2&quot;&gt;Szabad mező2&lt;/span &gt;, &lt;span class=&quot;description3&quot;&gt;Szabad mező3&lt;/span &gt;, &lt;span class=&quot;description4&quot;&gt;Szabad mező4&lt;/span &gt;, &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;nemigazi.doi/egyebidezo.1234&quot; target=&quot;_blank&quot; href=&quot;http://dx.doi.org/nemigazi.doi/egyebidezo.1234&quot;&gt;DOI&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.intra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.intra&quot;&gt;Teljes dokumentum&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;scopus-id/egyebidezo.1234&quot; target=&quot;_blank&quot; href=&quot;scopus-id/egyebidezo.1234&quot;&gt;Egyéb URL&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;WoS-UT/egyebidezo.1&quot; target=&quot;_blank&quot; href=&quot;WoS-UT/egyebidezo.1&quot;&gt;Egyéb URL&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;matarka/egyebidezo&quot; target=&quot;_blank&quot; href=&quot;http://www.matarka.hu/egy-kozlemeny-oldala.php?MatarkaID=matarka/egyebidezo&quot;&gt;Matarka&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:24054738 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-APPROVED&quot;&gt; Jóváhagyott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt; Idéző &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Egyéb &lt;/span&gt; &lt;span class=&quot;citing-count2&quot;&gt;Idézett közlemények száma: 1 &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;citation&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;&lt;i&gt;Kapcsolat: [24054738] Jóváhagyott | Függő | Magyarországi szerző: Nem | Külföldi kiadás: Igen | Forrás: kézi felvitel&lt;/i&gt;&lt;/div&gt; &lt;/div&gt;</template>
+        </citation>
+      </citations>
+      <type>
+        <otype>PublicationType</otype>
+        <mtid>22</mtid>
+        <link>/api/publicationtype/22</link>
+        <label>Alkotás</label>
+        <code>22</code>
+        <otypeName>Achievement</otypeName>
+        <listPosition>20</listPosition>
+        <published>true</published>
+        <oldId>22</oldId>
+        <snippet>true</snippet>
+      </type>
+      <subType>
+        <otype>SubType</otype>
+        <mtid>10000401</mtid>
+        <link>/api/subtype/10000401</link>
+        <label>Tér (Alkotás)</label>
+        <name>Tér</name>
+        <nameEng>Space</nameEng>
+        <docType>
+          <otype>PublicationType</otype>
+          <mtid>22</mtid>
+          <link>/api/publicationtype/22</link>
+          <label>Alkotás</label>
+          <code>22</code>
+          <otypeName>Achievement</otypeName>
+          <listPosition>20</listPosition>
+          <published>true</published>
+          <oldId>22</oldId>
+          <snippet>true</snippet>
+        </docType>
+        <listPosition>2091</listPosition>
+        <published>true</published>
+        <oldId>10000401</oldId>
+        <snippet>true</snippet>
+      </subType>
+      <category>
+        <otype>Category</otype>
+        <mtid>6</mtid>
+        <link>/api/category/6</link>
+        <label>Műszaki</label>
+        <published>true</published>
+        <oldId>6</oldId>
+        <snippet>true</snippet>
+      </category>
+      <firstAuthor>Teszt, E</firstAuthor>
+      <ownerAuthorCount>1</ownerAuthorCount>
+      <ownerInstituteCount>1</ownerInstituteCount>
+      <directInstituteCount>1</directInstituteCount>
+      <authorCount>2</authorCount>
+      <contributorCount>0</contributorCount>
+      <title>Egyéb címe</title>
+      <subTitle>Egyéb alcíme</subTitle>
+      <firstPageOrInternalIdForSort></firstPageOrInternalIdForSort>
+      <publishedYear>2006</publishedYear>
+      <abstractText>Ez itt az absztrakt.</abstractText>
+      <packet>bme-pa-migracio-20014-06-20-v01</packet>
+      <foreignLanguage>true</foreignLanguage>
+      <fullPublication>false</fullPublication>
+      <conferencePublication>false</conferencePublication>
+      <missingAuthor>false</missingAuthor>
+      <oaFree>false</oaFree>
+      <oaByAuthor>
+        <otype>Admin</otype>
+        <mtid>10017066</mtid>
+        <link>/api/admin/10017066</link>
+        <label>Vasvári Lilian (MTMT Központi, admin)</label>
+        <familyName>Vasvári</familyName>
+        <givenName>Lilian</givenName>
+        <published>true</published>
+        <oldId>10017066</oldId>
+        <snippet>true</snippet>
+      </oaByAuthor>
+      <citationCount>1</citationCount>
+      <citationCountUnpublished>0</citationCountUnpublished>
+      <citationCountWoOther>0</citationCountWoOther>
+      <independentCitCountWoOther>0</independentCitCountWoOther>
+      <doiCitationCount>1</doiCitationCount>
+      <wosCitationCount>0</wosCitationCount>
+      <scopusCitationCount>0</scopusCitationCount>
+      <independentCitationCount>0</independentCitationCount>
+      <selfCitationCount>1</selfCitationCount>
+      <unhandledCitationCount>0</unhandledCitationCount>
+      <citingPubCount>1</citingPubCount>
+      <independentCitingPubCount>0</independentCitingPubCount>
+      <unhandledCitingPubCount>0</unhandledCitingPubCount>
+      <citedPubCount>0</citedPubCount>
+      <citedCount>0</citedCount>
+      <pubStats>
+        <types>
+          <type>Folyóiratcikk</type>
+          <typeEng>Journal Article</typeEng>
+          <code>24</code>
+          <count>0</count>
+        </types>
+        <types>
+          <type>Könyvrészlet</type>
+          <typeEng>Chapter in Book</typeEng>
+          <code>25</code>
+          <count>0</count>
+        </types>
+        <types>
+          <type>Könyv</type>
+          <typeEng>Book</typeEng>
+          <code>23</code>
+          <count>0</count>
+        </types>
+        <types>
+          <type>Egyéb konferenciaközlemény</type>
+          <typeEng>Conference paper</typeEng>
+          <code>31</code>
+          <count>0</count>
+        </types>
+        <types>
+          <type>Egyéb konferenciakötet</type>
+          <typeEng>Conference proceedings</typeEng>
+          <code>32</code>
+          <count>0</count>
+        </types>
+        <types>
+          <type>Oltalmi formák</type>
+          <typeEng>Protection forms</typeEng>
+          <code>26</code>
+          <count>0</count>
+        </types>
+        <types>
+          <type>Disszertáció</type>
+          <typeEng>Thesis</typeEng>
+          <code>28</code>
+          <count>0</count>
+        </types>
+        <types>
+          <type>Egyéb</type>
+          <typeEng>Miscellaneous</typeEng>
+          <code>29</code>
+          <count>1</count>
+        </types>
+        <types>
+          <type>Alkotás</type>
+          <typeEng>Achievement</typeEng>
+          <code>22</code>
+          <count>0</count>
+        </types>
+        <types>
+          <type>Kutatási adat</type>
+          <typeEng>Research data</typeEng>
+          <code>33</code>
+          <count>0</count>
+        </types>
+        <citationTypes>
+          <type>Folyóiratcikk</type>
+          <typeEng>Journal Article</typeEng>
+          <code>24</code>
+          <countUnknown>0</countUnknown>
+          <countIndependent>0</countIndependent>
+          <countSelfCitation>0</countSelfCitation>
+        </citationTypes>
+        <citationTypes>
+          <type>Könyvrészlet</type>
+          <typeEng>Chapter in Book</typeEng>
+          <code>25</code>
+          <countUnknown>0</countUnknown>
+          <countIndependent>0</countIndependent>
+          <countSelfCitation>0</countSelfCitation>
+        </citationTypes>
+        <citationTypes>
+          <type>Könyv</type>
+          <typeEng>Book</typeEng>
+          <code>23</code>
+          <countUnknown>0</countUnknown>
+          <countIndependent>0</countIndependent>
+          <countSelfCitation>0</countSelfCitation>
+        </citationTypes>
+        <citationTypes>
+          <type>Egyéb konferenciaközlemény</type>
+          <typeEng>Conference paper</typeEng>
+          <code>31</code>
+          <countUnknown>0</countUnknown>
+          <countIndependent>0</countIndependent>
+          <countSelfCitation>0</countSelfCitation>
+        </citationTypes>
+        <citationTypes>
+          <type>Egyéb konferenciakötet</type>
+          <typeEng>Conference proceedings</typeEng>
+          <code>32</code>
+          <countUnknown>0</countUnknown>
+          <countIndependent>0</countIndependent>
+          <countSelfCitation>0</countSelfCitation>
+        </citationTypes>
+        <citationTypes>
+          <type>Oltalmi formák</type>
+          <typeEng>Protection forms</typeEng>
+          <code>26</code>
+          <countUnknown>0</countUnknown>
+          <countIndependent>0</countIndependent>
+          <countSelfCitation>0</countSelfCitation>
+        </citationTypes>
+        <citationTypes>
+          <type>Disszertáció</type>
+          <typeEng>Thesis</typeEng>
+          <code>28</code>
+          <countUnknown>0</countUnknown>
+          <countIndependent>0</countIndependent>
+          <countSelfCitation>0</countSelfCitation>
+        </citationTypes>
+        <citationTypes>
+          <type>Egyéb</type>
+          <typeEng>Miscellaneous</typeEng>
+          <code>29</code>
+          <countUnknown>0</countUnknown>
+          <countIndependent>0</countIndependent>
+          <countSelfCitation>0</countSelfCitation>
+        </citationTypes>
+        <citationTypes>
+          <type>Alkotás</type>
+          <typeEng>Achievement</typeEng>
+          <code>22</code>
+          <countUnknown>0</countUnknown>
+          <countIndependent>0</countIndependent>
+          <countSelfCitation>0</countSelfCitation>
+        </citationTypes>
+        <citationTypes>
+          <type>Kutatási adat</type>
+          <typeEng>Research data</typeEng>
+          <code>33</code>
+          <countUnknown>0</countUnknown>
+          <countIndependent>0</countIndependent>
+          <countSelfCitation>0</countSelfCitation>
+        </citationTypes>
+        <years>
+          <year>2008</year>
+          <publicationCount>0</publicationCount>
+          <citationCount>1</citationCount>
+          <independentCitationCount>0</independentCitationCount>
+          <citingPubCount>1</citingPubCount>
+          <independentCitingPubCount>0</independentCitingPubCount>
+          <oaStats/>
+          <oaStats2/>
+        </years>
+      </pubStats>
+      <referenceList>Közleményben hivatkozott művek</referenceList>
+      <hasCitationDuplums>false</hasCitationDuplums>
+      <importDuplum>false</importDuplum>
+      <importOverwritten>false</importOverwritten>
+      <importSkipped>false</importSkipped>
+      <userChangeableUntil>2014-09-21T17:04:30.000+0000</userChangeableUntil>
+      <publishDate>2014-06-23T17:04:30.000+0000</publishDate>
+      <languages>
+        <language>
+          <otype>Language</otype>
+          <mtid>10044</mtid>
+          <link>/api/language/10044</link>
+          <label>Nem adható meg</label>
+          <name>Nem adható meg</name>
+          <nameEng>No linguistic content</nameEng>
+          <published>true</published>
+          <oldId>10000149</oldId>
+          <snippet>true</snippet>
+        </language>
+      </languages>
+      <authorships>
+        <authorship>
+          <otype>PersonAuthorship</otype>
+          <mtid>5360550</mtid>
+          <link>/api/authorship/5360550</link>
+          <label>Teszt, E [Teszt, Elek (MTO teszt), szerző]</label>
+          <listPosition>1</listPosition>
+          <share>1.0</share>
+          <first>true</first>
+          <last>false</last>
+          <author>
+            <otype>Author</otype>
+            <mtid>10023926</mtid>
+            <link>/api/author/10023926</link>
+            <label>Teszt Elek (MTO teszt)</label>
+            <familyName>Teszt</familyName>
+            <givenName>Elek</givenName>
+            <published>true</published>
+            <oldId>10023926</oldId>
+            <snippet>true</snippet>
+          </author>
+          <familyName>Teszt</familyName>
+          <givenName>E</givenName>
+          <authorTyped>true</authorTyped>
+          <editorTyped>false</editorTyped>
+          <otherTyped>false</otherTyped>
+          <type>
+            <otype>AuthorshipType</otype>
+            <mtid>1</mtid>
+            <link>/api/authorshiptype/1</link>
+            <label>Szerző</label>
+            <code>0</code>
+            <published>true</published>
+            <oldId>0</oldId>
+            <snippet>true</snippet>
+          </type>
+          <published>false</published>
+          <oldId>20055766</oldId>
+          <snippet>true</snippet>
+        </authorship>
+        <authorship>
+          <otype>PersonAuthorship</otype>
+          <mtid>5360551</mtid>
+          <link>/api/authorship/5360551</link>
+          <label>Teszt, Elek [Teszt, Elek (MTO teszt), szerző]</label>
+          <listPosition>2</listPosition>
+          <share>1.0</share>
+          <first>false</first>
+          <last>true</last>
+          <author>
+            <otype>Author</otype>
+            <mtid>10023926</mtid>
+            <link>/api/author/10023926</link>
+            <label>Teszt Elek (MTO teszt)</label>
+            <familyName>Teszt</familyName>
+            <givenName>Elek</givenName>
+            <published>true</published>
+            <oldId>10023926</oldId>
+            <snippet>true</snippet>
+          </author>
+          <familyName>Teszt</familyName>
+          <givenName>Elek</givenName>
+          <authorTyped>true</authorTyped>
+          <editorTyped>false</editorTyped>
+          <otherTyped>false</otherTyped>
+          <type>
+            <otype>AuthorshipType</otype>
+            <mtid>1</mtid>
+            <link>/api/authorshiptype/1</link>
+            <label>Szerző</label>
+            <code>0</code>
+            <published>true</published>
+            <oldId>0</oldId>
+            <snippet>true</snippet>
+          </type>
+          <published>false</published>
+          <oldId>20055767</oldId>
+          <snippet>true</snippet>
+        </authorship>
+      </authorships>
+      <identifiers>
+        <identifier>
+          <otype>PublicationIdentifier</otype>
+          <mtid>867467</mtid>
+          <link>/api/publicationidentifier/867467</link>
+          <label>PubMed: medline-id/egyeb.1234</label>
+          <source>
+            <otype>PlainSource</otype>
+            <mtid>17</mtid>
+            <link>/api/publicationsource/17</link>
+            <label>PubMed</label>
+            <type>
+              <snippet>true</snippet>
+              <mtid>10003</mtid>
+              <link>/api/publicationsourcetype/10003</link>
+              <otype>PublicationSourceType</otype>
+              <label>Indexelő adatbázis</label>
+              <published>true</published>
+              <mayHaveOa>false</mayHaveOa>
+            </type>
+            <name>PubMed</name>
+            <linkPattern>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=@@@&amp;dopt=Abstract</linkPattern>
+            <publiclyVisible>true</publiclyVisible>
+            <published>true</published>
+            <oldId>17</oldId>
+            <snippet>true</snippet>
+          </source>
+          <oaFree>false</oaFree>
+          <idValue>medline-id/egyeb.1234</idValue>
+          <published>false</published>
+          <oldId>890475</oldId>
+          <snippet>true</snippet>
+        </identifier>
+        <identifier>
+          <otype>PublicationIdentifier</otype>
+          <mtid>867468</mtid>
+          <link>/api/publicationidentifier/867468</link>
+          <label>Teljes dokumentum: http://publikus.web.intra</label>
+          <source>
+            <otype>PlainSource</otype>
+            <mtid>39</mtid>
+            <link>/api/publicationsource/39</link>
+            <label>Teljes dokumentum</label>
+            <type>
+              <snippet>true</snippet>
+              <mtid>10006</mtid>
+              <link>/api/publicationsourcetype/10006</link>
+              <otype>PublicationSourceType</otype>
+              <label>Link</label>
+              <published>true</published>
+              <mayHaveOa>true</mayHaveOa>
+            </type>
+            <name>Teljes dokumentum</name>
+            <linkPattern>@@@</linkPattern>
+            <publiclyVisible>true</publiclyVisible>
+            <published>true</published>
+            <oldId>39</oldId>
+            <snippet>true</snippet>
+          </source>
+          <oaFree>false</oaFree>
+          <idValue>http://publikus.web.intra</idValue>
+          <published>false</published>
+          <oldId>890479</oldId>
+          <snippet>true</snippet>
+        </identifier>
+        <identifier>
+          <otype>PublicationIdentifier</otype>
+          <mtid>867469</mtid>
+          <link>/api/publicationidentifier/867469</link>
+          <label>Egyéb URL: http://webcim.kiado.intra</label>
+          <source>
+            <otype>PlainSource</otype>
+            <mtid>40</mtid>
+            <link>/api/publicationsource/40</link>
+            <label>Egyéb URL</label>
+            <type>
+              <snippet>true</snippet>
+              <mtid>10006</mtid>
+              <link>/api/publicationsourcetype/10006</link>
+              <otype>PublicationSourceType</otype>
+              <label>Link</label>
+              <published>true</published>
+              <mayHaveOa>true</mayHaveOa>
+            </type>
+            <name>Egyéb URL</name>
+            <linkPattern>@@@</linkPattern>
+            <publiclyVisible>true</publiclyVisible>
+            <published>true</published>
+            <oldId>40</oldId>
+            <snippet>true</snippet>
+          </source>
+          <oaFree>false</oaFree>
+          <idValue>http://webcim.kiado.intra</idValue>
+          <published>false</published>
+          <oldId>890480</oldId>
+          <snippet>true</snippet>
+        </identifier>
+        <identifier>
+          <otype>PublicationIdentifier</otype>
+          <mtid>867466</mtid>
+          <link>/api/publicationidentifier/867466</link>
+          <label>Google scholar: googlescholat/egyeb1</label>
+          <source>
+            <otype>PlainSource</otype>
+            <mtid>12</mtid>
+            <link>/api/publicationsource/12</link>
+            <label>Google scholar</label>
+            <type>
+              <snippet>true</snippet>
+              <mtid>10003</mtid>
+              <link>/api/publicationsourcetype/10003</link>
+              <otype>PublicationSourceType</otype>
+              <label>Indexelő adatbázis</label>
+              <published>true</published>
+              <mayHaveOa>false</mayHaveOa>
+            </type>
+            <name>Google scholar</name>
+            <linkPattern>http://scholar.Google.com/scholar?hl=en&amp;lr=&amp;cluster=@@@</linkPattern>
+            <publiclyVisible>true</publiclyVisible>
+            <published>true</published>
+            <oldId>12</oldId>
+            <snippet>true</snippet>
+          </source>
+          <oaFree>false</oaFree>
+          <idValue>googlescholat/egyeb1</idValue>
+          <published>false</published>
+          <oldId>890474</oldId>
+          <snippet>true</snippet>
+        </identifier>
+      </identifiers>
+      <keywords>
+        <keyword>
+          <otype>Keyword</otype>
+          <mtid>1013381</mtid>
+          <link>/api/keyword/1013381</link>
+          <label>Testing</label>
+          <published>true</published>
+          <oldId>1013381</oldId>
+          <snippet>true</snippet>
+        </keyword>
+      </keywords>
+      <properties>
+        <property>
+          <otype>AchievementPropertyValue</otype>
+          <mtid>97664</mtid>
+          <link>/api/achievementpropertyvalue/97664</link>
+          <label>Megjelenés országa: Magyarország</label>
+          <published>false</published>
+          <oldId>97664</oldId>
+          <snippet>true</snippet>
+        </property>
+      </properties>
+      <link>/api/publication/2695818</link>
+      <label>Teszt E. Egyéb címe: Egyéb alcíme. (2006)</label><template>&lt;div class=&quot;Achievement Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt, E&lt;/a&gt; &lt;/span&gt; ; &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt, Elek&lt;/a&gt; &lt;/span&gt; &lt;/div &gt; &lt;span class=&quot;title&quot;&gt; &lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;2695818&quot; mtid=&quot;2695818&quot; target=&quot;_blank&quot;&gt;Egyéb címe&lt;span class=&quot;subTitle&quot;&gt;: Egyéb alcíme&lt;/span&gt;&lt;/a&gt; &lt;/span&gt; &lt;div class=&quot;pub-info&quot;&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;medline-id/egyeb.1234&quot; target=&quot;_blank&quot; href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=medline-id/egyeb.1234&amp;dopt=Abstract&quot;&gt;PubMed&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.intra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.intra&quot;&gt;Teljes dokumentum&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;http://webcim.kiado.intra&quot; target=&quot;_blank&quot; href=&quot;http://webcim.kiado.intra&quot;&gt;Egyéb URL&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;googlescholat/egyeb1&quot; target=&quot;_blank&quot; href=&quot;http://scholar.Google.com/scholar?hl=en&amp;lr=&amp;cluster=googlescholat/egyeb1&quot;&gt;Google scholar&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:2695818 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-APPROVED&quot;&gt; Jóváhagyott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt;Forrás &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Alkotás (Tér ) &lt;/span&gt; | &lt;span class=&quot;pub-category&quot;&gt;Műszaki&lt;/span&gt; &lt;span class=&quot;citing-count1&quot;&gt;Nyilvános idézők összesen: 1&lt;/span&gt; &lt;span class=&quot;citing-count-independent&quot;&gt;Független: 0&lt;/span&gt; &lt;span class=&quot;citing-count-self&quot;&gt;Függő: 1&lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt;</template><template2>&lt;div class=&quot;Achievement Publication long-list&quot;&gt;
+&lt;div class=&quot;authors&quot;&gt;
+	 	&lt;img title=&quot;Forrásközlemény&quot; style=&quot;float: left&quot; src=&quot;/frontend/resources/grid/publication-core-icon.png&quot;&gt;		
+				&lt;div class=&quot;autype autype0&quot;&gt;											        &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a
+            href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt E
+                    (&lt;span class=&quot;authorship-author-name&quot;&gt;Teszt Elek&lt;/span&gt;
+            &lt;span class=&quot;authorAux-mtmt&quot;&gt; MTO teszt&lt;/span&gt;)
+		                &lt;/a&gt;    &lt;/span&gt;
+        ;&amp;nbsp;&amp;nbsp;&amp;nbsp;															        &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a
+            href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt Elek
+                    (&lt;span class=&quot;authorship-author-name&quot;&gt;Teszt Elek&lt;/span&gt;
+            &lt;span class=&quot;authorAux-mtmt&quot;&gt; MTO teszt&lt;/span&gt;)
+		                &lt;/a&gt;    &lt;/span&gt;
+        											    &lt;/div&gt;
+	
+	&lt;/div&gt;
+&lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;2695818&quot; target=&quot;_blank&quot;&gt;Egyéb címe : Egyéb alcíme.&lt;/a&gt;&lt;/div&gt;    																																																																																																								&lt;div class=&quot;pub-footer&quot;&gt;
+
+
+
+	&lt;span class=&quot;identifiers&quot;&gt;
+													                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+&quot;&gt;
+						                &lt;a style=&quot;color: black&quot; title=&quot;medline-id/egyeb.1234&quot; target=&quot;_blank&quot; href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=medline-id/egyeb.1234&amp;dopt=Abstract&quot;&gt;PubMed&lt;/a&gt;
+					&lt;/span&gt;
+																						                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+&quot;&gt;
+						                &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.intra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.intra&quot;&gt;Teljes dokumentum&lt;/a&gt;
+					&lt;/span&gt;
+																						                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+&quot;&gt;
+						                &lt;a style=&quot;color: black&quot; title=&quot;http://webcim.kiado.intra&quot; target=&quot;_blank&quot; href=&quot;http://webcim.kiado.intra&quot;&gt;Egyéb URL&lt;/a&gt;
+					&lt;/span&gt;
+																						                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+&quot;&gt;
+						                &lt;a style=&quot;color: black&quot; title=&quot;googlescholat/egyeb1&quot; target=&quot;_blank&quot; href=&quot;http://scholar.Google.com/scholar?hl=en&amp;lr=&amp;cluster=googlescholat/egyeb1&quot;&gt;Google scholar&lt;/a&gt;
+					&lt;/span&gt;
+										    &lt;/span&gt;
+
+
+
+
+&lt;div class=&quot;publication-citation&quot; style=&quot;margin-left: 0.5cm;&quot;&gt;
+	&lt;span title=&quot;Nyilvános idézéskapcsolatok száma (egy közleményen belüli többszörös említésekkel együtt)&quot; class=&quot;citingPub-count&quot;&gt;(Nyilvános idézők összesen: 1&lt;/span&gt;
+	| Független: 0
+	    | Függő: 1
+    | Nem vizsgált/ismert: 0
+			|  DOI jelölt:&amp;nbsp;1     &lt;/div&gt;
+
+
+    &lt;div class=&quot;mtid&quot;&gt;&lt;span class=&quot;long-pub-mtid&quot;&gt;Közlemény: 2695818&lt;/span&gt;
+    | &lt;span class=&quot;status-data status-APPROVED&quot;&gt;	Jóváhagyott
+&lt;/span&gt;
+        	&lt;span class=&quot;oldId&quot;&gt;Régi azonosító: &lt;a target=&quot;_blank&quot; href=&quot;http://migralas-teszt1.mtmt.hu/www/index.php?mode=html&amp;DocumentID=2695818&amp;frame_off=1&amp;st_on=1&amp;type_on=1&amp;url_on=1&quot;&gt;2695818&lt;/a&gt;&lt;/span&gt; | 		Forrás			        | &lt;span class=&quot;type-subtype&quot;&gt;Alkotás
+					( Tér
+						)
+		 &lt;/span&gt;
+		      		| Műszaki
+			 | Nyilvános	&lt;/span&gt; | &lt;span class=&quot;publication-sourceOfData&quot;&gt;kézi felvitel&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;lastModified&quot;&gt;Utolsó módosítás: 2017.05.29. 22:26 Vasvári Lilian (admin)
+&lt;/div&gt;
+
+ 	        &lt;pre style=&quot;font-size: 11px; margin-left: 0.5cm;&quot;&gt;Ez itt az absztrakt.&lt;/pre&gt;
+	 
+
+
+	&lt;pre class=&quot;comment&quot; style=&quot;margin-top: 0; margin-bottom: 0;&quot;&gt;&lt;u&gt;Megjegyzés&lt;/u&gt;: megjegyzés&lt;/pre&gt;
+
+&lt;/div&gt;&lt;/div&gt;</template2>
+    </publication>
+  </content>
+</myciteResult>

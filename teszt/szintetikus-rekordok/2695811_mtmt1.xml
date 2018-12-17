@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML version 2.3-->
+<!--Original version was created 01/04/2011 by Istvan Kollar and Peter Z. Csurcsia-->
+<!--Software version 2.7 1970.01.01 01:01 23/07/2013 redefined and modified by: MTMT-->
+<!--query: https://vm.mtmt.hu/www/index.php?mode=xml&DocumentID=2695811&Full=1 -->
+<!--MyCite: Éles MTMT felület. -->
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mycite.xsd">
+ <xsd_version>2.4.</xsd_version>
+
+<record>
+  <technical_data>
+   <filesource identifier="2695811" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <owner>
+    <name first="Teszt" last="Elek"/>
+    <comment>MTO teszt</comment>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">10023926</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2013"/>
+   <edited>
+    <entry event="created" date="2013-11-13" time="11:45" login="teszt-mto"/>
+    <entry event="last-modified" date="2015-08-31" time="14:03"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Elek" last="Teszt" share="1">Teszt Elek</name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10023926</identifier>
+     </identifiers>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Disszertáció címe</title>
+   <subtitle>alcím</subtitle>
+   <date year="2000"/>
+   <identifiers>
+    <identifier name="PubMed" identifier="medline-id/dissz.1234"/>
+    <identifier name="BME OMIKK" identifier="000121917"/>
+    <identifier name="Teljes dokumentum" identifier="http://publikus.web.intra"/>
+    <identifier name="Egyéb URL" identifier="http://webcim.kiado.intra"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Angol</language>
+   <abstract>Ez itt az absztrakt.</abstract>
+   <comment>Ez meg a megjegyzés.</comment>
+   <administrative_comment>admin megjegyzés</administrative_comment>
+   <publisher city="Besançon" country="Franciaország" publisher-country="Franciaország">Université de Franche-Comté</publisher>
+   <classifications>
+    <classification>
+     <type identifier="28">disszertáció</type>
+     <subtype identifier="9">phd</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="100"/>
+   </length>
+   <references>
+    <reference>Közleményben hivatkozott művek</reference>
+   </references>
+   <keywords>
+    <keyword>Test parameters</keyword>
+   </keywords>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="kézi felvitel" year="2013"/>
+    <owner>
+     <name first="Szmolyán" last="Mária"></name>
+     <comment>BME admin 5</comment>
+     <identifiers>
+      <identifier>10014110</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2013-11-13" time="11:47" login="mszmolyan"/>
+     <entry event="last-modified" date="2015-01-13" time="15:07"/>
+    </edited>
+    <independent independent-ok="not given">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>not given</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">14054733</identifier>
+     <identifier name="DOI" identifier="nemigazi.doi/idezodissz.1234"/>
+     <identifier name="OSZK" identifier="3105662"/>
+     <identifier name="Teljes dokumentum" identifier="http://publikus.web.intra"/>
+     <identifier name="Egyéb URL" validator="J" identifier="scopus-id/idezodissz.1234"/>
+     <identifier name="Egyéb URL" validator="J" identifier="WoS-UT/idezodissz.1"/>
+    </identifiers>
+    <title>Disszertáció címe</title>
+    <subtitle>alcím</subtitle>
+    <comment>megjegyzés</comment>
+    <administrative_comment>admin megjegyzés</administrative_comment>
+    <context>szövegkörnyezet</context>
+    <date year="2002"/>
+    <authors>
+     <author>
+      <name>Idéző szerző</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_number="100"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="28">disszertáció</type>
+      <subtype identifier="10">kandidátus</subtype>
+     </classification>
+    </classifications>
+    <references/>
+   </citation>
+  </citations>
+ </record>
+
+</records>

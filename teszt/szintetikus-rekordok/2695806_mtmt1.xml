@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML version 2.3-->
+<!--Original version was created 01/04/2011 by Istvan Kollar and Peter Z. Csurcsia-->
+<!--Software version 2.7 1970.01.01 01:01 23/07/2013 redefined and modified by: MTMT-->
+<!--query: https://vm.mtmt.hu/www/index.php?mode=xml&DocumentID=2695806&Full=1 -->
+<!--MyCite: Éles MTMT felület. -->
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mycite.xsd">
+ <xsd_version>2.4.</xsd_version>
+
+<record>
+  <technical_data>
+   <filesource identifier="2695806" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2013-12-18T12:16:23+00:00">
+    <name first="Kollár" last="István"></name>
+    <comment>BME admin 5 - INAKTÍV</comment>
+    <identifiers>
+     <identifier>10018988</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Teszt" last="Elek"/>
+    <comment>MTO teszt</comment>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">10023926</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2013"/>
+   <edited>
+    <entry event="created" date="2013-11-13" time="11:20" login="teszt-mto"/>
+    <entry event="last-modified" date="2014-06-23" time="19:04"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Elek" last="Teszt" share="1">Teszt Elek</name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10023926</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Könyvrészlet címe</title>
+   <subtitle>Könyvrészlet alcíme</subtitle>
+   <date year="2004"/>
+   <identifiers>
+    <identifier name="Google books" identifier="_RaFCX8VEdwC"/>
+    <identifier name="PubMed" identifier="medline-id/konyvreszlet.1234"/>
+    <identifier name="Teljes dokumentum" identifier="http://publikus.web.uuuuuintra"/>
+    <identifier name="Egyéb URL" identifier="http://webcim.kiado.intra"/>
+    <identifier name="article identifier" identifier="35"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Angol</language>
+   <abstract>Ez itt az absztrakt helye.</abstract>
+   <comment>Ez meg a megjegyzés.</comment>
+   <administrative_comment>admin megjegyzés</administrative_comment>
+   <classifications>
+    <classification>
+     <type identifier="25">könyvrészlet</type>
+     <subtype identifier="10000398">könyvfejezet</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="25" page_to="30"/>
+   </length>
+   <container>
+    <container type="series">
+     <volume_title>Kötetcím</volume_title>
+     <volume_number>sor.kötet</volume_number>
+     <title_series>Sorozatcím</title_series>
+    </container>
+    <title>Könyv címe</title>
+    <shorttitle>Könyv alcíme</shorttitle>
+    <volume_number>Kötetszám</volume_number>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2004"/>
+    <language>Angol</language>
+    <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Akadémiai Kiadó</publisher>
+    <published city="Budapest" country="Magyarország"/>
+    <identifiers>
+     <identifier>2695805</identifier>
+     <identifier type="isbn">isbn44444444</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="23">könyv</type>
+      <subtype identifier="10000201">szakkönyv</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <authors>
+     <author>
+      <name first="Elek" last="Teszt" share="1">Teszt Elek</name>
+      <comment>MTO teszt</comment>
+      <identifiers>
+       <identifier type="Éles MTMT felület.">10023926</identifier>
+      </identifiers>
+     </author>
+    </authors>
+    <editors>
+     <editor>
+      <name first="Elek" last="Teszt" share="1">Teszt E</name>
+      <comment>MTO teszt</comment>
+      <identifiers>
+       <identifier type="Éles MTMT felület.">10023926</identifier>
+      </identifiers>
+      <institutes>
+       <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      </institutes>
+     </editor>
+    </editors>
+   </container>
+   <references>
+    <reference>Közleményben hivatkozott művek</reference>
+   </references>
+   <keywords>
+    <keyword>Test blanket module</keyword>
+   </keywords>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="kézi felvitel"/>
+    <owner>
+     <name first="Szmolyán" last="Mária"></name>
+     <comment>BME admin 5</comment>
+     <identifiers>
+      <identifier>10014110</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2013-11-13" time="11:29" login="mszmolyan"/>
+     <entry event="last-modified" date="2018-09-14" time="12:22"/>
+    </edited>
+    <independent independent-ok="not given">false</independent>
+    <language>Angol</language>
+    <foreign_only>false</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">14054731</identifier>
+     <identifier name="OSZK" identifier="3080975"/>
+     <identifier type="isbn">978-963-236-239-7</identifier>
+    </identifiers>
+    <title>Könyvrészlet címe</title>
+    <subtitle>Könyvrészlet alcíme</subtitle>
+    <comment>megjegyzés</comment>
+    <context>szövegkörnyezet</context>
+    <date year="2006"/>
+    <publisher city="Acapulco">kiadó</publisher>
+    <authors>
+     <author>
+      <name>Könyvrészlet idéző szerzője</name>
+     </author>
+    </authors>
+    <editors>
+     <editor>
+      <name>Sorozatszerkesztő</name>
+     </editor>
+     <editor>
+      <name>Könyv szerkesztője</name>
+     </editor>
+    </editors>
+    <length>
+     <entry page_from="3" page_to="5"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="25">könyvrészlet</type>
+     </classification>
+    </classifications>
+    <container>
+     <title>Könyv címe</title>
+     <container type="series">
+      <title_series>Sorozatcím</title_series>
+     </container>
+    </container>
+    <references/>
+   </citation>
+  </citations>
+ </record>
+
+</records>

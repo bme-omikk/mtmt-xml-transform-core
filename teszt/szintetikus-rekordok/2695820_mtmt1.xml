@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML version 2.3-->
+<!--Original version was created 01/04/2011 by Istvan Kollar and Peter Z. Csurcsia-->
+<!--Software version 2.7 1970.01.01 01:01 23/07/2013 redefined and modified by: MTMT-->
+<!--query: https://vm.mtmt.hu/www/index.php?mode=xml&DocumentID=2695820&Full=1 -->
+<!--MyCite: Éles MTMT felület. -->
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mycite.xsd">
+ <xsd_version>2.4.</xsd_version>
+
+<record>
+  <technical_data>
+   <filesource identifier="2695820" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <owner>
+    <name first="Teszt" last="Elek"/>
+    <comment>MTO teszt</comment>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">10023926</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2013"/>
+   <edited>
+    <entry event="created" date="2013-11-13" time="17:28" login="teszt-mto"/>
+    <entry event="last-modified" date="2015-10-21" time="12:14"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Elek" last="Teszt" share="0.4">Teszt E</name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10023926</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="szerző" last="Nem igazi" share="0.4">Nem igazi</name>
+     <comment>nincs</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10019163</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name share="0.2">Marton J</name>
+     <identifiers/>
+    </author>
+   </authors>
+   <editors/>
+   <title>Egyéb konferenciaközlemény címe</title>
+   <subtitle>Konf.közl alcíme</subtitle>
+   <date year="2009" from="2008-09-18" to="2008-09-20"/>
+   <identifiers>
+    <identifier name="PubMed" identifier="medline-id/konfkozl.1234"/>
+    <identifier name="Teljes dokumentum" identifier="http://budaipublikus.web.intra"/>
+    <identifier name="Egyéb URL" identifier="http://budaiwebcim.kiado.intra"/>
+    <identifier name="article identifier" identifier="Cikk száma"/>
+    <identifier type="url" name="publisher" public="false"></identifier>
+   </identifiers>
+   <language>Francia</language>
+   <abstract>absztrakt</abstract>
+   <comment>megjegyzés</comment>
+   <administrative_comment>admin megjegyzés</administrative_comment>
+   <organizer city="College Station (TX)" country="Amerikai Egyesült Államok">Texas A and M University</organizer>
+   <classifications>
+    <classification>
+     <type identifier="25">könyvrészlet</type>
+     <subtype identifier="10000312">konferenciaközlemény</subtype>
+     <character identifier="4">közérdekű</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="4"/>
+   </length>
+   <container>
+    <container type="series">
+     <subtitle>sorozati alcim</subtitle>
+     <volume_title>Kötetcím</volume_title>
+     <volume_number>sor.kötet</volume_number>
+     <title_series>Sorozatcím</title_series>
+    </container>
+    <title>Egyéb konferenciakötet címe</title>
+    <shorttitle>Konf.kötet alcíme</shorttitle>
+    <volume_number>Kötetszám</volume_number>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2009" from="2008-09-18" to="2008-09-20"/>
+    <language>Francia</language>
+    <location city="Budapest" country="Magyarország"/>
+    <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Agroinform Kiadó</publisher>
+    <published city="Aachen" country="Németország"/>
+    <organizer city="College Station (TX)" country="Amerikai Egyesült Államok">Texas A and M University</organizer>
+    <identifiers>
+     <identifier>2695819</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="23">könyv</type>
+      <subtype identifier="10000144">konferenciakötet</subtype>
+      <character identifier="4">közérdekű</character>
+     </classification>
+    </classifications>
+    <editors>
+     <editor>
+      <name first="szerző" last="Nem igazi" share="0.5">Nem igazi</name>
+      <comment>nincs</comment>
+      <identifiers>
+       <identifier type="Éles MTMT felület.">10019163</identifier>
+      </identifiers>
+      <institutes>
+       <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      </institutes>
+     </editor>
+     <editor>
+      <name first="Elek" last="Teszt" share="0.5">Teszt E</name>
+      <comment>MTO teszt</comment>
+      <identifiers>
+       <identifier type="Éles MTMT felület.">10023926</identifier>
+      </identifiers>
+      <institutes>
+       <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      </institutes>
+     </editor>
+    </editors>
+   </container>
+   <references>
+    <reference>Közleményben hivatkozott művek</reference>
+   </references>
+   <keywords>
+    <keyword>Testing biodegradation</keyword>
+   </keywords>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="WOS" year="2013"/>
+    <owner>
+     <name first="Teszt" last="Elek"></name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier>10023926</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2013-11-13" time="17:43" login="teszt-mto"/>
+     <entry event="last-modified" date="2014-10-02" time="11:52"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>false</foreign_only>
+    <published_abroad>false</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">14054739</identifier>
+     <identifier name="WoS" validator="J" identifier="000309369500007"/>
+     <identifier name="DOI" identifier="nemigazi.doi/idezokonfcikk.1234"/>
+     <identifier name="ScienceDirect" identifier="scidirect/idezokonfcikk"/>
+     <identifier name="Teljes dokumentum" identifier="http://publikus.web.intra"/>
+     <identifier name="Egyéb URL" validator="J" identifier="scopus-id/idezokonfcikk.1234"/>
+    </identifiers>
+    <title>Egyéb konferenciaközlemény idéző címe</title>
+    <subtitle>idéző alcíme</subtitle>
+    <comment>megjegyzés</comment>
+    <administrative_comment>admin megjegyzés</administrative_comment>
+    <volume>kötet</volume>
+    <context>szövegkörnyezet</context>
+    <date year="2012" from="2010-05-21" to="2010-05-23"/>
+    <publisher city="Washington">kiadó</publisher>
+    <organizer>felelős szervezet</organizer>
+    <location city="Denver, CO" country="Amerikai Egyesült Államok"/>
+    <authors>
+     <author>
+      <name>Egyéb konfközl idéző szerzője</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="55" page_to="64"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="31">egyéb konferenciaközlemény</type>
+     </classification>
+    </classifications>
+    <container>
+     <title>Idéző konferenciacíme</title>
+     <container type="series">
+      <title_series>Sociesorozatcím</title_series>
+     </container>
+    </container>
+    <references>
+     <reference>BALDWIN CT, 1977, PALAEOGEOGR PALAEOCL, V21, P273, DOI 10.1016/0031-0182(77)90039-6</reference>
+     <reference>Bergstrom J, 1973, FOSSILS STRATA, V2, P69</reference>
+     <reference>BIRKENMA.K, 1971, LETHAIA, V4, P303, DOI 10.1111/j.1502-3931.1971.tb01926.x</reference>
+     <reference>Blackwelder E, 1918, WASHINGTON ACAD SCI, V8, P417</reference>
+     <reference>Bottjer D. J., 2000, GSA TODAY, V10, P1</reference>
+     <reference>BOTTJER DJ, 1988, NATURE, V333, P252, DOI 10.1038/333252a0</reference>
+     <reference>BRANDT DS, 1995, J PALEONTOL, V69, P1079</reference>
+     <reference>Brandt DS, 2008, ICHNOS, V15, P28, DOI 10.1080/10420940701192898</reference>
+     <reference>BRETT CE, 1991, CYCLES AND EVENTS IN STRATIGRAPHY, P283</reference>
+     <reference>CRIMES TP, 1975, LETHAIA, V8, P35, DOI 10.1111/j.1502-3931.1975.tb00914.x</reference>
+     <reference>Dawson J, 1864, CANADIAN NATURALIST, V1, P363</reference>
+     <reference>Droser M, 1988, GEOLOGY, V17, P850</reference>
+     <reference>DROSER ML, 1986, J SEDIMENT PETROL, V56, P558</reference>
+     <reference>Fenton C. L., 1937, American Midland Naturalist, V18, P446, DOI 10.2307/2420585</reference>
+     <reference>Glaessner M. F., 1957, Palaeontologische Zeitschrift, V31, P103</reference>
+     <reference>Hagadorn JW, 1997, GEOLOGY, V25, P1047, DOI 10.1130/0091-7613(1997)025&lt;1047:WSMMSS&gt;2.3.CO;2</reference>
+     <reference>HALL J., 1852, NATURAL HIST NEW YOR, VII</reference>
+     <reference>Hanzschel W, 1975, TREATISE INVERT W S1, P101</reference>
+     <reference>Koucky F, 1963, PALEOZOIC ROCKS EXPO</reference>
+     <reference>Middleton L, 1980, THESIS U WYOMING LAR</reference>
+     <reference>Miller MF, 1997, PALAIOS, V12, P391, DOI 10.2307/3515338</reference>
+     <reference>Morgan D, 1998, KECK RES S GEOLOGY, V11, P275</reference>
+     <reference>Nathorst A, 1883, SOC GEOLIGIQUE FRA 3, V3, P452</reference>
+     <reference>Noffke N, 2002, PALAIOS, V17, P531, DOI 10.1669/0883-1351(2002)017&lt;0531:TCOGST&gt;2.0.CO;2</reference>
+     <reference>Noffke N, 2001, J SEDIMENT RES, V71, P649, DOI 10.1306/2DC4095D-0E47-11D7-8643000102C1865D</reference>
+     <reference>Osgood R. G., 1970, Palaeontogr. am. 6, V(41), P281</reference>
+     <reference>OSGOOD R G JR, 1975, Bulletins of American Paleontology, V67, P299</reference>
+     <reference>Porada H, 2008, PALAIOS, V23, P65, DOI 10.2110/palo.2006.p06-095r</reference>
+     <reference>Potter P.E., 1980, SEDIMENTOLOGY SHALE</reference>
+     <reference>RUNNEGAR B, 1982, J GEOL SOC AUST, V29, P395</reference>
+     <reference>Scholle P, 1979, COLOR ILLUSTRATED GU, V28</reference>
+     <reference>Seilacher A., 2007, TRACE FOSSIL ANAL</reference>
+     <reference>Seilacher A, 1959, NATURWISSENSCHAFTEN, V16, P389</reference>
+     <reference>Seilacher A., 1994, BIOSTABILIZATION SED, P97</reference>
+     <reference>Seilacher A, 1970, TRACE FOSSILS, V1, P447</reference>
+     <reference>SEILACHER A., 1955, AKAD WISSENSCHAFT MN, V10, P373</reference>
+     <reference>SEILACHER A, 1985, Transactions of the Royal Society of Edinburgh Earth Sciences, V76, P231</reference>
+     <reference>Sepkoski Jr J.J., 1982, CYCLIC EVENT STRATIF, P371</reference>
+     <reference>Whittington H.B., 1980, Palaeontology (Oxford), V23, P171</reference>
+    </references>
+   </citation>
+  </citations>
+ </record>
+
+</records>

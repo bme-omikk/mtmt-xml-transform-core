@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML version 2.3-->
+<!--Original version was created 01/04/2011 by Istvan Kollar and Peter Z. Csurcsia-->
+<!--Software version 2.7 1970.01.01 01:01 23/07/2013 redefined and modified by: MTMT-->
+<!--query: https://vm.mtmt.hu/www/index.php?mode=xml&DocumentID=2695819&Full=1 -->
+<!--MyCite: Éles MTMT felület. -->
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mycite.xsd">
+ <xsd_version>2.4.</xsd_version>
+
+<record>
+  <technical_data>
+   <filesource identifier="2695819" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <owner>
+    <name first="Teszt" last="Elek"/>
+    <comment>MTO teszt</comment>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">10023926</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2013"/>
+   <edited>
+    <entry event="created" date="2013-11-13" time="17:28" login="teszt-mto"/>
+    <entry event="last-modified" date="2015-10-21" time="12:14"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors/>
+   <editors>
+    <editor>
+     <name first="szerző" last="Nem igazi" share="0.5">Nem igazi</name>
+     <comment>nincs</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10019163</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </editor>
+    <editor>
+     <name first="Elek" last="Teszt" share="0.5">Teszt E</name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10023926</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </editor>
+   </editors>
+   <title>Egyéb konferenciakötet címe</title>
+   <subtitle>Konf.kötet alcíme</subtitle>
+   <volume>Kötetszám</volume>
+   <date year="2009" from="2008-09-18" to="2008-09-20"/>
+   <identifiers>
+    <identifier name="PubMed" identifier="medline-id/bbbbkonfkotet.1234"/>
+    <identifier name="IEEE Xplore" identifier="Budaiieeexplore/egyebkonfkotet"/>
+    <identifier name="Teljes dokumentum" identifier="http://budaipublikus.web.intra"/>
+    <identifier name="Egyéb URL" identifier="http://budaiwebcim.kiado.intra"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Francia</language>
+   <abstract>absztrakt</abstract>
+   <comment>megjegyzésBesorolás: Konferenciakötet</comment>
+   <administrative_comment>admin megjegyzés</administrative_comment>
+   <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Agroinform Kiadó</publisher>
+   <published city="Aachen" country="Németország"/>
+   <media>CD;Internet</media>
+   <organizer city="College Station (TX)" country="Amerikai Egyesült Államok">Texas A and M University</organizer>
+   <location city="Budapest" country="Magyarország"/>
+   <participation>Hazai</participation>
+   <classifications>
+    <classification>
+     <type identifier="23">könyv</type>
+     <subtype identifier="10000144">konferenciakötet</subtype>
+     <character identifier="4">közérdekű</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="100"/>
+   </length>
+   <container type="series">
+    <subtitle>sorozati alcim</subtitle>
+    <volume_title>Kötetcím</volume_title>
+    <volume_number>sor.kötet</volume_number>
+    <title_series>Sorozatcím</title_series>
+    <identifiers/>
+   </container>
+   <references>
+    <reference>Közleményben hivatkozott művek</reference>
+   </references>
+   <keywords>
+    <keyword>test power</keyword>
+   </keywords>
+  </publication>
+  <citations/>
+ </record>
+
+</records>

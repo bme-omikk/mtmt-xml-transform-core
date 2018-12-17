@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML version 2.3-->
+<!--Original version was created 01/04/2011 by Istvan Kollar and Peter Z. Csurcsia-->
+<!--Software version 2.7 1970.01.01 01:01 23/07/2013 redefined and modified by: MTMT-->
+<!--query: https://vm.mtmt.hu/www/index.php?mode=xml&DocumentID=2695818&Full=1 -->
+<!--MyCite: Éles MTMT felület. -->
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mycite.xsd">
+ <xsd_version>2.4.</xsd_version>
+
+<record>
+  <technical_data>
+   <filesource identifier="2695818" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <owner>
+    <name first="Teszt" last="Elek"/>
+    <comment>MTO teszt</comment>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">10023926</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2013"/>
+   <edited>
+    <entry event="created" date="2013-11-13" time="17:19" login="teszt-mto"/>
+    <entry event="last-modified" date="2017-05-29" time="22:26"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Elek" last="Teszt" share="1">Teszt E</name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10023926</identifier>
+     </identifiers>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Elek" last="Teszt" share="1">Teszt Elek</name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10023926</identifier>
+     </identifiers>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Egyéb címe</title>
+   <subtitle>Egyéb alcíme</subtitle>
+   <institutes for="document">
+    <institute identifier="119" share="1" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="Google scholar" identifier="googlescholat/egyeb1"/>
+    <identifier name="PubMed" identifier="medline-id/egyeb.1234"/>
+    <identifier name="Teljes dokumentum" identifier="http://publikus.web.intra"/>
+    <identifier name="Egyéb URL" identifier="http://webcim.kiado.intra"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Nem adható meg</language>
+   <abstract>Ez itt az absztrakt.</abstract>
+   <comment>megjegyzés</comment>
+   <administrative_comment>admin megjegyzés
+egyébből konvertálva
+részvétel jellege: 
+Szabad mező a publikáció leírására
+Szabad mező2
+Szabad mező3
+Szabad mező4
+Szabad mező5
+Szabad mező6
+megjegyzés
+Első oldal: 2
+Utolsó oldal: 6</administrative_comment>
+   <classifications>
+    <classification>
+     <type identifier="22">alkotás</type>
+     <subtype identifier="10000401">tér</subtype>
+     <character identifier="6">műszaki</character>
+    </classification>
+   </classifications>
+   <references>
+    <reference>Közleményben hivatkozott művek</reference>
+   </references>
+   <keywords>
+    <keyword>Testing</keyword>
+   </keywords>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="kézi felvitel" year="2013"/>
+    <owner>
+     <name first="Szmolyán" last="Mária"></name>
+     <comment>BME admin 5</comment>
+     <identifiers>
+      <identifier>10014110</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2013-11-13" time="17:39" login="mszmolyan"/>
+     <entry event="last-modified" date="2015-01-13" time="15:07"/>
+    </edited>
+    <independent independent-ok="not given">false</independent>
+    <language>Horvát</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">14054738</identifier>
+     <identifier name="DOI" identifier="nemigazi.doi/egyebidezo.1234"/>
+     <identifier name="Matarka" identifier="matarka/egyebidezo"/>
+     <identifier name="Teljes dokumentum" identifier="http://publikus.web.intra"/>
+     <identifier name="Egyéb URL" validator="J" identifier="scopus-id/egyebidezo.1234"/>
+     <identifier name="Egyéb URL" validator="J" identifier="WoS-UT/egyebidezo.1"/>
+    </identifiers>
+    <title>Egyéb idéző címe</title>
+    <subtitle>alcím</subtitle>
+    <comment>megjegyzés</comment>
+    <administrative_comment>admin megjegyzés</administrative_comment>
+    <context>szövegkörnyezet</context>
+    <date year="2008"/>
+    <authors>
+     <author>
+      <name>Egyéb idéző szerző</name>
+     </author>
+    </authors>
+    <classifications>
+     <classification>
+      <type identifier="29">egyéb</type>
+     </classification>
+    </classifications>
+    <references/>
+    <free_fields>
+     <free_field num="0">Szabad mező1</free_field>
+     <free_field num="1">Szabad mező2</free_field>
+     <free_field num="2">Szabad mező3</free_field>
+     <free_field num="3">Szabad mező4</free_field>
+    </free_fields>
+   </citation>
+  </citations>
+ </record>
+
+</records>

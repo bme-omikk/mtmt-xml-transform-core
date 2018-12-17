@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML version 2.3-->
+<!--Original version was created 01/04/2011 by Istvan Kollar and Peter Z. Csurcsia-->
+<!--Software version 2.7 1970.01.01 01:01 23/07/2013 redefined and modified by: MTMT-->
+<!--query: https://vm.mtmt.hu/www/index.php?mode=xml&DocumentID=2695821&Full=1 -->
+<!--MyCite: Éles MTMT felület. -->
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mycite.xsd">
+ <xsd_version>2.4.</xsd_version>
+
+<record>
+  <technical_data>
+   <filesource identifier="2695821" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <owner>
+    <name first="Teszt" last="Elek"/>
+    <comment>MTO teszt</comment>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">10023926</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2013"/>
+   <edited>
+    <entry event="created" date="2013-11-13" time="17:32" login="teszt-mto"/>
+    <entry event="last-modified" date="2014-06-23" time="19:04"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors/>
+   <editors>
+    <editor>
+     <name first="Elek" last="Teszt" share="0.5">Teszt Elek</name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10023926</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </editor>
+    <editor>
+     <name first="szerző" last="Nem igazi" share="0.5">Nem igazi</name>
+     <comment>nincs</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10019163</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="119" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </editor>
+   </editors>
+   <title>Egyéb konferenciakötet címe</title>
+   <subtitle>Konfkötet alcíme</subtitle>
+   <volume>kötetszám</volume>
+   <date year="1997" from="1997-03-15" to="1997-03-17"/>
+   <identifiers>
+    <identifier name="PubMed" identifier="medline-id/iiiikonfkotet.1234"/>
+    <identifier name="Amazon" identifier="amazon/konfkotetbbb"/>
+    <identifier name="Teljes dokumentum" identifier="http://kkkkkkkkpublikus.web.intra"/>
+    <identifier name="Egyéb URL" identifier="http://jjjjjjjwebcim.kiado.intra"/>
+    <identifier type="url" name="publisher" public="false"></identifier>
+   </identifiers>
+   <language>Eszperantó</language>
+   <abstract>absztrakt</abstract>
+   <comment>megjegyzés</comment>
+   <administrative_comment>admin megjegyzés</administrative_comment>
+   <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Balassi Kiadó</publisher>
+   <published city="Aggtelek" country="Magyarország"/>
+   <media>Nyomtatott kötet</media>
+   <organizer city="College Station (TX)" country="Amerikai Egyesült Államok">Texas A and M University</organizer>
+   <location city="Glasgow" country="Egyesült Királyság / Anglia"/>
+   <participation>Nemzetközi</participation>
+   <classifications>
+    <classification>
+     <type identifier="23">könyv</type>
+     <subtype identifier="10000144">konferenciakötet</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="200"/>
+   </length>
+   <container type="series">
+    <subtitle>Sorozat alcím</subtitle>
+    <volume_title>Kötetcím</volume_title>
+    <volume_number>sor.kötet</volume_number>
+    <title_series>Sorozatcím</title_series>
+    <identifiers/>
+   </container>
+   <references>
+    <reference>Közleményben hivatkozott művek</reference>
+   </references>
+   <keywords>
+    <keyword>Test selection</keyword>
+   </keywords>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="RIS" year="2013"/>
+    <owner>
+     <name first="Teszt" last="Elek"></name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier>10023926</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2013-11-13" time="17:56" login="teszt-mto"/>
+     <entry event="last-modified" date="2014-10-02" time="11:52"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>not given</foreign_only>
+    <published_abroad>false</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">14054740</identifier>
+     <identifier name="Scopus" validator="J" identifier="0032287366"/>
+     <identifier name="DOI" identifier="nemigazi.doi/konfcikk.1234"/>
+     <identifier name="Google scholar" identifier="googlescholar/idezokonfcikk"/>
+     <identifier name="Teljes dokumentum" identifier="http://publikus.web.intra"/>
+     <identifier name="Egyéb URL" validator="J" identifier="WoS-UT/konfcikkt.1"/>
+     <identifier name="article identifier" identifier="cikkazonosító"/>
+    </identifiers>
+    <title>Idezo konfcikk cime</title>
+    <subtitle>konfcikk alcime</subtitle>
+    <comment>megjegyzés</comment>
+    <administrative_comment>admin megjegyzés</administrative_comment>
+    <volume>kötet</volume>
+    <context>szövegkörnyezet</context>
+    <date year="1998" from="1998-02-10" to="1998-02-12"/>
+    <publisher city="kiadás helye">Kiadó</publisher>
+    <organizer>felelős szervezet</organizer>
+    <location city="Santiago" country="Chile"/>
+    <authors>
+     <author>
+      <name>Idezo konfcikk szerzoje</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_number="8"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="31">egyéb konferenciaközlemény</type>
+     </classification>
+    </classifications>
+    <container>
+     <title>Idéző konferenciacíme</title>
+     <container type="series">
+      <title_series>Sorozatcím</title_series>
+     </container>
+    </container>
+    <references>
+     <reference>Közleményben hivatkozott művek</reference>
+    </references>
+   </citation>
+  </citations>
+ </record>
+
+</records>
