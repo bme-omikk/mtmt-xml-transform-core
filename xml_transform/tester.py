@@ -3,7 +3,7 @@ import lxml.etree as ET
 from os import listdir, path
 from xmldiff import main, formatting
 
-from transform import transform
+from transform import transform, is_valid
 
 xml_declaration_props = dict(xml_declaration=True, encoding='UTF-8', standalone=True)
 
@@ -35,7 +35,8 @@ def run_one(original_xml_path, expected_xml_path):
     #diff = main.diff_trees(transformed_xml, expected_xml, formatter=formatting.XMLFormatter())
     #print(diff)
     print(transformed_xml_str)
-    print(original_xml_path, text_diff_ratio)
+    validation_error = '' if is_valid(transformed_xml) else '!'
+    print(original_xml_path, text_diff_ratio, validation_error)
 
 
 if __name__ == '__main__':
