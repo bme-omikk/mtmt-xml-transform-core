@@ -5,6 +5,8 @@ from xmldiff import main, formatting
 
 from transform import transform
 
+xml_declaration_props = dict(xml_declaration=True, encoding='UTF-8', standalone=True)
+
 def run_all(data_path='../teszt/szintetikus-rekordok'):
     if not path.exists(data_path):
         raise ValueError('%s path does not exists.')
@@ -22,7 +24,9 @@ def run_all(data_path='../teszt/szintetikus-rekordok'):
 
 def run_one(original_xml_path, expected_xml_path):
     transformed_xml = transform(original_xml_path)
-    transformed_xml_str = ET.tostring(transformed_xml, pretty_print=True)
+    transformed_xml_str = ET.tostring(transformed_xml, pretty_print=True, **xml_declaration_props)
+    with open(original_xml_path.replace('.xml', '_converted.xml'), 'wb') as f:
+        f.write(transformed_xml_str)
 
     expected_xml = ET.parse(expected_xml_path)
     expected_xml_str = ET.tostring(expected_xml, pretty_print=True)
