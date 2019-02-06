@@ -1,0 +1,3260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML version 2.3-->
+<!--Original version was created 01/04/2011 by Istvan Kollar and Peter Z. Csurcsia-->
+<!--Software version 2.7 1970.01.01 01:01 23/07/2013 redefined and modified by: MTMT-->
+<!--query: https://vm.mtmt.hu/www/index.php?AuthorID=10040961&mode=xml&Full=1 -->
+<!--MyCite: Éles MTMT felület. -->
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mycite.xsd">
+ <xsd_version>2.4.</xsd_version>
+
+<record>
+  <technical_data>
+   <filesource identifier="2605294" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2014-01-20T09:05:58+00:00">
+    <name first="Budai" last="Erzsébet"></name>
+    <comment>BME admin - INAKTÍV</comment>
+    <identifiers>
+     <identifier>10014103</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel"/>
+   <edited>
+    <entry event="created" date="2007-06-20" time="00:00" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2018-09-12" time="22:22"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="1">Marton József Ernő</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Memóriarezidens adatbáziskezelés TimesTen-nel</title>
+   <date year="2007" from="2007-04-17" to="2007-04-20"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="Egyéb URL" identifier="http://www.houg.hu/pls/apex/houg.download_my_file?p_file=3928023362572216"/>
+    <identifier name="article identifier" identifier="w2"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <organizer city="Ócsa" country="Magyarország">Oracle Magyarország Kft.</organizer>
+   <classifications>
+    <classification>
+     <type identifier="31">egyéb konferenciaközlemény</type>
+     <subtype identifier="10000197">konferenciaközlemény</subtype>
+     <character identifier="3">ismeretterjesztő</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="30"/>
+   </length>
+   <container>
+    <title>HOUG Konferencia 2007</title>
+    <shorttitle>Hungarian Oracle Users Group Meeting</shorttitle>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2007" from="2007-04-17" to="2007-04-20"/>
+    <language>Magyar</language>
+    <location city="Siófok" country="Magyarország"/>
+    <identifiers>
+     <identifier>2605293</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="32">egyéb konferenciakötet</type>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+   </container>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2605295" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2014-01-20T09:05:58+00:00">
+    <name first="Budai" last="Erzsébet"></name>
+    <comment>BME admin - INAKTÍV</comment>
+    <identifiers>
+     <identifier>10014103</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel"/>
+   <edited>
+    <entry event="created" date="2007-06-20" time="00:00" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2018-09-12" time="22:22"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Anikó" last="Ézsiás" share="0.333333333333">Ézsiás Anikó</name>
+     <comment>könyvtártudomány</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10041896</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="József" last="Marton" share="0.333333333333">Marton József Ernő</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Elemér Károly" last="Nagy" share="0.333333333333">Nagy Elemér Károly</name>
+     <comment>Informatika</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10030228</identifier>
+      <identifier type="lista">BOLYAI</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Személyessé tett olvasójegyek költséghatékony bevezetése</title>
+   <volume>54</volume>
+   <issue>8</issue>
+   <date year="2007"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="Egyéb URL" identifier="tmt.omikk.bme.hu/show_news.html?id=4769&amp;issue_id=485"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <classifications>
+    <classification>
+     <type identifier="24">folyóiratcikk</type>
+     <subtype identifier="10000059">szakcikk</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="373" page_to="376"/>
+   </length>
+   <container>
+    <title>TUDOMÁNYOS ÉS MŰSZAKI TÁJÉKOZTATÁS</title>
+    <shorttitle>TMT</shorttitle>
+    <peerreviewed>true</peerreviewed>
+    <published_abroad>false</published_abroad>
+    <identifiers>
+     <identifier type="issn">0041-3917</identifier>
+     <identifier type="eissn">1586-2984</identifier>
+     <identifier name="link" type="url">https://tmt.omikk.bme.hu/tmt/about/impressum</identifier>
+    </identifiers>
+   </container>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2613006" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel"/>
+   <edited>
+    <entry event="created" date="2008-02-17" time="00:00" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2018-09-12" time="22:22"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="1">Marton József Ernő</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Memóriaadatbázisok és alkalmazásuk</title>
+   <free_fields>
+    <free_field num="0">terjedelem: 36 p.</free_field>
+   </free_fields>
+   <date year="2006"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <classifications>
+    <classification>
+     <type identifier="29">egyéb</type>
+     <subtype identifier="10000221">diplomamunka, szakdolgozat, tdk dolgozat</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2613007" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2014-01-20T09:05:58+00:00">
+    <name first="Budai" last="Erzsébet"></name>
+    <comment>BME admin - INAKTÍV</comment>
+    <identifiers>
+     <identifier>10014103</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel"/>
+   <edited>
+    <entry event="created" date="2008-02-17" time="00:00" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2018-09-12" time="22:22"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="1">Marton József Ernő</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Memóriadatbázis-kezelők és alkalmazásaik</title>
+   <free_fields>
+    <free_field num="0">terjedelem: 77 p.</free_field>
+   </free_fields>
+   <date year="2007"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <abstract>A memóriarezidens adatbázis-kezelők a félvezető technológia fejlődésének és a félvezető memóriák árának jelentős csökkenésének eredményeképpen kiléptek a kutatólaboratóriumokból az adatbázis-kezelők piacára. Nagy teljesítményük a legnagyobb adatbázisok és adattárházak számára is rendelkezésre áll.&#13;
+A MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság (MAVIR Zrt.) különböző rendszereiben keletkező, rendkívül nagy mennyiségű mérési adat központi, szemantikailag integrált tárolására rendelte meg az AppDB applikációs adatbázis rendszert. A 2006-os év folyamán elkészült a rendszer terve, amelyet az implementáció, majd a továbbfejlesztési koncepció követett. Az elkészült rendszer mérések alapján a specifikált teljesítmény mintegy 5 %-át volt képes nyújtani.&#13;
+Jelen diplomaterv dolgozatban megvizsgáltam a rendszertervet és a továbbfejlesztési koncepciót a specifikáció és a közölt teljesítményadatok tükrében.&#13;
+A specifikáció teljesítésére három alternatívát dolgoztam ki, melyek teljesítményét az AppDB adatbázisműveleteinek összetétele alapján mértem.&#13;
+Az első változat az Oracle 10g diszkrezidens adatbáziskezelőre épül, mellyel a specifikált teljesítmény mintegy 10 %-át sikerült elérni. A második változat az Oracle TimesTen 7 memóriarezidens adatbázis-kezelőre épül, és az elvárt teljesítmény 22 %-át képes megvalósítani a méréseim szerint. A harmadik változat az előbbi diszkrezidens és memóriarezidens adatbázis-kezelők együttesére, particionált adatbázisra épül, amelyen szintén a specifikált teljesítmény 22 %-át mértem. A három változat közül komplex (gazdasági, üzemeltetéstechnikai, fejlesztési, teljesítmény) szempontrendszer alapján a harmadik változatot ítéltem a legjobbnak.&#13;
+Az Oracle TimesTen jelenleg nem támogatja a PL/SQL eljárások futtatását, ezért kidolgoztam egy javaslatot a TimesTen lehetőségeit a lehető legjobban kihasználó PL/SQL migrációra.&#13;
+A PL/SQL migrációs javaslatomra és a kiválasztott változatra épülve részletes javaslatot tettem az AppDB továbbfejlesztésére. Úgy gondolom, hogy az eredeti változathoz képest mintegy 440 %-os teljesítményű megoldásra építve lehet és érdemes építeni az AppDB továbbfejlesztett változatát.</abstract>
+   <classifications>
+    <classification>
+     <type identifier="29">egyéb</type>
+     <subtype identifier="10000221">diplomamunka, szakdolgozat, tdk dolgozat</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2617447" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2017-10-09T17:09:15+00:00">
+    <name first="Szmolyán" last="Mária"></name>
+    <comment>BME 4 admin</comment>
+    <identifiers>
+     <identifier>10039288</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Nagy" last="Elemér Károly"/>
+    <comment>Informatika</comment>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">10030228</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel"/>
+   <edited>
+    <entry event="created" date="2008-04-03" time="00:00" login="eknagy@omikk.bme.hu"/>
+    <entry event="last-modified" date="2018-09-12" time="22:22"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Elemér Károly" last="Nagy" share="0.5">Nagy Elemér Károly</name>
+     <comment>Informatika</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10030228</identifier>
+      <identifier type="lista">BOLYAI</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="József" last="Marton" share="0.5">Marton József Ernő</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Egy egyszerű, gyors és szabad újratelepítő eszköz: uPi</title>
+   <subtitle>A simple, fast and free reinstaller: uPi</subtitle>
+   <date year="2006" from="2006-04-19" to="2006-04-21"/>
+   <identifiers>
+    <identifier name="Teljes dokumentum" identifier="http://nws.niif.hu/ncd2006/docs/ehu/030.pdf"/>
+    <identifier name="Egyéb URL" identifier="https://vod.niif.hu/nws2006/1085"/>
+    <identifier name="article identifier" identifier="30"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <classifications>
+    <classification>
+     <type identifier="31">egyéb konferenciaközlemény</type>
+     <subtype identifier="10000197">konferenciaközlemény</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="3"/>
+   </length>
+   <container>
+    <title>Networkshop 2006</title>
+    <shorttitle>Miskolci Egyetem, Miskolc, 2006. április 19 - április 21. : tutoriálok, 2006. április 18. : konferencia anyag</shorttitle>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2006" from="2006-04-19" to="2006-04-21"/>
+    <language>Magyar és angol</language>
+    <location city="Miskolc" country="Magyarország"/>
+    <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Nemzeti Információs Infrastruktúra Fejlesztési Iroda</publisher>
+    <published city="Budapest" country="Magyarország"/>
+    <identifiers>
+     <identifier>1252257</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="32">egyéb konferenciakötet</type>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <authors>
+     <author>
+      <name first="Tibor" last="Koltay" share="1">Koltay T</name>
+      <comment>Alkalmazott nyelvészet, könyvtár- és információtudomány, Médiatudomány, Pedagógia</comment>
+      <identifiers>
+       <identifier type="MTA ID">10027926</identifier>
+       <identifier type="ResearcherID">A-5595-2013</identifier>
+       <identifier type="Scopus ID">6505905944</identifier>
+       <identifier type="Honlap">https://koltaytibor.uni-eszterhazy.hu/</identifier>
+       <identifier type="Homepage">https://koltaytibor.uni-eszterhazy.hu/en</identifier>
+       <identifier type="ORCID">0000-0003-0548-7527</identifier>
+       <identifier type="Éles MTMT felület.">10001482</identifier>
+      </identifiers>
+     </author>
+    </authors>
+   </container>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2617459" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2018-09-28T11:26:48+00:00">
+    <name first="Szmolyán" last="Mária"></name>
+    <comment>BME 4 admin</comment>
+    <identifiers>
+     <identifier>10039288</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Nagy" last="Elemér Károly"/>
+    <comment>Informatika</comment>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">10030228</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel"/>
+   <edited>
+    <entry event="created" date="2008-04-03" time="00:00" login="eknagy@omikk.bme.hu"/>
+    <entry event="last-modified" date="2018-09-28" time="11:26"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Elemér Károly" last="Nagy" share="0.75">Nagy Elemér Károly</name>
+     <comment>Informatika</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10030228</identifier>
+      <identifier type="lista">BOLYAI</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="József" last="Marton" share="0.25">Marton József Ernő</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Egy jelentés-adattárház: Lila Cinege</title>
+   <date year="2007" from="2007-04-11" to="2007-03-13"/>
+   <identifiers>
+    <identifier name="Teljes dokumentum" identifier="http://nws.niif.hu/ncd2007/index.htm"/>
+    <identifier name="Egyéb URL" identifier="https://niif.videotorium.hu/hu/recordings/1784/egy-jelentes-tarhaz-lila-cinege"/>
+    <identifier name="article identifier" identifier="27"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <classifications>
+    <classification>
+     <type identifier="31">egyéb konferenciaközlemény</type>
+     <subtype identifier="10000197">konferenciaközlemény</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="4"/>
+   </length>
+   <container>
+    <title>Networkshop 2007 Konferencia. Eger CD-ROM Kiadvány, NIIF 2007.</title>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2007" from="2007-04-11" to="2007-03-13"/>
+    <language>Magyar</language>
+    <location city="Eger" country="Magyarország"/>
+    <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Nemzeti Információs Infrastruktúra Fejlesztési Intézet (NIIFI)</publisher>
+    <published city="Budapest" country="Magyarország"/>
+    <identifiers>
+     <identifier>1211100</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="32">egyéb konferenciakötet</type>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+   </container>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="kézi felvitel"/>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2008-08-21" time="00:00" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2018-09-14" time="12:21"/>
+    </edited>
+    <independent independent-ok="not given">false</independent>
+    <language>Magyar</language>
+    <foreign_only>false</foreign_only>
+    <published_abroad>false</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">13942510</identifier>
+    </identifiers>
+    <title>Statisztikai és döntéstámogató riportok Lila Cinege alapon</title>
+    <date year="2008" from="2008-03-17" to="2008-03-19"/>
+    <organizer>NIIF - Nemzeti Információs Infrastruktúra Fejlesztési Intézet</organizer>
+    <location city="Dunaújváros" country="Magyarország"/>
+    <authors>
+     <author>
+      <name>Ézsiás Anikó</name>
+     </author>
+     <author>
+      <name>Marton József Ernő</name>
+     </author>
+     <author>
+      <name>Nagy Elemér Károly</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="1" page_to="5"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="31">egyéb konferenciaközlemény</type>
+     </classification>
+    </classifications>
+    <container>
+     <title>Networkshop 2008</title>
+    </container>
+    <references/>
+   </citation>
+  </citations>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2617461" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2018-09-28T11:25:35+00:00">
+    <name first="Szmolyán" last="Mária"></name>
+    <comment>BME 4 admin</comment>
+    <identifiers>
+     <identifier>10039288</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Nagy" last="Elemér Károly"/>
+    <comment>Informatika</comment>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">10030228</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel"/>
+   <edited>
+    <entry event="created" date="2008-04-03" time="00:00" login="eknagy@omikk.bme.hu"/>
+    <entry event="last-modified" date="2018-09-28" time="11:25"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Elemér Károly" last="Nagy" share="0.33333333333333337">Nagy Elemér Károly</name>
+     <comment>Informatika</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10030228</identifier>
+      <identifier type="lista">BOLYAI</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="József" last="Marton" share="0.33333333333333337">Marton József Ernő</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Anikó" last="Ézsiás" share="0.33333333333333337">Ézsiás Anikó</name>
+     <comment>könyvtártudomány</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10041896</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Személyessé tett olvasójegyek költséghatékony bevezetése</title>
+   <date year="2007" from="2007-04-11" to="2007-03-13"/>
+   <identifiers>
+    <identifier name="Teljes dokumentum" identifier="http://nws.niif.hu/ncd2007/index.htm"/>
+    <identifier name="Egyéb URL" identifier="http://nws.niif.hu/ncd2007/docs/ehu/026.pdf"/>
+    <identifier name="article identifier" identifier="e26"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <classifications>
+    <classification>
+     <type identifier="31">egyéb konferenciaközlemény</type>
+     <subtype identifier="10000197">konferenciaközlemény</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="7"/>
+   </length>
+   <container>
+    <title>Networkshop 2007 Konferencia. Eger CD-ROM Kiadvány, NIIF 2007.</title>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2007" from="2007-04-11" to="2007-03-13"/>
+    <language>Magyar</language>
+    <location city="Eger" country="Magyarország"/>
+    <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Nemzeti Információs Infrastruktúra Fejlesztési Intézet (NIIFI)</publisher>
+    <published city="Budapest" country="Magyarország"/>
+    <identifiers>
+     <identifier>1211100</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="32">egyéb konferenciakötet</type>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+   </container>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2620064" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2014-01-20T09:05:58+00:00">
+    <name first="Budai" last="Erzsébet"></name>
+    <comment>BME admin - INAKTÍV</comment>
+    <identifiers>
+     <identifier>10014103</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2008"/>
+   <edited>
+    <entry event="created" date="2008-05-16" time="00:00" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2017-10-09" time="17:00"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Anikó" last="Ézsiás" share="0.333333333333333">Ézsiás Anikó</name>
+     <comment>könyvtártudomány</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10041896</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="József" last="Marton" share="0.333333333333333">Marton József Ernő</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Elemér Károly" last="Nagy" share="0.333333333333333">Nagy Elemér Károly</name>
+     <comment>Informatika</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10030228</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Statisztikai és döntéstámogató riportok Lila Cinege alapon</title>
+   <date year="2008" from="2008-03-17" to="2008-03-19"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="Teljes dokumentum" identifier="http://nws.niif.hu/ncd2008/docs/ehu/009.pdf"/>
+    <identifier name="Egyéb URL" identifier="https://vod.niif.hu/nws2008/73"/>
+    <identifier name="article identifier" identifier="9"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <organizer city="Dunaújváros" country="Magyarország">Dunaújvárosi Főiskola (DF)</organizer>
+   <classifications>
+    <classification>
+     <type identifier="31">egyéb konferenciaközlemény</type>
+     <subtype identifier="10000197">konferenciaközlemény</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="5"/>
+   </length>
+   <container>
+    <title>Networkshop 2008 17. Országos Konferencia</title>
+    <shorttitle>Előadás kivonatok</shorttitle>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2008" from="2008-03-17" to="2008-03-19"/>
+    <language>Magyar</language>
+    <location city="Dunaújváros" country="Magyarország"/>
+    <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Nemzeti Információs Infrastrukúra Fejlesztési Program Iroda</publisher>
+    <published city="Dunaújváros" country="Magyarország"/>
+    <identifiers>
+     <identifier>2620063</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="32">egyéb konferenciakötet</type>
+      <character identifier="2">nem besorolt jellegű</character>
+     </classification>
+    </classifications>
+   </container>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2624869" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2014-01-20T09:05:58+00:00">
+    <name first="Budai" last="Erzsébet"></name>
+    <comment>BME admin - INAKTÍV</comment>
+    <identifiers>
+     <identifier>10014103</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2008"/>
+   <edited>
+    <entry event="created" date="2008-08-21" time="00:00" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2017-07-19" time="23:45"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="0.5">József Marton</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Sándor" last="Gajdos" share="0.5">Sándor Gajdos</name>
+     <comment>Adatbázisok</comment>
+     <identifiers>
+      <identifier type="Neptun ID">EJV2AB</identifier>
+      <identifier type="ORCID">0000-0002-0424-2168</identifier>
+      <identifier type="Éles MTMT felület.">10002848</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>In-memory Preprocessing of Streaming Sensory Data</title>
+   <subtitle>Partitioned Relational Database Approach</subtitle>
+   <date year="2008" from="2008-07-02" to="2008-07-05"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Angol</language>
+   <comment>Best Talk of the Session: Distributed Solutions</comment>
+   <classifications>
+    <classification>
+     <type identifier="31">egyéb konferenciaközlemény</type>
+     <subtype identifier="10000197">konferenciaközlemény</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="40" page_to="41"/>
+   </length>
+   <container>
+    <title>Proceedings of the Sixth Conference of PhD Students in Computer Science (CSCS'08)</title>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2008" from="2008-07-02" to="2008-07-05"/>
+    <language>Angol</language>
+    <location city="Szeged" country="Magyarország"/>
+    <published city="Szeged" country="Magyarország"/>
+    <identifiers>
+     <identifier>1781656</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="32">egyéb konferenciakötet</type>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+   </container>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2644492" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2018-09-28T11:23:21+00:00">
+    <name first="Szmolyán" last="Mária"></name>
+    <comment>BME 4 admin</comment>
+    <identifiers>
+     <identifier>10039288</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2009"/>
+   <edited>
+    <entry event="created" date="2009-05-19" time="00:00" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2018-09-28" time="11:23"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="0.5">Marton József</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Mária" last="Prokné Palik" share="0.5">Prokné Palik Mária</name>
+     <comment>könyvtártudomány</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10042319</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Adatbázis transzformáció alapú kereshetőségjavítása</title>
+   <subtitle>ETO-kereshetőség a BME OMIKK Aleph rendszerében</subtitle>
+   <volume>56</volume>
+   <issue>2</issue>
+   <date year="2009"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="Teljes dokumentum" identifier="http://tmt.omikk.bme.hu/show_news.html?id=5057&amp;issue_id=501"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <classifications>
+    <classification>
+     <type identifier="24">folyóiratcikk</type>
+     <subtype identifier="10000059">szakcikk</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="65" page_to="77" page_number="13"/>
+   </length>
+   <container>
+    <title>TUDOMÁNYOS ÉS MŰSZAKI TÁJÉKOZTATÁS</title>
+    <shorttitle>TMT</shorttitle>
+    <peerreviewed>true</peerreviewed>
+    <published_abroad>false</published_abroad>
+    <identifiers>
+     <identifier type="issn">0041-3917</identifier>
+     <identifier type="eissn">1586-2984</identifier>
+     <identifier name="link" type="url">https://tmt.omikk.bme.hu/tmt/about/impressum</identifier>
+    </identifiers>
+   </container>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="kézi felvitel"/>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2015-01-23" time="21:16" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2015-03-24" time="17:27"/>
+    </edited>
+    <independent independent-ok="false">true</independent>
+    <language>Magyar</language>
+    <foreign_only>false</foreign_only>
+    <published_abroad>false</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">14446573</identifier>
+    </identifiers>
+    <title>Régi ETO, új ETO</title>
+    <volume>57</volume>
+    <issue>2</issue>
+    <date year="2011"/>
+    <authors>
+     <author>
+      <name>Mándy Gábor</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="317" page_to="332" page_number="16"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>KÖNYVTÁRI FIGYELŐ</title>
+     <identifiers>
+      <identifier type="issn">0023-3773</identifier>
+     </identifiers>
+    </container>
+    <references/>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="kézi felvitel"/>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-04-18" time="16:58" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2018-04-18" time="16:58"/>
+    </edited>
+    <independent independent-ok="not given">false</independent>
+    <language>Magyar</language>
+    <foreign_only>false</foreign_only>
+    <published_abroad>false</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17311271</identifier>
+    </identifiers>
+    <title>Google vs. ETO</title>
+    <volume>60</volume>
+    <issue>6</issue>
+    <date year="2013"/>
+    <authors>
+     <author>
+      <name>Prokné Palik Mária</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="243" page_to="273" page_number="31"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>TUDOMÁNYOS ÉS MŰSZAKI TÁJÉKOZTATÁS</title>
+     <identifiers>
+      <identifier type="issn">0041-3917</identifier>
+      <identifier type="eissn">1586-2984</identifier>
+     </identifiers>
+    </container>
+    <references/>
+   </citation>
+  </citations>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2651802" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2018-09-28T11:22:58+00:00">
+    <name first="Szmolyán" last="Mária"></name>
+    <comment>BME 4 admin</comment>
+    <identifiers>
+     <identifier>10039288</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2010"/>
+   <edited>
+    <entry event="created" date="2010-02-08" time="00:00" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2018-09-28" time="11:22"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="0.3333333333333333">József Marton</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Zsolt Tivadar" last="Kardkovács" share="0.3333333333333333">Zsolt T Kardkovács</name>
+     <comment>Műszaki informatika</comment>
+     <identifiers>
+      <identifier type="Scopus ID">8881974300</identifier>
+      <identifier type="Honlap">http://u1research.org/kardkovacs/</identifier>
+      <identifier type="Homepage">http://u1research.org/kardkovacs/</identifier>
+      <identifier type="Éles MTMT felület.">10041215</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="12515" parent="12513" direct="direct" abbreviation="SZT">Számítástudományi Tanszék</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      <institute identifier="12513" parent="12494" abbreviation="Inf. I.">Informatikai Intézet</institute>
+      <institute identifier="12494" parent="115" abbreviation="GK">Gazdálkodástudományi Kar</institute>
+      <institute identifier="115" abbreviation="BCE">Budapesti Corvinus Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name share="0.3333333333333333">Péter Éberhardt</name>
+     <identifiers/>
+    </author>
+   </authors>
+   <editors/>
+   <title>Cost Model for Near Real-time Recommender Systems</title>
+   <date year="2009" from="2009-11-12" to="2009-11-14"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="Scopus" identifier="84883119792"/>
+    <identifier name="Teljes dokumentum" identifier="http://conf.uni-obuda.hu/cinti2009/37_cinti2009_submission.pdf"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Angol</language>
+   <classifications>
+    <classification>
+     <type identifier="25">könyvrészlet</type>
+     <subtype identifier="10000312">konferenciaközlemény</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="413" page_to="422" page_number="10"/>
+   </length>
+   <container>
+    <title>10th International Symposium of Hungarian Researchers on Computational Intelligence and Informatics : CINTI 2009</title>
+    <shorttitle>Magyar Kutatók 10. Nemzetközi Szimpóziuma</shorttitle>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <length>
+     <entry page_number="832"/>
+    </length>
+    <date year="2009" from="2009-11-12" to="2009-11-14"/>
+    <language>Angol</language>
+    <location city="Budapest" country="Magyarország"/>
+    <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Budapesti Műszaki Főiskola; Magyar Fuzzy Társaság</publisher>
+    <published city="Budapest" country="Magyarország"/>
+    <identifiers>
+     <identifier>1822960</identifier>
+     <identifier type="isbn">978-963-7154-96-6</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="23">könyv</type>
+      <subtype identifier="10000144">konferenciakötet</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <editors>
+     <editor>
+      <name share="1">Anikó Szakál</name>
+      <identifiers/>
+     </editor>
+    </editors>
+   </container>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2652738" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2014-01-20T09:05:58+00:00">
+    <name first="Budai" last="Erzsébet"></name>
+    <comment>BME admin - INAKTÍV</comment>
+    <identifiers>
+     <identifier>10014103</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2010"/>
+   <edited>
+    <entry event="created" date="2010-03-01" time="00:00" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2014-06-23" time="19:04"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="0.5">Marton József Ernő</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Elemér Károly" last="Nagy" share="0.5">Nagy Elemér Károly</name>
+     <comment>Informatika</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10030228</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Könyvtári szervervirtualizáció Oracle Virtual Machine platformon, avagy a virtualizáció licenszgazdálkodásra is használható?</title>
+   <free_fields>
+    <free_field num="0">Előadás száma: 073</free_field>
+    <free_field num="1">Kulcsszavak: virtualizáció, licensz, gazdálkodás</free_field>
+    <free_field num="2">English title: Server virtualization in the library using Oracle Virtual Machine: does x86 virtualization even support saving on software licence fees</free_field>
+    <free_field num="3">In: Networkshop 2009. Szeged, Magyarország, 2009.04.15-2009.04.17. (NIIF - Nemzeti Információs Infrastruktúra Fejlesztési Intézet)</free_field>
+    <free_field num="4">Szekció: Alkalmazásfejlesztési és üzemeltetési technológiák</free_field>
+   </free_fields>
+   <date year="2009"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="Teljes dokumentum" identifier="nws.niif.hu/ncd2009/docs/0nj/nj73.htm"/>
+    <identifier name="Egyéb URL" identifier="vod.niif.hu/nws2009/1121/1121_1M.wmv"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <abstract>It is more than a half year now that BME OMIKK's use of Oracle Virtual Machine (OVM) turned into production phase. We're running Aleph integrated library management system on the OVM platform. We're going to introduce our motivation to move to this virtualization platform, present its infrastructural needs, compromises we have made and the operational experiences we have gained.&#13;
+&#13;
+In general, motivation for virtualization include more efficient hardware and operational resource utilisation, isolation of different applications etc. In some cases also savings on licence fees can be achieved using some virtualization platform. There's no free lunch, but the cost we nowdays need to pay is not that much in the sense of processing performance. Due to the hardware-supported virtualization in today's x86 64 CPUs virtualization upon moderated cost hardware can give comparable performance to native environments. Ensuring low-level isolation is not an option any more: it is by default available.&#13;
+&#13;
+----&gt;%--------------&gt;%---------------&#13;
+&#13;
+&#13;
+A BME OMIKK-ban az Aleph könyvtári információs rendszer több, mint fél éve éles üzemben az Oracle Virtual Machine (OVM) virtualizációs környezetében fut. Előadásunkban bemutatjuk az OVM virtualizációs platform bevezetésének motivációit, infrastrukturális igényeit, a megkötött kompromisszumokat és az üzemeltetési tapasztalatokat.&#13;
+&#13;
+A virtualizációs rendszerek bevezetésének általános motivációi (a hardveres és üzemeltetői erőforrások hatékonyabb kihasználása, alkalmazások izolációja stb.) mellett a megoldás új lehetőséget is kínál: bizonyos esetekben szoftverlicensz költségek is jelentősen csökkenthetőek virtualizált környezet felépítésével. Mindezért ma már nem kell komoly árat fizetnünk a teljesítmény csökkenésében. A hardveres támogatásnak köszönhetően a natív környezetbeli futtatással összemérhető teljesítmény is elérhető úgy, hogy az egyes környezetek izolációja alacsony rétegben biztosított.</abstract>
+   <comment>Korábbi besorolás (2014-05-16-ig): Egyéb/Előadás</comment>
+   <administrative_comment>##besorolas#volt:Egyéb/Előadás#lett:Egyéb/Nem besorolt#2014-05-16#jmarton##</administrative_comment>
+   <classifications>
+    <classification>
+     <type identifier="29">egyéb</type>
+     <subtype identifier="10000261">nem besorolt</subtype>
+     <character identifier="4">közérdekű</character>
+    </classification>
+   </classifications>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2652791" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2014-01-20T09:05:58+00:00">
+    <name first="Budai" last="Erzsébet"></name>
+    <comment>BME admin - INAKTÍV</comment>
+    <identifiers>
+     <identifier>10014103</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2010"/>
+   <edited>
+    <entry event="created" date="2010-03-02" time="00:00" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2014-06-23" time="19:04"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="0.5">Marton József Ernő</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Elemér Károly" last="Nagy" share="0.5">Nagy Elemér Károly</name>
+     <comment>Informatika</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10030228</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10255" parent="10135" direct="direct" abbreviation="IIT">Irányítástechnika és Informatika Tanszék</institute>
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Szervervirtualizáció Oracle Virtual Machine platformon a BME OMIKK-ban</title>
+   <free_fields>
+    <free_field num="0">Kulcsszavak: virtualizáció, x86 virtualizáció, Oracle Database, Oracle Enterprise Linux</free_field>
+    <free_field num="1">In: HOUG Konferencia 2009: Hungarian Oracle Users Group Meeting. Siófok, Magyarország, 2009.04.06-2009.04.09. (Oracle Magyarország Kft.)</free_field>
+    <free_field num="2">Szekció: Korszerű adatközpontok</free_field>
+   </free_fields>
+   <date year="2009"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="Egyéb URL" identifier="houg.hu/pls/apex/houg.download_my_file?p_file=1648909937852957"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <abstract>Szervervirtualizáció Oracle Virtual Machine platformon a BME OMIKK-ban&#13;
+ Előadó(k): 	Marton József Ernõ, Nagy Elemér Károly (Budapesti Műszaki Egyetem)&#13;
+	.&#13;
+	Az operációs rendszerek, adatbázis-kezelő rendszerek és más alkalmazások virtualizált környezetben történő futtatása a fizikai erőforrások modern kihasználási módja. A korábban csak nagygépes környezetben elérhető &quot;hard partitioning&quot; megoldásokhoz hasonló mára a 64 bites x86 processzorokon is elérhető. A hardveres támogatásnak köszönhetően a natív környezetbeli futtatással összemérhető teljesítmény is elérhető úgy, hogy az egyes környezetek izolációja alacsony rétegben biztosított. Az üzembe helyezés, üzemeltetés, és bizonyos esetekben a licenszek költségei is csökkenthetők virtualizációs megoldások bevezetésével. Az éles környezettel megegyező, azonban attól izolált fejlesztői- és tesztkörnyezet kialakítására szintén kényelmes lehetőséget biztosít a virtualizáció. Az előadás bevezető részében vázolja az x86-64 platformon elérhető virtualizáció különböző szintjeit és megvalósítási lehetőségeit, az egyes megoldások előnyeit és hátrányait. Külön kitér az Oracle Virtual Machine (OVM) lehetőségeire. A BME OMIKK több, mint fél éve éles üzemben használja az Oracle Virtual Machine-t. Az OVM virtualizált környezetében üzemel a könyvtári ügyviteli rendszer és az azt kiszolgáló Oracle 10g R2 adatbázis-kezelő. Az éles üzem, valamint a megelőző tesztidőszak tapasztalatait foglalja össze az előadás második része. Külön kitér olyan témákra, mint a rendszer konfigurációja, felügyelete, a virtuális gépek háttértár-kezelési lehetőségei és azok teljesítménykérdései, valamint CPU és memória hozzárendelés.</abstract>
+   <comment>Korábbi besorolás (2014-05-16-ig): Egyéb/Előadás</comment>
+   <administrative_comment>##besorolas#volt:Egyéb/Előadás#lett:Egyéb/Nem besorolt#2014-05-16#jmarton##</administrative_comment>
+   <classifications>
+    <classification>
+     <type identifier="29">egyéb</type>
+     <subtype identifier="10000261">nem besorolt</subtype>
+     <character identifier="2">nem besorolt jellegű</character>
+    </classification>
+   </classifications>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2654741" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2017-11-17T09:19:12+00:00">
+    <name first="Szmolyán" last="Mária"></name>
+    <comment>BME 4 admin</comment>
+    <identifiers>
+     <identifier>10039288</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2010"/>
+   <edited>
+    <entry event="created" date="2010-06-20" time="00:00" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2017-11-17" time="09:19"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Mária" last="Prokné Palik" share="0.5">Prokné Palik Mária</name>
+     <comment>könyvtártudomány</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10042319</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="József" last="Marton" share="0.5">Marton József</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>ETO jelzetek szerinti keresés a BME OMIKK ALEPH rendszerében</title>
+   <date year="2010" from="2010-04-07" to="2010-04-09"/>
+   <identifiers>
+    <identifier name="Teljes dokumentum" identifier="http://nws.niif.hu/ncd2010/docs/ehu/151.pdf" validator="10039288" date="2017-11-17 09:19:26"/>
+    <identifier name="article identifier" identifier="e151"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <classifications>
+    <classification>
+     <type identifier="31">egyéb konferenciaközlemény</type>
+     <subtype identifier="10000197">konferenciaközlemény</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="5"/>
+   </length>
+   <container>
+    <title>Networkshop, 2010</title>
+    <shorttitle>Debrecen, 2010. ápril is 7-9.</shorttitle>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2010" from="2010-04-07" to="2010-04-09"/>
+    <language>Magyar és angol</language>
+    <location city="Debrecen" country="Magyarország"/>
+    <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Nemzeti Információs Infrastruktúra Fejlesztési Intézet (NIIFI)</publisher>
+    <published city="Budapest" country="Magyarország"/>
+    <identifiers>
+     <identifier>2419433</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="32">egyéb konferenciakötet</type>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+   </container>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2688017" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2014-01-20T09:05:58+00:00">
+    <name first="Budai" last="Erzsébet"></name>
+    <comment>BME admin - INAKTÍV</comment>
+    <identifiers>
+     <identifier>10014103</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2012"/>
+   <edited>
+    <entry event="created" date="2012-10-02" time="23:57" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2018-01-30" time="16:38"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="0.5">József Marton</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Sándor" last="Gajdos" share="0.5">Sándor Gajdos</name>
+     <comment>Adatbázisok</comment>
+     <identifiers>
+      <identifier type="Neptun ID">EJV2AB</identifier>
+      <identifier type="ORCID">0000-0002-0424-2168</identifier>
+      <identifier type="Éles MTMT felület.">10002848</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>In-memory Preprocessing of Streaming Sensory Data</title>
+   <subtitle>Partitioned Relational Database Approach</subtitle>
+   <volume>54</volume>
+   <issue>3-4</issue>
+   <date year="2010"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="Scopus" identifier="84866341671"/>
+    <identifier name="DOI" identifier="10.3311/pp.ee.2010-3-4.06"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Angol</language>
+   <abstract>In this paper we present a database architecture and an application area and method in detail. As sensory data stream in the database it is efficient to preprocess them in-memory before integrating in the repository in order to save storage I/O cost. After data are integrated, it is important to allow efficient quering based on data retrieval profile. This can also be supported by the presented database architecture by partitioning the database upon different criteria. It is mandatory to hide the internal partitioned architectural details from higher layers, so options to allow transparent quering options are also presented. We have implemented a test system and experimental results are also given.</abstract>
+   <classifications>
+    <classification>
+     <type identifier="24">folyóiratcikk</type>
+     <subtype identifier="10000059">szakcikk</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="123" page_to="128"/>
+   </length>
+   <container>
+    <title>PERIODICA POLYTECHNICA-ELECTRICAL ENGINEERING</title>
+    <shorttitle>PERIOD POLYTECH ELECTR ENG</shorttitle>
+    <peerreviewed>true</peerreviewed>
+    <published_abroad>false</published_abroad>
+    <impactfactor>0</impactfactor>
+    <identifiers>
+     <identifier type="issn">0324-6000</identifier>
+     <identifier type="eissn">1587-3781</identifier>
+    </identifiers>
+   </container>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="2689746" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2017-05-15T13:40:59+00:00">
+    <name first="Szmolyán" last="Mária"></name>
+    <comment>BME 4 admin</comment>
+    <identifiers>
+     <identifier>10039288</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2012"/>
+   <edited>
+    <entry event="created" date="2012-12-05" time="17:08" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2018-04-06" time="10:12"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="0.5">József Marton</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Gábor" last="Nagypál" share="0.5">Gábor Nagypál</name>
+     <comment>Informatika</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10017073</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Context-Aware Mobile Semantic Platform for Intelligent Navigation Applications</title>
+   <date year="2012" from="2012-10-19" to="2012-10-21"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="Kiadónál" identifier="http://www.iadisportal.org/digital-library/context-aware-mobile-semantic-platform-for-intelligent-navigation-applications"/>
+    <identifier name="article identifier" identifier="F087"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Angol</language>
+   <abstract>In our ever accelerating world more and more data needs to be captured and processed. Understanding how data is to be interpreted is often based on the environmental state or context, i.e. position of the receiver, time, weather or even navigation data and traffic conditions. Today’s smartphones’ processing capacity is still constrained according to the limited power available, but is already adequate to allow them to be aware of their context and make intelligent decisions based on it. We have designed a semantic platform for mobile devices that is able to gather data from several sources and publish enriched information to target applications. An application-specific but extensible ontology is built around the source data types and information enriching is based on continuous inference. We have implemented our platform on Android OS. For demonstrating purposes we have added three use cases that interface with a navigation application: an accident detector that is able to call help; an application warning truck drivers if they are about to violate some dynamic traffic rule; and a meeting manager that detects being late from the next meeting and cancels the meeting when the driver navigates to a different target.</abstract>
+   <organizer city="[s. l.] - Nemzetközi" country="Nemzetközi">IADIS – International Association for Development of the Information Society</organizer>
+   <classifications>
+    <classification>
+     <type identifier="25">könyvrészlet</type>
+     <subtype identifier="10000312">konferenciaközlemény</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="11" page_to="18" page_number="8"/>
+   </length>
+   <container>
+    <title>Applied Computing 2012 Proceedings</title>
+    <shorttitle>Proceedings of the IADIS International Conference Applied computing</shorttitle>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2012" from="2012-10-19" to="2012-10-21"/>
+    <language>Angol</language>
+    <location city="Madrid" country="Spanyolország"/>
+    <publisher city="Lisszabon" country="Portugália" publisher-country="Portugália">IADIS Press</publisher>
+    <published city="Lisszabon" country="Portugália"/>
+    <organizer city="[s. l.] - Nemzetközi" country="Nemzetközi">IADIS – International Association for Development of the Information Society</organizer>
+    <identifiers>
+     <identifier>3161649</identifier>
+     <identifier type="isbn">978-989-8533-14-2</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="23">könyv</type>
+      <subtype identifier="10000144">konferenciakötet</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <editors>
+     <editor>
+      <name share="0.5">Hans Weghorn</name>
+      <identifiers/>
+     </editor>
+     <editor>
+      <name share="0.5">Pedro Isaias</name>
+      <identifiers/>
+     </editor>
+    </editors>
+   </container>
+  </publication>
+  <citations/>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="3230028" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2018-01-09T17:08:35+00:00">
+    <name first="Szmolyán" last="Mária"></name>
+    <comment>BME 4 admin</comment>
+    <identifiers>
+     <identifier>10039288</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2017"/>
+   <edited>
+    <entry event="created" date="2017-05-28" time="18:20" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2018-02-10" time="22:02"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="0.3333333333333333">József Marton</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Gábor" last="Szárnyas" share="0.3333333333333333">Gábor Szárnyas</name>
+     <comment>információs rendszerek</comment>
+     <identifiers>
+      <identifier type="Neptun ID">U944EQ</identifier>
+      <identifier type="Éles MTMT felület.">10045162</identifier>
+     </identifiers>
+     <institutes for="author">
+      <institute identifier="10254" parent="10135" direct="direct" abbreviation="MIT">Méréstechnika és Információs Rendszerek Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Dániel" last="Varró" share="0.3333333333333333">Dániel Varró</name>
+     <comment>Informatika, szoftvertechnológia</comment>
+     <identifiers>
+      <identifier type="MTA ID">10010849</identifier>
+      <identifier type="ResearcherID">G-8963-2012</identifier>
+      <identifier type="Scopus ID">6602594778</identifier>
+      <identifier type="Google Scholar ID">4Ya6dVoAAAAJ</identifier>
+      <identifier type="Éles MTMT felület.">10001355</identifier>
+     </identifiers>
+     <institutes for="author">
+      <institute identifier="10254" parent="10135" direct="direct" abbreviation="MIT">Méréstechnika és Információs Rendszerek Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Formalising openCypher Graph Queries in Relational Algebra</title>
+   <date year="2017" from="2017-09-24" to="2017-09-27"/>
+   <identifiers>
+    <identifier name="Scopus" identifier="85030179367"/>
+    <identifier name="DOI" identifier="10.1007/978-3-319-66917-5_13"/>
+    <identifier name="Google scholar" identifier="1267824962936861615"/>
+    <identifier name="REAL" identifier="74195"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Angol</language>
+   <classifications>
+    <classification>
+     <type identifier="25">könyvrészlet</type>
+     <subtype identifier="10000312">konferenciaközlemény</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="182" page_to="196" page_number="15"/>
+   </length>
+   <container>
+    <container type="series">
+     <volume_number>10509</volume_number>
+     <title_series>Lecture Notes in Computer Science</title_series>
+     <identifiers>
+      <identifier type="issn">0302-9743</identifier>
+     </identifiers>
+    </container>
+    <title>Advances in Databases and Information Systems</title>
+    <shorttitle>21st European Conference on Advances in Databases and Information Systems</shorttitle>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2017" from="2017-09-24" to="2017-09-27"/>
+    <language>Angol</language>
+    <location city="Nicosia" country="Ciprus"/>
+    <publisher city="Cham (Svájc)" country="Svájc" publisher-country="Svájc">Springer International Publishing</publisher>
+    <published city="Cham (Svájc)" country="Svájc"/>
+    <identifiers>
+     <identifier>3230020</identifier>
+     <identifier type="isbn">978-3-319-66916-8</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="23">könyv</type>
+      <subtype identifier="10000144">konferenciakötet</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <editors>
+     <editor>
+      <name share="0.3333333333333333">Martite Kirikova</name>
+      <identifiers/>
+     </editor>
+     <editor>
+      <name share="0.3333333333333333">Kjetil Norvag</name>
+      <identifiers/>
+     </editor>
+     <editor>
+      <name share="0.3333333333333333">George A Papadopoulos</name>
+      <identifiers/>
+     </editor>
+    </editors>
+   </container>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="kézi felvitel" year="2017"/>
+    <admin_seen timestamp="2018-01-09T17:14:14+00:00">
+     <name first="Szmolyán" last="Mária"></name>
+     <comment>BME 4 admin</comment>
+     <identifiers>
+      <identifier>10039288</identifier>
+     </identifiers>
+    </admin_seen>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2017-12-05" time="11:17" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2018-01-09" time="17:14"/>
+    </edited>
+    <independent independent-ok="not given">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">16994350</identifier>
+     <identifier name="DOI" identifier="10.1007/978-3-319-64468-4_6"/>
+     <identifier name="Google scholar" identifier="5220287176426195961"/>
+     <identifier name="Google scholar hash" identifier="-QtpWIcvckgJ"/>
+     <identifier name="Teljes dokumentum" identifier="https://link.springer.com/chapter/10.1007/978-3-319-64468-4_6"/>
+     <identifier type="isbn">978-3-319-64467-7</identifier>
+    </identifiers>
+    <title>Towards an Integrated Graph Algebra for Graph Pattern Matching with Gremlin</title>
+    <volume>Franciaország</volume>
+    <date year="2017"/>
+    <publisher city="Cham (Svájc)">Springer International</publisher>
+    <authors>
+     <author>
+      <name>Harsh Thakkar</name>
+     </author>
+     <author>
+      <name>Dharmen Punjani</name>
+     </author>
+     <author>
+      <name>Sören Auer</name>
+     </author>
+     <author>
+      <name>Maria-Esther Vidal</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="81" page_to="91"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="25">könyvrészlet</type>
+      <subtype identifier="10000312">konferenciaközlemény</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>International Conference on Database and Expert Systems Applications</title>
+     <container type="series">
+      <title_series>Lecture Notes in Computer Science</title_series>
+     </container>
+    </container>
+    <references/>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="RIS-GS" year="2018"/>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-03-05" time="11:48" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2018-09-14" time="10:36"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>not given</foreign_only>
+    <published_abroad>not given</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17193481</identifier>
+     <identifier name="Google scholar" identifier="8951512987720288748"/>
+     <identifier name="Google scholar hash" identifier="7Aldm6IpOnwJ"/>
+     <identifier name="Teljes dokumentum" identifier="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191917"/>
+    </identifiers>
+    <title>Reducing vertices in property graphs</title>
+    <volume>13</volume>
+    <issue>2</issue>
+    <date year="2018"/>
+    <authors>
+     <author>
+      <name>Tomaszuk Dominik</name>
+     </author>
+     <author>
+      <name>Pąk Karol</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="e0191917"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>PLOS ONE</title>
+     <identifiers>
+      <identifier type="issn">1932-6203</identifier>
+      <identifier type="eissn">1932-6203</identifier>
+     </identifiers>
+    </container>
+    <references>
+     <reference>Marton József, Szárnyas Gábor, Varró Dániel: Formalising openCypher graph queries in relational algebra. Advances in Databases and Information Systems, pp. 182-196, 2017. GDI: 1267824962936861615</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="RIS-GS" year="2018"/>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-03-05" time="11:48" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2018-09-28" time="15:46"/>
+    </edited>
+    <independent independent-ok="true">false</independent>
+    <language>Angol</language>
+    <foreign_only>not given</foreign_only>
+    <published_abroad>not given</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17193482</identifier>
+     <identifier name="DOI" identifier="10.1007/978-3-319-68015-6_6"/>
+     <identifier name="Google scholar" identifier="17393642350698538762"/>
+     <identifier name="Google scholar hash" identifier="CqeT_4-hYvEJ"/>
+     <identifier name="Teljes dokumentum" identifier="https://link.springer.com/chapter/10.1007/978-3-319-68015-6_6"/>
+     <identifier type="isbn">978-3-319-68014-9</identifier>
+    </identifiers>
+    <title>Model-Driven Engineering of an OpenCypher Engine: Using Graph Queries to Compile Graph Queries</title>
+    <volume>Magyarország</volume>
+    <date year="2017"/>
+    <publisher>Springer</publisher>
+    <authors>
+     <author>
+      <name>Marton József</name>
+     </author>
+     <author>
+      <name>Szárnyas Gábor</name>
+     </author>
+     <author>
+      <name>Búr Márton</name>
+     </author>
+    </authors>
+    <editors>
+     <editor>
+      <name>Tibor Csöndes</name>
+     </editor>
+     <editor>
+      <name>Gábor Kovács</name>
+     </editor>
+     <editor>
+      <name>György Réthy</name>
+     </editor>
+    </editors>
+    <length>
+     <entry page_from="80" page_to="98"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="25">könyvrészlet</type>
+      <subtype identifier="10000312">konferenciaközlemény</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>SDL 2017: Model-Driven Engineering for Future Internet. 18th International SDL Forum</title>
+     <container type="series">
+      <title_series>Lecture Notes in Computer Science book series</title_series>
+     </container>
+    </container>
+    <references>
+     <reference>Marton József, Szárnyas Gábor, Varró Dániel: Formalising openCypher graph queries in relational algebra. Advances in Databases and Information Systems, pp. 182-196, 2017. GDI: 1267824962936861615</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="RIS-GS" year="2018"/>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-03-05" time="11:48" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2018-09-14" time="10:36"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>not given</foreign_only>
+    <published_abroad>not given</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17193484</identifier>
+     <identifier name="Google scholar" identifier="15946435091133521624"/>
+     <identifier name="Google scholar hash" identifier="2F7WQDoeTd0J"/>
+     <identifier name="Teljes dokumentum" identifier="https://ieeexplore.ieee.org/abstract/document/8287760/"/>
+     <identifier type="isbn">1538622939</identifier>
+    </identifiers>
+    <title>Applying Graph Analytics to Understand Compute Core Usage and Publication Trends in a Petascale Supercomputing Facility</title>
+    <date year="2017"/>
+    <publisher>IEEE</publisher>
+    <authors>
+     <author>
+      <name>Lee Sangkeun</name>
+     </author>
+     <author>
+      <name>Vazhkudai Sudharshan S</name>
+     </author>
+     <author>
+      <name>Gunasekaran Raghul</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="294" page_to="305"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="25">könyvrészlet</type>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>2017 IEEE 24th International Conference on High Performance Computing (HiPC)</title>
+    </container>
+    <references>
+     <reference>Marton József, Szárnyas Gábor, Varró Dániel: Formalising openCypher graph queries in relational algebra. Advances in Databases and Information Systems, pp. 182-196, 2017. GDI: 1267824962936861615</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="RIS-GS" year="2018"/>
+    <admin_seen timestamp="2018-06-07T07:47:50+00:00">
+     <name first="Sövény" last="Emese"></name>
+     <comment>BME admin 5</comment>
+     <identifiers>
+      <identifier>10060654</identifier>
+     </identifiers>
+    </admin_seen>
+    <owner>
+     <name first="Szárnyas" last="Gábor"></name>
+     <comment>információs rendszerek</comment>
+     <identifiers>
+      <identifier type="Neptun ID">U944EQ</identifier>
+      <identifier>10045162</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-06-05" time="09:36" login="BME-U944EQ"/>
+     <entry event="last-modified" date="2018-06-07" time="07:47"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Horvát</language>
+    <foreign_only>not given</foreign_only>
+    <published_abroad>not given</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17415683</identifier>
+     <identifier name="Teljes dokumentum" identifier="https://bib.irb.hr/datoteka/940636.Grafovske_baze_podataka__pregled_istrazivanja_i_buducih_trendova.pdf"/>
+     <identifier type="isbn">978-953-233-096-0</identifier>
+    </identifiers>
+    <title>Grafovske baze podataka–pregled istraživanja i budućih trendova</title>
+    <comment>idéző Cím: Grafovske baze podataka–pregled istraživanja i budućih trendova</comment>
+    <date year="2018" from="2018-05-21" to="2018-05-25"/>
+    <location city="Opatija" country="Horvátország"/>
+    <authors>
+     <author>
+      <name>Rabuzin Kornelije</name>
+     </author>
+     <author>
+      <name>Šestak Martina</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="1485" page_to="1490" page_number="6"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="31">egyéb konferenciaközlemény</type>
+      <subtype identifier="10000197">konferenciaközlemény</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>41st International Convention on Information and Communication Technology, Electronics and Microelectronics</title>
+    </container>
+    <references/>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="RIS-GS" year="2018"/>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-09-29" time="18:18" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2018-09-29" time="18:39"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>not given</foreign_only>
+    <published_abroad>not given</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17705045</identifier>
+     <identifier name="Google scholar" identifier="16648779493310942964"/>
+     <identifier name="Google scholar hash" identifier="9E6ber1YDOcJ"/>
+     <identifier name="Teljes dokumentum" identifier="https://www.degruyter.com/view/j/jib.2018.15.issue-3/jib-2018-0023/jib-2018-0023.xml?format=INT&amp;intcmp=trendmd"/>
+     <identifier name="article identifier" identifier="20180023"/>
+    </identifiers>
+    <title>Towards FAIRer Biological Knowledge Networks Using a Hybrid Linked Data and Graph Database Approach</title>
+    <comment>N1 Source: Google scholar</comment>
+    <volume>15</volume>
+    <issue>3</issue>
+    <date year="2018"/>
+    <authors>
+     <author>
+      <name>Brandizi Marco</name>
+     </author>
+     <author>
+      <name>Singh Ajit</name>
+     </author>
+     <author>
+      <name>Rawlings Christopher</name>
+     </author>
+     <author>
+      <name>Hassani-Pak Keywan</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_number="10"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>Journal of Integrative Bioinformatics</title>
+     <identifiers>
+      <identifier type="issn">1613-4516</identifier>
+     </identifiers>
+    </container>
+    <references>
+     <reference>Marton József, Szárnyas Gábor, Varró Dániel: Formalising openCypher graph queries in relational algebra. Advances in Databases and Information Systems, pp. 182-196, 2017. GDI: 1267824962936861615</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="RIS-GS" year="2018"/>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-09-29" time="18:18" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2018-09-29" time="18:38"/>
+    </edited>
+    <independent independent-ok="true">false</independent>
+    <language>Angol</language>
+    <foreign_only>not given</foreign_only>
+    <published_abroad>not given</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17705046</identifier>
+     <identifier name="Google scholar" identifier="11973569569947716535"/>
+     <identifier name="Google scholar hash" identifier="twspzhWqKqYJ"/>
+     <identifier name="Teljes dokumentum" identifier="https://dl.acm.org/citation.cfm?id=3183724"/>
+     <identifier type="isbn">1450347037</identifier>
+    </identifiers>
+    <title>Incremental View Maintenance for Property Graph Queries</title>
+    <comment>N1 Source: Google scholar</comment>
+    <date year="2018"/>
+    <publisher>ACM</publisher>
+    <authors>
+     <author>
+      <name>Szárnyas Gábor</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="1843" page_to="1845"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="25">könyvrészlet</type>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>Proceedings of the 2018 International Conference on Management of Data</title>
+    </container>
+    <references>
+     <reference>Marton József, Szárnyas Gábor, Varró Dániel: Formalising openCypher graph queries in relational algebra. Advances in Databases and Information Systems, pp. 182-196, 2017. GDI: 1267824962936861615</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="RIS-GS" year="2018"/>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-09-29" time="18:18" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2018-09-30" time="19:32"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17705047</identifier>
+     <identifier name="DOI" identifier="10.15439/2018F103"/>
+     <identifier name="Google scholar" identifier="13470441107930831471"/>
+     <identifier name="Google scholar hash" identifier="b1oJdtGe8LoJ"/>
+     <identifier name="Teljes dokumentum" identifier="https://www.researchgate.net/profile/Dominik_Tomaszuk/publication/327069754_Named_Property_Graphs/links/5b7688ed92851ca650650bb4/Named-Property-Graphs.pdf"/>
+     <identifier type="isbn">978-83-949419-5-6</identifier>
+    </identifiers>
+    <title>Named Property Graphs</title>
+    <comment>N1 Source: Google scholar&#13;
+&#13;
+idéző Cím: Named Property Graphs&#13;
+&#13;
+Workshop: 8th International Workshop on Advances in Semantic Information Retrieval</comment>
+    <volume>Lengyelország</volume>
+    <date year="2018"/>
+    <authors>
+     <author>
+      <name>Tomaszuk Dominik</name>
+     </author>
+     <author>
+      <name>Szeremeta Łukasz</name>
+     </author>
+    </authors>
+    <editors>
+     <editor>
+      <name>M Ganzha</name>
+     </editor>
+     <editor>
+      <name>L Maciaszek</name>
+     </editor>
+     <editor>
+      <name>M Paprzycki</name>
+     </editor>
+    </editors>
+    <length>
+     <entry page_from="173" page_to="177"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="25">könyvrészlet</type>
+      <subtype identifier="10000312">konferenciaközlemény</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>Proceedings of the 2018 Federated Conference on Computer Science and Information Systems</title>
+    </container>
+    <references>
+     <reference>Marton József, Szárnyas Gábor, Varró Dániel: Formalising openCypher graph queries in relational algebra. Advances in Databases and Information Systems, pp. 182-196, 2017. GDI: 1267824962936861615</reference>
+    </references>
+   </citation>
+  </citations>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="3251678" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2018-01-09T17:09:32+00:00">
+    <name first="Szmolyán" last="Mária"></name>
+    <comment>BME 4 admin</comment>
+    <identifiers>
+     <identifier>10039288</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2017"/>
+   <edited>
+    <entry event="created" date="2017-07-28" time="14:32" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2018-02-10" time="22:02"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="József" last="Marton" share="0.3333333333333333">József Marton</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Gábor" last="Szárnyas" share="0.3333333333333333">Gábor Szárnyas</name>
+     <comment>információs rendszerek</comment>
+     <identifiers>
+      <identifier type="Neptun ID">U944EQ</identifier>
+      <identifier type="Éles MTMT felület.">10045162</identifier>
+     </identifiers>
+     <institutes for="author">
+      <institute identifier="10254" parent="10135" direct="direct" abbreviation="MIT">Méréstechnika és Információs Rendszerek Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name first="Márton" last="Búr" share="0.3333333333333333">Márton Búr</name>
+     <comment>szoftvermodellezés</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10053193</identifier>
+     </identifiers>
+     <institutes for="author">
+      <institute identifier="10254" parent="10135" direct="direct" abbreviation="MIT">Méréstechnika és Információs Rendszerek Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Model-driven engineering of an openCypher engine: using graph queries to compile graph queries</title>
+   <date year="2017" from="2017-10-09" to="2017-10-11"/>
+   <identifiers>
+    <identifier name="Scopus" identifier="85030695671"/>
+    <identifier name="DOI" identifier="10.1007/978-3-319-68015-6_6"/>
+    <identifier name="REAL" identifier="74196"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Angol</language>
+   <abstract>Graph database systems are increasingly adapted for storing and processing heterogeneous network-like datasets. Many challenging applications with near real-time requirements - such as financial fraud detection, on-the-fly model validation and root cause analysis - can be formalised as graph problems and tackled with graph databases efficiently. However, as no standard graph query language has yet emerged, users are subjected to the possibility of vendor lock-in.&#13;
+&#13;
+The openCypher group aims to define an open specification for a declarative graph query language. However, creating an openCypher-compatible query engine requires significant research and engineering efforts. Meanwhile, model-driven language workbenches support the creation of domain-specific languages by providing high-level tools to create parsers, editors and compilers. In this paper, we present an approach to build a compiler and optimizer for openCypher using model-driven technologies, which allows developers to define declarative optimization rules.</abstract>
+   <classifications>
+    <classification>
+     <type identifier="25">könyvrészlet</type>
+     <subtype identifier="10000312">konferenciaközlemény</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="80" page_to="98"/>
+   </length>
+   <container>
+    <container type="series">
+     <volume_number>10567</volume_number>
+     <title_series>Lecture Notes in Computer Science</title_series>
+     <identifiers>
+      <identifier type="issn">0302-9743</identifier>
+     </identifiers>
+    </container>
+    <title>18th System Design Languages Forum: Model-Driven Engineering for Future Internet</title>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2017" from="2017-10-09" to="2017-10-11"/>
+    <language>Angol</language>
+    <location city="Budapest" country="Magyarország"/>
+    <publisher city="Cham (Svájc)" country="Svájc" publisher-country="Svájc">Springer International Publishing</publisher>
+    <published city="Cham (Németország)" country="Németország"/>
+    <identifiers>
+     <identifier>3251677</identifier>
+     <identifier type="isbn">978-3-319-68014-9</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="23">könyv</type>
+      <subtype identifier="10000144">konferenciakötet</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <editors>
+     <editor>
+      <name first="Tibor" last="Csöndes" share="0.3333333333333333">Tibor Csöndes</name>
+      <comment>Konformancia tesztelés, tesztsorozat optimalizálás, automatikus tesztelés</comment>
+      <identifiers>
+       <identifier type="MTA ID">10010386</identifier>
+       <identifier type="Éles MTMT felület.">10011814</identifier>
+      </identifiers>
+     </editor>
+     <editor>
+      <name first="Gábor" last="Kovács" share="0.3333333333333333">Gábor Kovács</name>
+      <comment>Számítógépes protokollok</comment>
+      <identifiers>
+       <identifier type="Neptun ID">OWEYOA</identifier>
+       <identifier type="Éles MTMT felület.">10041173</identifier>
+      </identifiers>
+      <institutes>
+       <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+       <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+       <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      </institutes>
+     </editor>
+     <editor>
+      <name share="0.3333333333333333">György Réthy</name>
+      <identifiers/>
+     </editor>
+    </editors>
+   </container>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="RIS-GS" year="2018"/>
+    <admin_seen timestamp="2018-06-07T13:11:03+00:00">
+     <name first="Sövény" last="Emese"></name>
+     <comment>BME admin 5</comment>
+     <identifiers>
+      <identifier>10060654</identifier>
+     </identifiers>
+    </admin_seen>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-04-18" time="16:02" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2018-09-14" time="10:36"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17311225</identifier>
+     <identifier name="DOI" identifier="10.5441/002/edbt.2018.62"/>
+     <identifier name="Google scholar hash" identifier="HliGSPulLn0J"/>
+     <identifier name="Teljes dokumentum" identifier="http://openproceedings.org/2018/conf/edbt/opencypher.pdf"/>
+     <identifier type="isbn">978-3-89318-078-3</identifier>
+    </identifiers>
+    <title>openCypher: New Directions in Property Graph Querying</title>
+    <volume>Ausztria</volume>
+    <date year="2018"/>
+    <publisher>EDBT</publisher>
+    <authors>
+     <author>
+      <name>Green Alastair</name>
+     </author>
+     <author>
+      <name>Junghanns Martin</name>
+     </author>
+     <author>
+      <name>Kiessling Max</name>
+     </author>
+     <author>
+      <name>Lindaaker Tobias</name>
+     </author>
+     <author>
+      <name>Plantikow Stefan</name>
+     </author>
+     <author>
+      <name>Selmer Petra</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="520" page_to="523" page_number="4"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="25">könyvrészlet</type>
+      <subtype identifier="10000312">konferenciaközlemény</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>Proceedings of the 21st International Conference on Extending Database Technology (EDBT 2018)</title>
+    </container>
+    <references>
+     <reference>Marton József, Szárnyas Gábor, Búr Márton: Model-Driven Engineering of an OpenCypher Engine: Using Graph Queries to Compile Graph Queries. International SDL Forum, pp. 80-98, 2017. GDI: 17393642350698538762</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="RIS-GS" year="2018"/>
+    <admin_seen timestamp="2018-09-28T11:30:10+00:00">
+     <name first="Szmolyán" last="Mária"></name>
+     <comment>BME 4 admin</comment>
+     <identifiers>
+      <identifier>10039288</identifier>
+     </identifiers>
+    </admin_seen>
+    <owner>
+     <name first="Marton" last="József"></name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier>10040961</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-04-18" time="16:02" login="BME-VZQIXX"/>
+     <entry event="last-modified" date="2018-09-28" time="11:30"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17311226</identifier>
+     <identifier name="Scopus" identifier="85048416577"/>
+     <identifier name="DOI" identifier="10.1145/3183713.3190657"/>
+     <identifier name="Google scholar" identifier="13243334608681744374"/>
+     <identifier name="Google scholar hash" identifier="9rccEKnGybcJ"/>
+     <identifier name="Teljes dokumentum" identifier="http://homepages.inf.ed.ac.uk/libkin/papers/sigmod18.pdf"/>
+    </identifiers>
+    <title>Cypher: An Evolving Query Language for Property Graphs</title>
+    <date year="2018"/>
+    <publisher>ACM</publisher>
+    <authors>
+     <author>
+      <name>Francis Nadime</name>
+     </author>
+     <author>
+      <name>Green Alastair</name>
+     </author>
+     <author>
+      <name>Guagliardo Paolo</name>
+     </author>
+     <author>
+      <name>Libkin Leonid</name>
+     </author>
+     <author>
+      <name>Lindaaker Tobias</name>
+     </author>
+     <author>
+      <name>Marsault Victor</name>
+     </author>
+     <author>
+      <name>Plantikow Stefan</name>
+     </author>
+     <author>
+      <name>Rydberg Mats</name>
+     </author>
+     <author>
+      <name>Selmer Petra</name>
+     </author>
+     <author>
+      <name>Taylor Andrés</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="1433" page_to="1445"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="25">könyvrészlet</type>
+      <subtype identifier="10000312">konferenciaközlemény</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>ACM SIGMOD International Conference on Management of Data (SIGMOD 2018)</title>
+    </container>
+    <references>
+     <reference>Marton József, Szárnyas Gábor, Búr Márton: Model-Driven Engineering of an OpenCypher Engine: Using Graph Queries to Compile Graph Queries. International SDL Forum, pp. 80-98, 2017. GDI: 17393642350698538762</reference>
+    </references>
+   </citation>
+  </citations>
+ </record>
+
+<record>
+  <technical_data>
+   <filesource identifier="3367309" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2018-07-02T13:45:02+00:00">
+    <name first="Szmolyán" last="Mária"></name>
+    <comment>BME 4 admin</comment>
+    <identifiers>
+     <identifier>10039288</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Marton" last="József"/>
+    <comment>Adatbáziskezelés</comment>
+    <identifiers>
+     <identifier type="Scopus ID">55359813200</identifier>
+     <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+     <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+     <identifier type="ORCID">0000-0003-4752-4234</identifier>
+     <identifier type="Neptun ID">VZQIXX</identifier>
+     <identifier type="ResearcherID">S-9754-2017</identifier>
+     <identifier type="Éles MTMT felület.">10040961</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2018"/>
+   <edited>
+    <entry event="created" date="2018-05-05" time="12:51" login="BME-VZQIXX"/>
+    <entry event="last-modified" date="2018-09-28" time="11:15"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Gábor" last="Szárnyas" share="0.10000000000000002">Gábor Szárnyas</name>
+     <comment>információs rendszerek</comment>
+     <identifiers>
+      <identifier type="Neptun ID">U944EQ</identifier>
+      <identifier type="Éles MTMT felület.">10045162</identifier>
+     </identifiers>
+     <institutes for="author">
+      <institute identifier="10254" parent="10135" direct="direct" abbreviation="MIT">Méréstechnika és Információs Rendszerek Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name share="0.10000000000000002">Arnau Prat-Pérez</name>
+     <identifiers/>
+    </author>
+    <author>
+     <name share="0.10000000000000002">Alex Averbuch</name>
+     <identifiers/>
+    </author>
+    <author>
+     <name first="József" last="Marton" share="0.10000000000000002">József Marton</name>
+     <comment>Adatbáziskezelés</comment>
+     <identifiers>
+      <identifier type="Scopus ID">55359813200</identifier>
+      <identifier type="Honlap">http://www.tmit.bme.hu/marton.jozsef</identifier>
+      <identifier type="Homepage">http://www.tmit.bme.hu/jozsef.marton</identifier>
+      <identifier type="ORCID">0000-0003-4752-4234</identifier>
+      <identifier type="Neptun ID">VZQIXX</identifier>
+      <identifier type="ResearcherID">S-9754-2017</identifier>
+      <identifier type="Éles MTMT felület.">10040961</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="10474" parent="10135" direct="direct" abbreviation="TMIT">Távközlési és Médiainformatikai Tanszék</institute>
+      <institute identifier="10135" parent="119" abbreviation="VIK">Villamosmérnöki és Informatikai Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+    <author>
+     <name share="0.10000000000000002">Marcus Paradies</name>
+     <identifiers/>
+    </author>
+    <author>
+     <name share="0.10000000000000002">Moritz Kaufmann</name>
+     <identifiers/>
+    </author>
+    <author>
+     <name share="0.10000000000000002">Orri Erling</name>
+     <identifiers/>
+    </author>
+    <author>
+     <name share="0.10000000000000002">Peter Boncz</name>
+     <identifiers/>
+    </author>
+    <author>
+     <name share="0.10000000000000002">Vlad Haprian</name>
+     <identifiers/>
+    </author>
+    <author>
+     <name share="0.10000000000000002">János Benjamin Antal</name>
+     <identifiers/>
+    </author>
+   </authors>
+   <editors/>
+   <title>An early look at the LDBC Social Network Benchmark's Business Intelligence workload</title>
+   <date year="2018" from="2018-10-10" to="2018-10-10"/>
+   <identifiers>
+    <identifier name="Scopus" identifier="85050286645"/>
+    <identifier name="DOI" identifier="10.1145/3210259.3210268"/>
+    <identifier name="REAL" identifier="81011"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Angol</language>
+   <abstract>In this short paper, we provide an early look at the LDBC Social Network Benchmark's Business Intelligence (BI) workload which tests graph data management systems on a graph business analytics workload. Its queries involve complex aggregations and navigations (joins) that touch large data volumes, which is typical in BI workloads, yet they depend heavily on graph functionality such as connectivity tests and path finding. We outline the motivation for this new benchmark, which we derived from many interactions with the graph database industry and its users, and situate it in a scenario of social network analysis. The workload was designed by taking into account technical ``chokepoints'' identified by database system architects from academia and industry, which we also describe and map to the queries. We present reference implementations in openCypher, PGQL, SPARQL, and SQL, and preliminary results of SNB BI on a number of graph data management systems.</abstract>
+   <classifications>
+    <classification>
+     <type identifier="25">könyvrészlet</type>
+     <subtype identifier="10000312">konferenciaközlemény</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="9:1" page_to="9:11" page_number="11"/>
+   </length>
+   <container>
+    <title>GRADES-NDA '18: Proceedings of the 1st ACM SIGMOD Joint International Workshop on Graph Data Management Experiences &amp; Systems (GRADES) and Network Data Analytics (NDA)</title>
+    <peerreviewed>not given</peerreviewed>
+    <published_abroad>not given</published_abroad>
+    <date year="2018" from="2018-10-10" to="2018-10-10"/>
+    <language>Angol</language>
+    <location city="Houston (TX)" country="Amerikai Egyesült Államok"/>
+    <publisher city="New York" country="Amerikai Egyesült Államok" publisher-country="Amerikai Egyesült Államok">Association for Computing Machinery</publisher>
+    <published city="New York" country="Amerikai Egyesült Államok"/>
+    <identifiers>
+     <identifier>3367306</identifier>
+     <identifier type="isbn">978-1-4503-5695-4</identifier>
+    </identifiers>
+    <classifications>
+     <classification>
+      <type identifier="23">könyv</type>
+      <subtype identifier="10000144">konferenciakötet</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <editors>
+     <editor>
+      <name share="0.16666666666666666">Arora Akhil</name>
+      <identifiers/>
+     </editor>
+     <editor>
+      <name share="0.16666666666666666">Bhattacharya Arnab</name>
+      <identifiers/>
+     </editor>
+     <editor>
+      <name share="0.16666666666666666">Fletcher George</name>
+      <identifiers/>
+     </editor>
+     <editor>
+      <name share="0.16666666666666666">Larriba Pey Josep Lluis</name>
+      <identifiers/>
+     </editor>
+     <editor>
+      <name share="0.16666666666666666">Roy Shourya</name>
+      <identifiers/>
+     </editor>
+     <editor>
+      <name share="0.16666666666666666">West Robert</name>
+      <identifiers/>
+     </editor>
+    </editors>
+   </container>
+   <references>
+    <reference>Aluç, G., Hartig, O., Tamer Özsu, M., Daudjee, K., Diversified stress testing of rdf data management systems (2014) ISWC, pp. 197-212;</reference>
+    <reference>Angles, R., G-core: A core for future graph query languages (2018) SIGMOD;</reference>
+    <reference>Angles, R., Arenas, M., Barceló, P., Hogan, A., Reutter, J., Vrgoč, D., Foundations of modern query languages for graph databases (2017) ACM Comput. Surv, 50 (5), 40p. , (Sept. 2017);</reference>
+    <reference>Armstrong, T.G., Ponnekanti, V., Borthakur, D., Callaghan, M., LinkBench: A database benchmark based on the facebook social graph (2013) SIGMOD, pp. 1185-1196;</reference>
+    <reference>Bader, D.A., Madduri, K., Design and implementation of the hpcs graph analysis benchmark on symmetric multiprocessors (2005) HiPC, pp. 465-476;</reference>
+    <reference>Barahmand, S., Ghandeharizadeh, S., BG: A benchmark to evaluate interactive social networking actions (2013) CIDR, , http://cidrdb.org/cidr2013/Papers/CIDR13_Paper93.pdf;</reference>
+    <reference>Beamer, S., Asanovic, K., Patterson, D.A., Direction-optimizing breadth-first search (2013) Scientific Programming, 21 (3-4), pp. 137-148. , (2013);</reference>
+    <reference>Bizer, C., Schultz, A., The Berlin sparql benchmark (2009) Int. J. Semantic Web Inf. Syst, 5 (2), pp. 1-24. , (2009);</reference>
+    <reference>Boncz, P.A., Neumann, T., Erling, O., TPC-h analyzed: Hidden messages and lessons learned from an influential benchmark (2013) TPCTC, pp. 61-76;</reference>
+    <reference>Donjerkovic, D., Ramakrishnan, R., Probabilistic optimization of top n queries (1999) VLDB, pp. 411-422. , http://www.vldb.org/conf/1999/P40.pdf;</reference>
+    <reference>Elser, B., Montresor, A., An evaluation study of bigdata frameworks for graph processing (2013) Big Data, pp. 60-67;</reference>
+    <reference>Erling, O., The ldbc social network benchmark: Interactive workload (2015) SIGMOD, pp. 619-630;</reference>
+    <reference>Fleming, P.J., Wallace, J.J., How not to lie with statistics: The correct way to summarize benchmark results (1986) Commun. ACM, 29 (3), pp. 218-221. , (1986);</reference>
+    <reference>Francis, N., Cypher: An evolving query language for property graphs (2018) SIGMOD;</reference>
+    <reference>Gray, J., Data cube: A relational aggregation operator generalizing group-by, cross-tab, and sub totals (1997) Data Min. Knowl. Discov, 1 (1), pp. 29-53. , (1997);</reference>
+    <reference>Gubichev, A., Boncz, P.A., Parameter curation for benchmark queries (2014) TPCTC (Lecture Notes in Computer Science), 8904, pp. 113-129. , Springer;</reference>
+    <reference>Guo, Y., Pan, Z., Heflin, J., LUBM: A benchmark for owl knowledge base systems (2005) J. Web Sem, 3 (2-3), pp. 158-182. , (2005);</reference>
+    <reference>Habel, A., Heckel, R., Taentzer, G., Graph grammars with negative application conditions (1996) Fundam. Inform, 26 (3-4), pp. 287-313. , (1996);</reference>
+    <reference>Iosup, A., LDBC graphalytics: A benchmark for large- scale graph analysis on parallel and distributed platforms (2016) PVLDB, 9 (13), pp. 1317-1328. , (2016);</reference>
+    <reference>Martínez-Bazan, N., Gómez-Villamor, S., Escale-Claveras, F., DEX: A high-performance graph database management system (2011) 2nd International Workshop on Graph Data Management: Techniques and Applications (GDM) at ICDE, pp. 124-127;</reference>
+    <reference>Momjian, B., (2000) PostgreSQL: Introduction and Concepts, , Addison-Wesley;</reference>
+    <reference>Morsey, M., Lehmann, J., Auer, S., Ngonga Ngomo, A.-C., DBpedia sparql benchmark - Performance assessment with real queries on real data (2011) ISWC, pp. 454-469;</reference>
+    <reference>Nai, L., Xia, Y., Tanase, I.G., Kim, H., Lin, C.-Y., GraphBIG: Understanding graph computing in the context of industrial solutions (2015) SC, pp. 691-6912;</reference>
+    <reference>Nambiar, R.O., Pöss, M., The making of tpc-ds (2006) VLDB, pp. 1049-1058. , http://dl.acm.org/citation.cfm?id=1164217;</reference>
+    <reference>Neumann, T., Moerkotte, G., A framework for reasoning about share equivalence and its integration into a plan generator (2009) BTW, pp. 7-26. , http://subs.emis.de/LNI/Proceedings/Proceedings144/article5220.html;</reference>
+    <reference>Pérez, J., Semantics and complexity of sparql (2009) ACM Trans. Database Syst, 34, p. 3. , (2009);</reference>
+    <reference>Pöss, M., Floyd, C., New tpc benchmarks for decision support and web commerce (2000) SIGMOD Record, 29 (4), pp. 64-71. , (2000);</reference>
+    <reference>Prat-Pérez, A., Domínguez-Sal, D., How community-like is the structure of synthetically generated graphs? (2014) GRADES at SIGMOD, pp. 71-79;</reference>
+    <reference>Sakr, S., Elnikety, S., He, Y., G-sparql: A hybrid engine for querying large attributed graphs (2012) CIKM, pp. 335-344;</reference>
+    <reference>Schmidt, M., Hornung, T., Meier, M., Pinkel, C., Lausen, G., SP2Bench: A sparql performance benchmark (2009) Semantic Web Information Management - A Model-Based Perspective, pp. 371-393;</reference>
+    <reference>Shao, B., Li, Y., Wang, H., Xia, H., Trinity graph engine and its applications (2017) IEEE Data Eng. Bull, 40 (3), pp. 18-29. , http://sites.computer.org/debull/A17sept/p18.pdf, (2017);</reference>
+    <reference>Szárnyas, G., Izsó, B., Ráth, I., Varró, D., The train benchmark: Cross-technology performance evaluation of continuous model queries (2017) Softw. Syst. Model, , (2017);</reference>
+    <reference>Van Rest, O., Hong, S., Kim, J., Meng, X., Chafi, H., PGQL: A property graph query language (2016) GRADES at SIGMOD;</reference>
+    <reference>Yildirim, H., Chaoji, V., Zaki, M.J., GRAIL: A scalable index for reachability queries in very large graphs (2012) VLDB J, 21 (4), pp. 509-534. , (2012)</reference>
+   </references>
+  </publication>
+  <citations/>
+ </record>
+
+</records>
