@@ -44,7 +44,7 @@
                   <xsl:value-of select="./creator/givenName" />
                 </xsl:attribute>
               </name>
-              <comment><xsl:value-of select="./creator/label" /></comment><!-- TODO: this contains the name as well. -->
+              <comment><xsl:value-of select="./creator/label" /></comment><!-- SKIP-TODO(jmarton): TODO: this contains the name as well. -->
               <identifiers>
                 <identifier type="Éles MTMT felület."><xsl:value-of select="./creator/oldId" /></identifier>
                 <!-- TODO: other ids? -->
@@ -61,7 +61,7 @@
                   <xsl:value-of select="substring-after(substring-before(./created, '.'), 'T')" />
                 </xsl:attribute>
                 <xsl:attribute name="login">
-                  <!-- TODO : login? -->
+                  <!-- SKIP-ATTR(jmarton): TODO : login? -->
                 </xsl:attribute>
               </entry>
             </edited>
@@ -81,10 +81,10 @@
                     <!-- TODO -->
                   </xsl:attribute>
                   <xsl:attribute name="share">
-                    <!-- TODO -->
+                    <!-- SKIP-ATTR(for admin_seen; jmarton) TODO -->
                   </xsl:attribute>
                 </name>
-                <comment><xsl:value-of select="./adminApprover/label" /></comment><!-- TODO contains name -->
+                <comment><xsl:value-of select="./adminApprover/label" /></comment><!-- SKIP-TODO(jmarton): TODO contains name -->
                 <identifiers>
                   <identifier><xsl:value-of select="./adminApprover/mtid" /></identifier>
                 </identifiers>
