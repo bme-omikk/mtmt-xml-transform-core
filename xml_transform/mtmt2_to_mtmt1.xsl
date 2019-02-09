@@ -92,10 +92,62 @@
               </admin_seen>
             </xsl:if>
           </technical_data>
-          <publication><!-- TODO --></publication>
-          <citations><!-- TODO --></citations>
+          <publication>
+            <title><xsl:value-of select="title" /></title>
+            <subtitle><xsl:value-of select="subTitle" /></subtitle>
+            <xsl:apply-templates select="publishedYear" />
+            <xsl:call-template name="process-classifications" />
+            <!-- TODO -->
+            <identifiers>
+              <xsl:apply-templates select="identifiers/identifier" />
+            </identifiers>
+          </publication>
+          <citations>
+            <xsl:apply-templates select="citations/citation/related" />
+          </citations>
         </record>
       </xsl:for-each>
     </records>
+  </xsl:template>
+
+  <xsl:template match="identifier">
+    <identifier>
+      <xsl:attribute name="name"><xsl:value-of select="./source/name" /></xsl:attribute>
+      <xsl:attribute name="identifier"><xsl:value-of select="./idValue" /></xsl:attribute>
+    </identifier>
+  </xsl:template>
+
+  <xsl:template match="citation/related">
+    <citation>
+      <xsl:copy-of select="title" />
+      <xsl:apply-templates select="publishedYear" />
+      <xsl:call-template name="process-classifications" />
+      <identifiers>
+        <xsl:apply-templates select="identifiers/identifier" />
+      </identifiers>
+      <!-- TODO -->
+    </citation>
+  </xsl:template>
+
+  <xsl:template match="publishedYear">
+    <date year="{.}" />
+  </xsl:template>
+
+  <xsl:template name="process-classifications">
+    <classifications>
+      <classification>
+        <xsl:apply-templates select="type|subType|category" />
+      </classification>
+    </classifications>
+  </xsl:template>
+
+  <xsl:template match="publication/type|citation/related/type">
+    <type identifier="{mtid}"><xsl:value-of select="label" /></type>
+  </xsl:template>
+  <xsl:template match="publication/subType|citation/related/subType">
+    <subtype identifier="{mtid}"><xsl:value-of select="label" /></subtype>
+  </xsl:template>
+  <xsl:template match="publication/category|citation/related/category">
+    <character identifier="{mtid}"><xsl:value-of select="label" /></character>
   </xsl:template>
 </xsl:stylesheet>
