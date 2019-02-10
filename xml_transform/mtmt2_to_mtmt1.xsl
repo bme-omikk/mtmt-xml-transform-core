@@ -18,11 +18,7 @@
                 <xsl:value-of select="$source_name" />
               </xsl:attribute>
               <xsl:attribute name="status">
-                <xsl:choose>
-                  <xsl:when test="status = 'APPROVED'">jóváhagyva</xsl:when>
-                  <!-- TODO: other cases -->
-                  <xsl:otherwise><xsl:value-of select="./status"/></xsl:otherwise>
-                </xsl:choose>
+                <xsl:call-template name="process-status" />
               </xsl:attribute>
               <xsl:attribute name="accepted-by"><!-- TODO --></xsl:attribute>
               <xsl:attribute name="acceptance-date">1970-01-01<!-- TODO --></xsl:attribute>
@@ -93,17 +89,17 @@
             </xsl:if>
           </technical_data>
           <publication>
-            <title><xsl:value-of select="title" /></title>
-            <subtitle><xsl:value-of select="subTitle" /></subtitle>
-            <xsl:apply-templates select="publishedYear" />
-            <xsl:call-template name="process-classifications" />
+
+            <!-- process basic document metadata -->
+            <xsl:apply-templates select="." />
+
+            <container>
+              <xsl:apply-templates select="book|journal" />
+            </container>
             <!-- TODO -->
-            <identifiers>
-              <xsl:apply-templates select="identifiers/identifier" />
-            </identifiers>
           </publication>
           <citations>
-            <xsl:apply-templates select="citations/citation/related" />
+            <xsl:apply-templates select="citations/citation" />
           </citations>
         </record>
       </xsl:for-each>
@@ -117,20 +113,110 @@
     </identifier>
   </xsl:template>
 
-  <xsl:template match="citation/related">
+  <!-- process basic document metadata -->
+  <xsl:template match="citation/related|publication|publication/book">
+    <xsl:copy-of select="title" />
+    <xsl:if test="subTitle">
+      <subtitle><xsl:value-of select="subTitle" /></subtitle>
+    </xsl:if>
+    <xsl:apply-templates select="publishedYear" />
+    <xsl:apply-templates select="languages" />
+    <xsl:call-template name="process-classifications" />
+    <identifiers>
+      <xsl:apply-templates select="identifiers/identifier" />
+    </identifiers>
+    <!-- TODO -->
+  </xsl:template>
+
+  <xsl:template match="journal">
+    <!-- weak TODO: journal title -->
+    <peerreviewed>
+      <xsl:choose>
+        <xsl:when test="reviewType = 'REVIEWED'">true</xsl:when>
+        <xsl:when test="reviewType = 'UNKNOWN'">not given</xsl:when>
+        <!-- TODO: other cases -->
+      </xsl:choose>
+    </peerreviewed>
+    <published_abroad>
+      <xsl:choose>
+        <xsl:when test="hungarian = 'false'">true</xsl:when>
+        <xsl:when test="hungarian = 'true'">false</xsl:when>
+        <xsl:otherwise>not given</xsl:otherwise>
+      </xsl:choose>
+    </published_abroad>
+    <!-- TODO: process Impact Factor (noIF tag) -->
+    <identifiers>
+      <xsl:if test="pIssn">
+        <identifier type="issn"><xsl:value-of select="pIssn" /></identifier>
+      </xsl:if>
+      <xsl:if test="eIssn">
+        <identifier type="eissn"><xsl:value-of select="eIssn" /></identifier>
+      </xsl:if>
+    </identifiers>
+  </xsl:template>
+
+  <xsl:template match="citation">
     <citation>
-      <xsl:copy-of select="title" />
-      <xsl:apply-templates select="publishedYear" />
-      <xsl:call-template name="process-classifications" />
-      <identifiers>
-        <xsl:apply-templates select="identifiers/identifier" />
-      </identifiers>
+      <xsl:attribute name="status">
+        <xsl:call-template name="process-status" />
+      </xsl:attribute>
+      <source>
+        <xsl:if test="source">
+          <xsl:attribute name="name"><xsl:value-of select="source" /></xsl:attribute>
+        </xsl:if>
+        <xsl:attribute name="year">
+          <xsl:value-of select="substring-before(./created, '-')" />
+        </xsl:attribute>
+      </source>
+
+      <!-- process basic document metadata -->
+      <xsl:apply-templates select="related" />
+
+      <independent>
+        <xsl:if test="externalCitationOK">
+          <xsl:attribute name="independent-ok"><xsl:value-of select="externalCitationOK" /></xsl:attribute>
+        </xsl:if>
+        <xsl:choose>
+          <xsl:when test="externalCitation">
+            <xsl:value-of select="externalCitation" />
+          </xsl:when>
+          <xsl:otherwise>not given</xsl:otherwise>
+        </xsl:choose>
+      </independent>
       <!-- TODO -->
     </citation>
   </xsl:template>
 
   <xsl:template match="publishedYear">
     <date year="{.}" />
+  </xsl:template>
+
+  <xsl:template match="languages">
+    <!-- MTMT1 XML has a single language element with a (mostly comma-)separated values list -->
+    <xsl:if test="./language">
+      <language>
+        <xsl:for-each select="language">
+          <xsl:choose>
+            <xsl:when test="position() = 1">
+              <xsl:value-of select="name" />
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="concat(', ', name)" />
+            </xsl:otherwise>
+          </xsl:choose>
+        </xsl:for-each>
+      </language>
+    </xsl:if>
+  </xsl:template>
+
+  <xsl:template name="process-status">
+    <xsl:choose>
+      <xsl:when test="./status = 'APPROVED'">jóváhagyva</xsl:when><!-- publication/technical-data -->
+      <xsl:when test="./status = 'VALIDATED'">érvényesítve</xsl:when><!-- publication/technical-data -->
+      <xsl:when test="./status = 'ADMIN_APPROVED'">jóváhagyva</xsl:when><!-- citation -->
+      <!-- TODO: other cases -->
+      <xsl:otherwise><xsl:value-of select="./status"/></xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
   <xsl:template name="process-classifications">
@@ -141,13 +227,13 @@
     </classifications>
   </xsl:template>
 
-  <xsl:template match="publication/type|citation/related/type">
+  <xsl:template match="publication/type|citation/related/type|publication/book/type">
     <type identifier="{mtid}"><xsl:value-of select="label" /></type>
   </xsl:template>
-  <xsl:template match="publication/subType|citation/related/subType">
+  <xsl:template match="publication/subType|citation/related/subType|publication/book/subType">
     <subtype identifier="{mtid}"><xsl:value-of select="label" /></subtype>
   </xsl:template>
-  <xsl:template match="publication/category|citation/related/category">
+  <xsl:template match="publication/category|citation/related/category|publication/book/category">
     <character identifier="{mtid}"><xsl:value-of select="label" /></character>
   </xsl:template>
 </xsl:stylesheet>
