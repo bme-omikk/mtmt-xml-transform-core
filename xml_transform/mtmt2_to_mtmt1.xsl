@@ -64,7 +64,7 @@
             <xsl:if test="./adminApproved">
               <admin_seen>
                 <xsl:attribute name="timestamp">
-                  <xsl:value-of select="./adminApproved" /> <!-- TODO invalid -->
+                  <xsl:value-of select="substring-before(./adminApproved, '.000')" />
                 </xsl:attribute>
                 <name>
                   <xsl:attribute name="first">
