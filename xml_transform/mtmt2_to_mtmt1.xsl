@@ -31,6 +31,7 @@
                 <xsl:otherwise><xsl:value-of select="$technical_lang"/></xsl:otherwise>
               </xsl:choose>
             </language>
+            <!-- TODO: probably merge with xsl:template match="authorships/authorship" -->
             <owner>
               <name>
                 <xsl:attribute name="first">
@@ -122,6 +123,22 @@
     <xsl:apply-templates select="publishedYear" />
     <xsl:apply-templates select="languages" />
     <xsl:call-template name="process-classifications" />
+
+    <authors>
+      <xsl:for-each select="authorships/authorship[./type/otype='AuthorshipType' and ./type/mtid='1']"> <!-- AuthorshipType/mtid=1 is author -->
+        <author>
+          <xsl:apply-templates select="." />
+        </author>
+      </xsl:for-each>
+    </authors>
+    <editors>
+      <xsl:for-each select="authorships/authorship[./type/otype='AuthorshipType' and ./type/mtid='2']"> <!-- AuthorshipType/mtid=2 is editor -->
+        <editor>
+          <xsl:apply-templates select="." />
+        </editor>
+      </xsl:for-each>
+    </editors>
+
     <identifiers>
       <xsl:apply-templates select="identifiers/identifier" />
     </identifiers>
@@ -235,5 +252,16 @@
   </xsl:template>
   <xsl:template match="publication/category|citation/related/category|publication/book/category">
     <character identifier="{mtid}"><xsl:value-of select="label" /></character>
+  </xsl:template>
+
+  <!-- process basic person metadata -->
+  <xsl:template match="authorships/authorship">
+    <name first="{author/givenName}" last="{author/familyName}" share="{./share}">
+      <xsl:value-of select="author/label" />
+    </name>
+    <identifiers>
+      <identifier type="{$source_name}"><xsl:value-of select="./author/mtid" /></identifier>
+      <!-- TODO: other ids? -->
+    </identifiers>
   </xsl:template>
 </xsl:stylesheet>
