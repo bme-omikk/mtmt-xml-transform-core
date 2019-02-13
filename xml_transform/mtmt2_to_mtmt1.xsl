@@ -120,9 +120,11 @@
     <xsl:if test="subTitle">
       <subtitle><xsl:value-of select="subTitle" /></subtitle>
     </xsl:if>
-    <volume>
-      <xsl:value-of select="./volumeNumber" />
-    </volume>
+    <xsl:if test="./volumeNumber">
+      <volume>
+        <xsl:value-of select="./volumeNumber" />
+      </volume>
+    </xsl:if>
 
     <xsl:apply-templates select="publishers/publisher" />
     <xsl:apply-templates select="publishedAt" />
@@ -179,6 +181,9 @@
 
       <!-- process basic document metadata -->
       <xsl:apply-templates select="related" />
+      <owner>
+        <xsl:apply-templates select="adminApprover" />
+      </owner>
 
       <independent>
         <xsl:if test="externalCitationOK">
@@ -245,7 +250,7 @@
     <character identifier="{mtid}"><xsl:value-of select="label" /></character>
   </xsl:template>
 
-  <xsl:template match="creator|author">
+  <xsl:template match="creator|author|adminApprover">
     <name first="{./givenName}" last="{./familyName}">
       <xsl:if test="../share">
         <xsl:attribute name="share">
