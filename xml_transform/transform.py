@@ -24,4 +24,7 @@ def transform(original_xml_path, raise_if_invalid=True, source_name=etree.XSLT.s
 
 def is_valid(xml, schema_path='../util/mtmt1.xsd'):
     xml_schema = etree.XMLSchema(etree.parse(schema_path))
-    return xml_schema.validate(xml)
+    valid = xml_schema.validate(xml)
+    if not valid:
+        print(xml_schema.error_log)
+    return valid

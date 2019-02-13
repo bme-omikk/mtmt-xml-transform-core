@@ -124,6 +124,8 @@
       <xsl:value-of select="./volumeNumber" />
     </volume>
 
+    <xsl:apply-templates select="publishers/publisher" />
+    <xsl:apply-templates select="publishedAt" />
     <xsl:apply-templates select="publishedYear" />
     <xsl:apply-templates select="languages" />
     <xsl:call-template name="process-classifications" />
@@ -258,4 +260,16 @@
     </identifiers>
     <institutes><!-- TODO --></institutes>
   </xsl:template>
+
+  <xsl:template match="publisher">
+    <publisher>
+      <xsl:value-of select="./name" />
+    </publisher>
+    <!-- TODO: attr: city, country, publisher-coutnry -->
+  </xsl:template>
+
+  <xsl:template match="publishedAt">
+    <published country="{//partOf/label[../otype = 'Country']}" city="{substring-before(//city/label[../otype = 'City'], ',')}" />
+  </xsl:template>
+
 </xsl:stylesheet>
