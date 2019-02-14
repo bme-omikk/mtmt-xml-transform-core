@@ -35,16 +35,7 @@
               <xsl:apply-templates select="creator" />
             </owner>
             <source identifier="" name="" date="1970-01-01"  time="00:00:00" year="2010" /><!-- TODO -->
-            <edited>
-              <entry event="created">
-                <xsl:attribute name="date">
-                  <xsl:value-of select="substring-before(./created, 'T')" />
-                </xsl:attribute>
-                <xsl:attribute name="time">
-                  <xsl:value-of select="substring-after(substring-before(./created, '.'), 'T')" />
-                </xsl:attribute>
-              </entry>
-            </edited>
+            <xsl:call-template name="edited" />
             <xsl:if test="./adminApproved">
               <admin_seen>
                 <xsl:attribute name="timestamp">
@@ -185,6 +176,8 @@
         <xsl:apply-templates select="adminApprover" />
       </owner>
 
+      <xsl:call-template name="edited" />
+
       <independent>
         <xsl:if test="externalCitationOK">
           <xsl:attribute name="independent-ok"><xsl:value-of select="externalCitationOK" /></xsl:attribute>
@@ -275,6 +268,27 @@
 
   <xsl:template match="publishedAt">
     <published country="{//partOf/label[../otype = 'Country']}" city="{substring-before(//city/label[../otype = 'City'], ',')}" />
+  </xsl:template>
+
+  <xsl:template name="edited">
+    <edited>
+      <entry event="created">
+        <xsl:attribute name="date">
+          <xsl:value-of select="substring-before(./created, 'T')"/>
+        </xsl:attribute>
+        <xsl:attribute name="time">
+          <xsl:value-of select="substring-after(substring-before(./created, '.'), 'T')"/>
+        </xsl:attribute>
+      </entry>
+      <entry event="last-modified">
+        <xsl:attribute name="date">
+          <xsl:value-of select="substring-before(./lastModified, 'T')"/>
+        </xsl:attribute>
+        <xsl:attribute name="time">
+          <xsl:value-of select="substring-after(substring-before(./lastModified, '.'), 'T')"/>
+        </xsl:attribute>
+      </entry>
+    </edited>
   </xsl:template>
 
 </xsl:stylesheet>
