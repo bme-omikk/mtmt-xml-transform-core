@@ -2,12 +2,10 @@
 <myciteResult>
   <serverUrl>https://m2.mtmt.hu/</serverUrl>
   <labelLang>hun</labelLang>
-  <responseDate>2018-12-17 18:57</responseDate>
+  <responseDate>2019-02-16 15:42</responseDate>
   <content>
     <publication>
       <otype>Patent</otype>
-      <generatedId>false</generatedId>
-      <resolvingDuplum>false</resolvingDuplum>
       <mtid>2695812</mtid>
       <status>APPROVED</status>
       <published>true</published>
@@ -16,7 +14,7 @@
       <oldTimestamp>2014-06-23T17:04:30.000+0000</oldTimestamp>
       <deleted>false</deleted>
       <oldId>2695812</oldId>
-      <lastRefresh>2018-10-06T18:41:46.563+0000</lastRefresh>
+      <lastRefresh>2019-01-28T19:32:08.508+0000</lastRefresh>
       <lastModified>2014-06-23T17:04:30.000+0000</lastModified>
       <created>2013-11-13T10:54:00.000+0000</created>
       <creator>
@@ -36,8 +34,6 @@
       <citations>
         <citation>
           <otype>Citation</otype>
-          <generatedId>false</generatedId>
-          <resolvingDuplum>false</resolvingDuplum>
           <mtid>24054734</mtid>
           <status>APPROVED</status>
           <published>true</published>
@@ -507,6 +503,7 @@
         <snippet>true</snippet>
       </category>
       <firstAuthor>Teszt, E</firstAuthor>
+      <directInstitutesForSort>Budapesti Műszaki és Gazdaságtudományi Egyetem</directInstitutesForSort>
       <ownerAuthorCount>1</ownerAuthorCount>
       <ownerInstituteCount>1</ownerInstituteCount>
       <directInstituteCount>1</directInstituteCount>
@@ -524,11 +521,15 @@
       <conferencePublication>false</conferencePublication>
       <nationalOrigin>true</nationalOrigin>
       <missingAuthor>false</missingAuthor>
+      <oaType>NONE</oaType>
+      <oaCheckDate>2019-01-28</oaCheckDate>
       <oaFree>false</oaFree>
       <citationCount>1</citationCount>
       <citationCountUnpublished>0</citationCountUnpublished>
       <citationCountWoOther>1</citationCountWoOther>
       <independentCitCountWoOther>1</independentCitCountWoOther>
+      <nationalOriginCitationCount>0</nationalOriginCitationCount>
+      <foreignEditionCitationCount>0</foreignEditionCitationCount>
       <doiCitationCount>1</doiCitationCount>
       <wosCitationCount>0</wosCitationCount>
       <scopusCitationCount>0</scopusCitationCount>
@@ -912,8 +913,7 @@
       <label>Teszt E. Oltalmi forma címe: alcím. (2003) szabadalmi szám Magyarország</label><template>&lt;div class=&quot;Patent Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt, E&lt;/a&gt; &lt;/span&gt; &lt;/div &gt; &lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;2695812&quot; mtid=&quot;2695812&quot; target=&quot;_blank&quot;&gt;Oltalmi forma címe&lt;span class=&quot;subTitle&quot;&gt;: alcím&lt;/span&gt;&lt;/a&gt;&lt;/div&gt; &lt;div class=&quot;pub-info&quot;&gt; &lt;span class=&quot;patentnumber&quot;&gt;szabadalmi szám&lt;/span&gt; , &lt;span class=&quot;submissionYear&quot;&gt;Benyújtás éve (szabadalom): 2000&lt;/span&gt; , &lt;span class=&quot;submissionNumber&quot;&gt;Benyújtás száma: benyújtás száma&lt;/span&gt; &lt;span class=&quot;ipc&quot;&gt;, NSZO: NSZO&lt;/span&gt; , &lt;span class=&quot;casenumber&quot;&gt;Ügyszám: Ügyszám&lt;/span&gt; , &lt;span class=&quot;patentCountry&quot;&gt;Benyújtás országa: Magyarország&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;medline-id/oltalom.1234&quot; target=&quot;_blank&quot; href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=medline-id/oltalom.1234&amp;dopt=Abstract&quot;&gt;PubMed&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;000463955&quot; target=&quot;_blank&quot; href=&quot;http://aleph.omikk.bme.hu/jump/sysno/000463955&quot;&gt;BME OMIKK&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.intra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.intra&quot;&gt;Teljes dokumentum&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;http://webcim.kiado.intra&quot; target=&quot;_blank&quot; href=&quot;http://webcim.kiado.intra&quot;&gt;Egyéb URL&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:2695812 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-APPROVED&quot;&gt; Jóváhagyott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt;Forrás &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Oltalmi formák (Magyar szabadalom ) &lt;/span&gt; &lt;span class=&quot;citing-count1&quot;&gt;Nyilvános idézők összesen: 1&lt;/span&gt; &lt;span class=&quot;citing-count-independent&quot;&gt;Független: 1&lt;/span&gt; &lt;span class=&quot;citing-count-self&quot;&gt;Függő: 0&lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt;</template><template2>&lt;div class=&quot;Patent Publication long-list&quot;&gt;
 &lt;div class=&quot;authors&quot;&gt;
 	 	&lt;img title=&quot;Forrásközlemény&quot; style=&quot;float: left&quot; src=&quot;/frontend/resources/grid/publication-core-icon.png&quot;&gt;		
-				&lt;div class=&quot;autype autype0&quot;&gt;											        &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a
-            href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt E
+				&lt;div class=&quot;autype autype0&quot;&gt;											        &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a             href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt E
                     (&lt;span class=&quot;authorship-author-name&quot;&gt;Teszt Elek&lt;/span&gt;
             &lt;span class=&quot;authorAux-mtmt&quot;&gt; MTO teszt&lt;/span&gt;)
 		                &lt;/a&gt;    &lt;/span&gt;
@@ -930,21 +930,21 @@
 		            Magyar				 | &lt;/span&gt;
 
 	&lt;span class=&quot;identifiers&quot;&gt;
-													                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+																                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
 &quot;&gt;
-						                &lt;a style=&quot;color: black&quot; title=&quot;medline-id/oltalom.1234&quot; target=&quot;_blank&quot; href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=medline-id/oltalom.1234&amp;dopt=Abstract&quot;&gt;PubMed&lt;/a&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;medline-id/oltalom.1234&quot; target=&quot;_blank&quot; href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=medline-id/oltalom.1234&amp;dopt=Abstract&quot;&gt;PubMed&lt;/a&gt;
 					&lt;/span&gt;
-																						                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+																									                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
 &quot;&gt;
-						                &lt;a style=&quot;color: black&quot; title=&quot;000463955&quot; target=&quot;_blank&quot; href=&quot;http://aleph.omikk.bme.hu/jump/sysno/000463955&quot;&gt;BME OMIKK&lt;/a&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;000463955&quot; target=&quot;_blank&quot; href=&quot;http://aleph.omikk.bme.hu/jump/sysno/000463955&quot;&gt;BME OMIKK&lt;/a&gt;
 					&lt;/span&gt;
-																						                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+																									                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
 &quot;&gt;
-						                &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.intra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.intra&quot;&gt;Teljes dokumentum&lt;/a&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.intra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.intra&quot;&gt;Teljes dokumentum&lt;/a&gt;
 					&lt;/span&gt;
-																						                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+																									                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
 &quot;&gt;
-						                &lt;a style=&quot;color: black&quot; title=&quot;http://webcim.kiado.intra&quot; target=&quot;_blank&quot; href=&quot;http://webcim.kiado.intra&quot;&gt;Egyéb URL&lt;/a&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;http://webcim.kiado.intra&quot; target=&quot;_blank&quot; href=&quot;http://webcim.kiado.intra&quot;&gt;Egyéb URL&lt;/a&gt;
 					&lt;/span&gt;
 										    &lt;/span&gt;
 
@@ -960,14 +960,14 @@
 
 
     &lt;div class=&quot;mtid&quot;&gt;&lt;span class=&quot;long-pub-mtid&quot;&gt;Közlemény: 2695812&lt;/span&gt;
-    | &lt;span class=&quot;status-data status-APPROVED&quot;&gt;	Jóváhagyott
+    |  Nyilvános &lt;span class=&quot;status-data status-APPROVED&quot;&gt;	Jóváhagyott
 &lt;/span&gt;
-        	&lt;span class=&quot;oldId&quot;&gt;Régi azonosító: &lt;a target=&quot;_blank&quot; href=&quot;http://migralas-teszt1.mtmt.hu/www/index.php?mode=html&amp;DocumentID=2695812&amp;frame_off=1&amp;st_on=1&amp;type_on=1&amp;url_on=1&quot;&gt;2695812&lt;/a&gt;&lt;/span&gt; | 		Forrás			        | &lt;span class=&quot;type-subtype&quot;&gt;Oltalmi formák
+        	&lt;span class=&quot;oldId&quot;&gt;Régi azonosító: &lt;a target=&quot;_blank&quot; href=&quot;http://vm.mtmt.hu/www/index.php?mode=html&amp;DocumentID=2695812&amp;frame_off=1&amp;st_on=1&amp;type_on=1&amp;url_on=1&quot;&gt;2695812&lt;/a&gt;&lt;/span&gt; | 		Forrás			        | &lt;span class=&quot;type-subtype&quot;&gt;Oltalmi formák
 					( Magyar szabadalom
 						)
 		 &lt;/span&gt;
 		      		| Tudományos
-			 | Nyilvános	&lt;/span&gt; | &lt;span class=&quot;publication-sourceOfData&quot;&gt;kézi felvitel&lt;/span&gt;
+			&lt;/span&gt; | &lt;span class=&quot;publication-sourceOfData&quot;&gt;kézi felvitel&lt;/span&gt;
 &lt;/div&gt;
 
 

@@ -6,16 +6,20 @@ Az MTMT2 XML fájlokban a gyökérelem `myciteResult`, de lehet `myciteResultLis
 
 ## MTMT2 lekérdezés
 
+```
+export FIELDS='citations:1,publishers.cities.partOf:1,book.publishers.cities.partOf:1,journal.publishers.cities.partOf:1'
+```
+
  - egyes közleményekre
 
 ```
-for d in $(cat documents.lst) ; do wget -O - 'https://m2.mtmt.hu/api/publication/'$d'?&fields=citations:1&format=xml' | grep -v '^<?xml-stylesheet .*?>$' >doc_${d}_mtmt2.xml ; done
+for d in $(cat documents.lst) ; do wget -O - 'https://m2.mtmt.hu/api/publication/'${d}'?&fields='$FIELDS'&format=xml' | grep -v '^<?xml-stylesheet .*?>$' >doc_${d}_mtmt2.xml ; done
 ```
 
  - szerzőkre
 
 ```
-for a in $(cat authors.lst) ; do wget -O - 'https://m2.mtmt.hu/api/publication?&cond=authors;eq;'${a}'&fields=citations:1&format=xml' | grep -v '^<?xml-stylesheet .*?>$' >author_${a}_mtmt2.xml ; done
+for a in $(cat authors.lst) ; do wget -O - 'https://m2.mtmt.hu/api/publication?&cond=authors;eq;'${a}'&fields='$FIELDS'&format=xml' | grep -v '^<?xml-stylesheet .*?>$' >author_${a}_mtmt2.xml ; done
 ```
 
 

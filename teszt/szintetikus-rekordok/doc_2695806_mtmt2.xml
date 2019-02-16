@@ -2,12 +2,10 @@
 <myciteResult>
   <serverUrl>https://m2.mtmt.hu/</serverUrl>
   <labelLang>hun</labelLang>
-  <responseDate>2018-12-17 18:57</responseDate>
+  <responseDate>2019-02-16 15:42</responseDate>
   <content>
     <publication>
       <otype>BookChapter</otype>
-      <generatedId>false</generatedId>
-      <resolvingDuplum>false</resolvingDuplum>
       <mtid>2695806</mtid>
       <status>ADMIN_APPROVED</status>
       <published>true</published>
@@ -48,8 +46,6 @@
       <citations>
         <citation>
           <otype>Citation</otype>
-          <generatedId>false</generatedId>
-          <resolvingDuplum>false</resolvingDuplum>
           <mtid>24054731</mtid>
           <status>APPROVED</status>
           <published>true</published>
@@ -597,179 +593,33 @@
       <userChangeableUntil>2013-12-18T11:16:23.000+0000</userChangeableUntil>
       <publishDate>2014-06-23T17:04:30.000+0000</publishDate>
       <book>
-        <snippet>true</snippet>
-        <pageLength>150</pageLength>
-        <languages>
-          <language>
-            <snippet>true</snippet>
-            <mtid>10002</mtid>
-            <nameEng>English</nameEng>
-            <link>/api/language/10002</link>
-            <name>Angol</name>
-            <otype>Language</otype>
-            <label>Angol</label>
-            <published>true</published>
-            <oldId>2</oldId>
-          </language>
-        </languages>
-        <citation>false</citation>
-        <publishedAt>
-          <city>
-            <snippet>true</snippet>
-            <mtid>10003</mtid>
-            <partOf>
-              <snippet>true</snippet>
-              <mtid>10001</mtid>
-              <link>/api/country/10001</link>
-              <otype>Country</otype>
-              <label>Magyarország</label>
-              <published>true</published>
-              <oldId>1</oldId>
-            </partOf>
-            <link>/api/city/10003</link>
-            <otype>City</otype>
-            <label>Budapest, Magyarország</label>
-            <published>true</published>
-            <oldId>10005024</oldId>
-          </city>
-        </publishedAt>
-        <identifiers>
-          <identifier>
-            <snippet>true</snippet>
-            <mtid>867432</mtid>
-            <link>/api/publicationidentifier/867432</link>
-            <realUrl>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=gggmedline-id/konyv.1234&amp;dopt=Abstract</realUrl>
-            <idValue>gggmedline-id/konyv.1234</idValue>
-            <otype>PublicationIdentifier</otype>
-            <label>PubMed: gggmedline-id/konyv.1234</label>
-            <source>
-              <snippet>true</snippet>
-              <mtid>17</mtid>
-              <linkPattern>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=@@@&amp;dopt=Abstract</linkPattern>
-              <link>/api/publicationsource/17</link>
-              <name>PubMed</name>
-              <otype>PlainSource</otype>
-              <label>PubMed</label>
-              <published>true</published>
-              <type>
-                <snippet>true</snippet>
-                <mtid>10003</mtid>
-                <link>/api/publicationsourcetype/10003</link>
-                <otype>PublicationSourceType</otype>
-                <label>Indexelő adatbázis</label>
-                <published>true</published>
-                <mayHaveOa>false</mayHaveOa>
-              </type>
-              <oldId>17</oldId>
-              <publiclyVisible>true</publiclyVisible>
-            </source>
-            <published>false</published>
-            <oaFree>false</oaFree>
-            <oldId>890373</oldId>
-          </identifier>
-          <identifier>
-            <snippet>true</snippet>
-            <mtid>867433</mtid>
-            <link>/api/publicationidentifier/867433</link>
-            <realUrl>http://link.oszk.hu/libriurl.php?LN=hu&amp;DB=OSZK&amp;SRY=an&amp;SRE=rrrrrr2539894</realUrl>
-            <idValue>rrrrrr2539894</idValue>
-            <otype>PublicationIdentifier</otype>
-            <label>OSZK: rrrrrr2539894</label>
-            <source>
-              <snippet>true</snippet>
-              <mtid>29</mtid>
-              <linkPattern>http://link.oszk.hu/libriurl.php?LN=hu&amp;DB=OSZK&amp;SRY=an&amp;SRE=@@@</linkPattern>
-              <link>/api/publicationsource/29</link>
-              <name>OSZK</name>
-              <otype>PlainSource</otype>
-              <label>OSZK</label>
-              <published>true</published>
-              <type>
-                <snippet>true</snippet>
-                <mtid>10005</mtid>
-                <link>/api/publicationsourcetype/10005</link>
-                <otype>PublicationSourceType</otype>
-                <label>Könyvtári katalógus</label>
-                <published>true</published>
-                <mayHaveOa>false</mayHaveOa>
-              </type>
-              <oldId>29</oldId>
-              <publiclyVisible>true</publiclyVisible>
-            </source>
-            <published>false</published>
-            <oaFree>false</oaFree>
-            <oldId>890371</oldId>
-          </identifier>
-          <identifier>
-            <snippet>true</snippet>
-            <mtid>867434</mtid>
-            <link>/api/publicationidentifier/867434</link>
-            <realUrl>http://publikus.web.uuuuuintra</realUrl>
-            <idValue>http://publikus.web.uuuuuintra</idValue>
-            <otype>PublicationIdentifier</otype>
-            <label>Teljes dokumentum: http://publikus.web.uuuuuintra</label>
-            <source>
-              <snippet>true</snippet>
-              <mtid>39</mtid>
-              <linkPattern>@@@</linkPattern>
-              <link>/api/publicationsource/39</link>
-              <name>Teljes dokumentum</name>
-              <otype>PlainSource</otype>
-              <label>Teljes dokumentum</label>
-              <published>true</published>
-              <type>
-                <snippet>true</snippet>
-                <mtid>10006</mtid>
-                <link>/api/publicationsourcetype/10006</link>
-                <otype>PublicationSourceType</otype>
-                <label>Link</label>
-                <published>true</published>
-                <mayHaveOa>true</mayHaveOa>
-              </type>
-              <oldId>39</oldId>
-              <publiclyVisible>true</publiclyVisible>
-            </source>
-            <published>false</published>
-            <oaFree>false</oaFree>
-            <oldId>890377</oldId>
-          </identifier>
-          <identifier>
-            <snippet>true</snippet>
-            <mtid>867435</mtid>
-            <link>/api/publicationidentifier/867435</link>
-            <realUrl>http://webcim.kiado.intra</realUrl>
-            <idValue>http://webcim.kiado.intra</idValue>
-            <otype>PublicationIdentifier</otype>
-            <label>Egyéb URL: http://webcim.kiado.intra</label>
-            <source>
-              <snippet>true</snippet>
-              <mtid>40</mtid>
-              <linkPattern>@@@</linkPattern>
-              <link>/api/publicationsource/40</link>
-              <name>Egyéb URL</name>
-              <otype>PlainSource</otype>
-              <label>Egyéb URL</label>
-              <published>true</published>
-              <type>
-                <snippet>true</snippet>
-                <mtid>10006</mtid>
-                <link>/api/publicationsourcetype/10006</link>
-                <otype>PublicationSourceType</otype>
-                <label>Link</label>
-                <published>true</published>
-                <mayHaveOa>true</mayHaveOa>
-              </type>
-              <oldId>40</oldId>
-              <publiclyVisible>true</publiclyVisible>
-            </source>
-            <published>false</published>
-            <oaFree>false</oaFree>
-            <oldId>890378</oldId>
-          </identifier>
-        </identifiers>
-        <link>/api/publication/2695805</link>
-        <label>Teszt Elek. Könyv címe: Könyv alcíme. (2004)</label>
+        <otype>Book</otype>
+        <mtid>2695805</mtid>
+        <status>APPROVED</status>
         <published>true</published>
+        <comment>megjegyzés</comment>
+        <unhandledTickets>0</unhandledTickets>
+        <oldTimestamp>2014-06-23T17:04:30.000+0000</oldTimestamp>
+        <deleted>false</deleted>
+        <oldId>2695805</oldId>
+        <lastRefresh>2018-12-17T17:33:40.750+0000</lastRefresh>
+        <lastModified>2014-06-23T17:04:30.000+0000</lastModified>
+        <created>2013-11-13T10:20:00.000+0000</created>
+        <creator>
+          <snippet>true</snippet>
+          <mtid>10023926</mtid>
+          <familyName>Teszt</familyName>
+          <givenName>Elek</givenName>
+          <link>/api/author/10023926</link>
+          <otype>Author</otype>
+          <label>Teszt Elek (MTO teszt)</label>
+          <published>true</published>
+          <oldId>10023926</oldId>
+        </creator>
+        <lastDuplumOK>2018-12-06T07:58:24.466+0000</lastDuplumOK>
+        <lastDuplumSearch>2018-12-06T07:58:24.466+0000</lastDuplumSearch>
+        <core>true</core>
+        <publicationPending>false</publicationPending>
         <type>
           <snippet>true</snippet>
           <mtid>23</mtid>
@@ -782,15 +632,6 @@
           <oldId>23</oldId>
           <otypeName>Book</otypeName>
         </type>
-        <title>Könyv címe</title>
-        <oldId>2695805</oldId>
-        <publicationPending>false</publicationPending>
-        <nationalOrigin>true</nationalOrigin>
-        <mtid>2695805</mtid>
-        <core>true</core>
-        <foreignEdition>false</foreignEdition>
-        <conferencePublication>false</conferencePublication>
-        <foreignLanguage>true</foreignLanguage>
         <subType>
           <snippet>true</snippet>
           <mtid>10000201</mtid>
@@ -815,9 +656,6 @@
           <published>true</published>
           <oldId>10000201</oldId>
         </subType>
-        <fullPublication>true</fullPublication>
-        <otype>Book</otype>
-        <publishedYear>2004</publishedYear>
         <category>
           <snippet>true</snippet>
           <mtid>1</mtid>
@@ -827,6 +665,927 @@
           <published>true</published>
           <oldId>1</oldId>
         </category>
+        <firstAuthor>Teszt, Elek</firstAuthor>
+        <ownerAuthorCount>1</ownerAuthorCount>
+        <ownerInstituteCount>1</ownerInstituteCount>
+        <directInstituteCount>1</directInstituteCount>
+        <authorCount>1</authorCount>
+        <contributorCount>1</contributorCount>
+        <title>Könyv címe</title>
+        <subTitle>Könyv alcíme</subTitle>
+        <volumeNumber>Kötetszám</volumeNumber>
+        <volumeTitle>Kötetcím</volumeTitle>
+        <editionNumber>0</editionNumber>
+        <firstPageOrInternalIdForSort></firstPageOrInternalIdForSort>
+        <pageLength>150</pageLength>
+        <publishedYear>2004</publishedYear>
+        <abstractText>absztrakt</abstractText>
+        <digital>true</digital>
+        <printed>true</printed>
+        <packet>bme-pa-migracio-20014-06-20-v01</packet>
+        <foreignEdition>false</foreignEdition>
+        <foreignLanguage>true</foreignLanguage>
+        <fullPublication>true</fullPublication>
+        <conferencePublication>false</conferencePublication>
+        <nationalOrigin>true</nationalOrigin>
+        <missingAuthor>false</missingAuthor>
+        <oaType>NONE</oaType>
+        <oaCheckDate>2018-12-17</oaCheckDate>
+        <oaFree>false</oaFree>
+        <citationCount>0</citationCount>
+        <citationCountUnpublished>0</citationCountUnpublished>
+        <citationCountWoOther>0</citationCountWoOther>
+        <independentCitCountWoOther>0</independentCitCountWoOther>
+        <doiCitationCount>0</doiCitationCount>
+        <wosCitationCount>0</wosCitationCount>
+        <scopusCitationCount>0</scopusCitationCount>
+        <independentCitationCount>0</independentCitationCount>
+        <selfCitationCount>0</selfCitationCount>
+        <unhandledCitationCount>0</unhandledCitationCount>
+        <citingPubCount>0</citingPubCount>
+        <independentCitingPubCount>0</independentCitingPubCount>
+        <unhandledCitingPubCount>0</unhandledCitingPubCount>
+        <citedPubCount>0</citedPubCount>
+        <citedCount>0</citedCount>
+        <referenceList>Közleményben hivatkozott művek</referenceList>
+        <hasCitationDuplums>false</hasCitationDuplums>
+        <importDuplum>false</importDuplum>
+        <importOverwritten>false</importOverwritten>
+        <importSkipped>false</importSkipped>
+        <userChangeableUntil>2014-09-21T17:04:30.000+0000</userChangeableUntil>
+        <publishDate>2014-06-23T17:04:30.000+0000</publishDate>
+        <chapterCount>1</chapterCount>
+        <fromCitation>false</fromCitation>
+        <languages>
+          <language>
+            <otype>Language</otype>
+            <mtid>10002</mtid>
+            <link>/api/language/10002</link>
+            <label>Angol</label>
+            <name>Angol</name>
+            <nameEng>English</nameEng>
+            <published>true</published>
+            <oldId>2</oldId>
+            <snippet>true</snippet>
+          </language>
+        </languages>
+        <authorships>
+          <authorship>
+            <otype>PersonAuthorship</otype>
+            <mtid>5360526</mtid>
+            <link>/api/authorship/5360526</link>
+            <label>Teszt, Elek [Teszt, Elek (MTO teszt), szerző]</label>
+            <listPosition>1</listPosition>
+            <share>1.0</share>
+            <first>true</first>
+            <last>false</last>
+            <author>
+              <otype>Author</otype>
+              <mtid>10023926</mtid>
+              <link>/api/author/10023926</link>
+              <label>Teszt Elek (MTO teszt)</label>
+              <familyName>Teszt</familyName>
+              <givenName>Elek</givenName>
+              <published>true</published>
+              <oldId>10023926</oldId>
+              <snippet>true</snippet>
+            </author>
+            <familyName>Teszt</familyName>
+            <givenName>Elek</givenName>
+            <authorTyped>true</authorTyped>
+            <editorTyped>false</editorTyped>
+            <otherTyped>false</otherTyped>
+            <type>
+              <otype>AuthorshipType</otype>
+              <mtid>1</mtid>
+              <link>/api/authorshiptype/1</link>
+              <label>Szerző</label>
+              <code>0</code>
+              <published>true</published>
+              <oldId>0</oldId>
+              <snippet>true</snippet>
+            </type>
+            <published>false</published>
+            <oldId>20055723</oldId>
+            <snippet>true</snippet>
+          </authorship>
+          <authorship>
+            <otype>PersonAuthorship</otype>
+            <mtid>5360527</mtid>
+            <link>/api/authorship/5360527</link>
+            <label>Teszt, E [Teszt, Elek (MTO teszt), szerk.] Budapesti Műszaki és Gazdaságtudományi Egyetem</label>
+            <listPosition>2</listPosition>
+            <share>1.0</share>
+            <first>false</first>
+            <last>true</last>
+            <author>
+              <otype>Author</otype>
+              <mtid>10023926</mtid>
+              <link>/api/author/10023926</link>
+              <label>Teszt Elek (MTO teszt)</label>
+              <familyName>Teszt</familyName>
+              <givenName>Elek</givenName>
+              <published>true</published>
+              <oldId>10023926</oldId>
+              <snippet>true</snippet>
+            </author>
+            <familyName>Teszt</familyName>
+            <givenName>E</givenName>
+            <authorTyped>false</authorTyped>
+            <editorTyped>true</editorTyped>
+            <otherTyped>false</otherTyped>
+            <type>
+              <otype>AuthorshipType</otype>
+              <mtid>2</mtid>
+              <link>/api/authorshiptype/2</link>
+              <label>Szerkesztő</label>
+              <code>-1</code>
+              <published>true</published>
+              <oldId>-1</oldId>
+              <snippet>true</snippet>
+            </type>
+            <published>false</published>
+            <oldId>20055722</oldId>
+            <snippet>true</snippet>
+          </authorship>
+        </authorships>
+        <seriesMembers>
+          <seriesMember>
+            <otype>SeriesVolume</otype>
+            <mtid>41901</mtid>
+            <link>/api/seriesvolume/41901</link>
+            <label>Sorozatcím 4444-4444, sor.kötet</label>
+            <publication>
+              <otype>Book</otype>
+              <mtid>2695805</mtid>
+              <link>/api/publication/2695805</link>
+              <label>Teszt Elek. Könyv címe: Könyv alcíme. (2004)</label>
+              <core>true</core>
+              <citation>false</citation>
+              <publicationPending>false</publicationPending>
+              <type>
+                <otype>PublicationType</otype>
+                <mtid>23</mtid>
+                <link>/api/publicationtype/23</link>
+                <label>Könyv</label>
+                <code>23</code>
+                <otypeName>Book</otypeName>
+                <listPosition>3</listPosition>
+                <published>true</published>
+                <oldId>23</oldId>
+                <snippet>true</snippet>
+              </type>
+              <subType>
+                <otype>SubType</otype>
+                <mtid>10000201</mtid>
+                <link>/api/subtype/10000201</link>
+                <label>Szakkönyv (Könyv)</label>
+                <name>Szakkönyv</name>
+                <nameEng>Monograph</nameEng>
+                <docType>
+                  <otype>PublicationType</otype>
+                  <mtid>23</mtid>
+                  <link>/api/publicationtype/23</link>
+                  <label>Könyv</label>
+                  <code>23</code>
+                  <otypeName>Book</otypeName>
+                  <listPosition>3</listPosition>
+                  <published>true</published>
+                  <oldId>23</oldId>
+                  <snippet>true</snippet>
+                </docType>
+                <listPosition>337</listPosition>
+                <published>true</published>
+                <oldId>10000201</oldId>
+                <snippet>true</snippet>
+              </subType>
+              <category>
+                <otype>Category</otype>
+                <mtid>1</mtid>
+                <link>/api/category/1</link>
+                <label>Tudományos</label>
+                <published>true</published>
+                <oldId>1</oldId>
+                <snippet>true</snippet>
+              </category>
+              <languages>
+                <language>
+                  <otype>Language</otype>
+                  <mtid>10002</mtid>
+                  <link>/api/language/10002</link>
+                  <label>Angol</label>
+                  <name>Angol</name>
+                  <nameEng>English</nameEng>
+                  <published>true</published>
+                  <oldId>2</oldId>
+                  <snippet>true</snippet>
+                </language>
+              </languages>
+              <title>Könyv címe</title>
+              <publishedAt>
+                <city>
+                  <otype>City</otype>
+                  <mtid>10003</mtid>
+                  <link>/api/city/10003</link>
+                  <label>Budapest, Magyarország</label>
+                  <partOf>
+                    <otype>Country</otype>
+                    <mtid>10001</mtid>
+                    <link>/api/country/10001</link>
+                    <label>Magyarország</label>
+                    <published>true</published>
+                    <oldId>1</oldId>
+                    <snippet>true</snippet>
+                  </partOf>
+                  <published>true</published>
+                  <oldId>10005024</oldId>
+                  <snippet>true</snippet>
+                </city>
+              </publishedAt>
+              <pageLength>150</pageLength>
+              <publishedYear>2004</publishedYear>
+              <identifiers>
+                <identifier>
+                  <otype>PublicationIdentifier</otype>
+                  <mtid>867432</mtid>
+                  <link>/api/publicationidentifier/867432</link>
+                  <label>PubMed: gggmedline-id/konyv.1234</label>
+                  <source>
+                    <otype>PlainSource</otype>
+                    <mtid>17</mtid>
+                    <link>/api/publicationsource/17</link>
+                    <label>PubMed</label>
+                    <type>
+                      <otype>PublicationSourceType</otype>
+                      <mtid>10003</mtid>
+                      <link>/api/publicationsourcetype/10003</link>
+                      <label>Indexelő adatbázis</label>
+                      <mayHaveOa>false</mayHaveOa>
+                      <published>true</published>
+                      <snippet>true</snippet>
+                    </type>
+                    <name>PubMed</name>
+                    <linkPattern>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=@@@&amp;dopt=Abstract</linkPattern>
+                    <publiclyVisible>true</publiclyVisible>
+                    <published>true</published>
+                    <oldId>17</oldId>
+                    <snippet>true</snippet>
+                  </source>
+                  <oaFree>false</oaFree>
+                  <idValue>gggmedline-id/konyv.1234</idValue>
+                  <realUrl>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=gggmedline-id/konyv.1234&amp;dopt=Abstract</realUrl>
+                  <published>false</published>
+                  <oldId>890373</oldId>
+                  <snippet>true</snippet>
+                </identifier>
+                <identifier>
+                  <otype>PublicationIdentifier</otype>
+                  <mtid>867433</mtid>
+                  <link>/api/publicationidentifier/867433</link>
+                  <label>OSZK: rrrrrr2539894</label>
+                  <source>
+                    <otype>PlainSource</otype>
+                    <mtid>29</mtid>
+                    <link>/api/publicationsource/29</link>
+                    <label>OSZK</label>
+                    <type>
+                      <otype>PublicationSourceType</otype>
+                      <mtid>10005</mtid>
+                      <link>/api/publicationsourcetype/10005</link>
+                      <label>Könyvtári katalógus</label>
+                      <mayHaveOa>false</mayHaveOa>
+                      <published>true</published>
+                      <snippet>true</snippet>
+                    </type>
+                    <name>OSZK</name>
+                    <linkPattern>http://link.oszk.hu/libriurl.php?LN=hu&amp;DB=OSZK&amp;SRY=an&amp;SRE=@@@</linkPattern>
+                    <publiclyVisible>true</publiclyVisible>
+                    <published>true</published>
+                    <oldId>29</oldId>
+                    <snippet>true</snippet>
+                  </source>
+                  <oaFree>false</oaFree>
+                  <idValue>rrrrrr2539894</idValue>
+                  <realUrl>http://link.oszk.hu/libriurl.php?LN=hu&amp;DB=OSZK&amp;SRY=an&amp;SRE=rrrrrr2539894</realUrl>
+                  <published>false</published>
+                  <oldId>890371</oldId>
+                  <snippet>true</snippet>
+                </identifier>
+                <identifier>
+                  <otype>PublicationIdentifier</otype>
+                  <mtid>867434</mtid>
+                  <link>/api/publicationidentifier/867434</link>
+                  <label>Teljes dokumentum: http://publikus.web.uuuuuintra</label>
+                  <source>
+                    <otype>PlainSource</otype>
+                    <mtid>39</mtid>
+                    <link>/api/publicationsource/39</link>
+                    <label>Teljes dokumentum</label>
+                    <type>
+                      <otype>PublicationSourceType</otype>
+                      <mtid>10006</mtid>
+                      <link>/api/publicationsourcetype/10006</link>
+                      <label>Link</label>
+                      <mayHaveOa>true</mayHaveOa>
+                      <published>true</published>
+                      <snippet>true</snippet>
+                    </type>
+                    <name>Teljes dokumentum</name>
+                    <linkPattern>@@@</linkPattern>
+                    <publiclyVisible>true</publiclyVisible>
+                    <published>true</published>
+                    <oldId>39</oldId>
+                    <snippet>true</snippet>
+                  </source>
+                  <oaFree>false</oaFree>
+                  <idValue>http://publikus.web.uuuuuintra</idValue>
+                  <realUrl>http://publikus.web.uuuuuintra</realUrl>
+                  <published>false</published>
+                  <oldId>890377</oldId>
+                  <snippet>true</snippet>
+                </identifier>
+                <identifier>
+                  <otype>PublicationIdentifier</otype>
+                  <mtid>867435</mtid>
+                  <link>/api/publicationidentifier/867435</link>
+                  <label>Egyéb URL: http://webcim.kiado.intra</label>
+                  <source>
+                    <otype>PlainSource</otype>
+                    <mtid>40</mtid>
+                    <link>/api/publicationsource/40</link>
+                    <label>Egyéb URL</label>
+                    <type>
+                      <otype>PublicationSourceType</otype>
+                      <mtid>10006</mtid>
+                      <link>/api/publicationsourcetype/10006</link>
+                      <label>Link</label>
+                      <mayHaveOa>true</mayHaveOa>
+                      <published>true</published>
+                      <snippet>true</snippet>
+                    </type>
+                    <name>Egyéb URL</name>
+                    <linkPattern>@@@</linkPattern>
+                    <publiclyVisible>true</publiclyVisible>
+                    <published>true</published>
+                    <oldId>40</oldId>
+                    <snippet>true</snippet>
+                  </source>
+                  <oaFree>false</oaFree>
+                  <idValue>http://webcim.kiado.intra</idValue>
+                  <realUrl>http://webcim.kiado.intra</realUrl>
+                  <published>false</published>
+                  <oldId>890378</oldId>
+                  <snippet>true</snippet>
+                </identifier>
+              </identifiers>
+              <foreignEdition>false</foreignEdition>
+              <foreignLanguage>true</foreignLanguage>
+              <fullPublication>true</fullPublication>
+              <conferencePublication>false</conferencePublication>
+              <nationalOrigin>true</nationalOrigin>
+              <published>true</published>
+              <oldId>2695805</oldId>
+              <snippet>true</snippet>
+            </publication>
+            <series>
+              <otype>BookSeries</otype>
+              <mtid>20016962</mtid>
+              <link>/api/bookseries/20016962</link>
+              <label>Sorozatcím 4444-4444</label>
+              <pIssn>4444-4444</pIssn>
+              <noIF>false</noIF>
+              <sciIndexed>false</sciIndexed>
+              <scopusIndexed>false</scopusIndexed>
+              <hungarian>false</hungarian>
+              <published>true</published>
+              <snippet>true</snippet>
+            </series>
+            <published>false</published>
+            <snippet>true</snippet>
+          </seriesMember>
+        </seriesMembers>
+        <publishers>
+          <publisher>
+            <otype>Publisher</otype>
+            <mtid>15887</mtid>
+            <status>APPROVED</status>
+            <published>true</published>
+            <unhandledTickets>0</unhandledTickets>
+            <oldTimestamp>2016-02-29T17:12:26.000+0000</oldTimestamp>
+            <deleted>false</deleted>
+            <oldId>10000377</oldId>
+            <lastModified>2018-11-05T13:14:04.414+0000</lastModified>
+            <created>2018-11-04T08:12:50.215+0000</created>
+            <duplumSearchResult>
+              <id>1677207</id>
+              <creationDate>2018-11-04T08:12:50.210+0000</creationDate>
+              <startDate>2019-01-22T09:44:36.663+0000</startDate>
+              <creator>
+                <otype>Admin</otype>
+                <mtid>10013834</mtid>
+                <link>/api/admin/10013834</link>
+                <label>Makara Gábor (Admin 3, admin)</label>
+                <familyName>Makara</familyName>
+                <givenName>Gábor</givenName>
+                <published>true</published>
+                <oldId>10013834</oldId>
+                <snippet>true</snippet>
+              </creator>
+            </duplumSearchResult>
+            <duplumRole>DUPLUM</duplumRole>
+            <lastDuplumSearch>2019-01-22T09:44:36.663+0000</lastDuplumSearch>
+            <name>Akadémiai Kiadó</name>
+            <nameEng>Akadémiai Kiadó</nameEng>
+            <organization>false</organization>
+            <url>http://akkrt.hu/</url>
+            <predator>NOT_PREDATOR</predator>
+            <fromCitation>false</fromCitation>
+            <cities>
+              <city>
+                <otype>City</otype>
+                <mtid>10003</mtid>
+                <status>UNAPPROVED</status>
+                <published>true</published>
+                <unhandledTickets>0</unhandledTickets>
+                <oldTimestamp>2016-02-29T17:13:02.000+0000</oldTimestamp>
+                <deleted>false</deleted>
+                <oldId>10005024</oldId>
+                <lastModified>2018-11-10T06:00:45.927+0000</lastModified>
+                <created>2018-10-30T21:51:48.405+0000</created>
+                <lastDuplumOK>2019-02-15T12:19:29.304+0000</lastDuplumOK>
+                <lastDuplumSearch>2019-02-15T12:19:29.304+0000</lastDuplumSearch>
+                <name>Budapest</name>
+                <nameEng>Budapest</nameEng>
+                <partOf>
+                  <otype>Country</otype>
+                  <mtid>10001</mtid>
+                  <status>APPROVED</status>
+                  <published>true</published>
+                  <unhandledTickets>0</unhandledTickets>
+                  <deleted>false</deleted>
+                  <oldId>1</oldId>
+                  <created>2018-10-30T10:00:36.235+0000</created>
+                  <lastDuplumOK>2019-02-15T22:16:48.319+0000</lastDuplumOK>
+                  <lastDuplumSearch>2019-02-15T22:16:48.319+0000</lastDuplumSearch>
+                  <name>Magyarország</name>
+                  <nameEng>Hungary</nameEng>
+                  <link>/api/country/10001</link>
+                  <label>Magyarország</label><template>&lt;div class=&quot;Country&quot;&gt;Magyarország&lt;/div&gt;</template>
+                </partOf>
+                <fromCitation>false</fromCitation>
+                <link>/api/city/10003</link>
+                <label>Budapest, Magyarország</label><template>&lt;div class=&quot;City Location short-list&quot;&gt;Budapest ( Magyarország ) [Település:10003]&lt;/div&gt;</template>
+              </city>
+            </cities>
+            <link>/api/publisher/15887</link>
+            <label>Akadémiai Kiadó</label><template>&lt;div class=&quot;Publisher short-list&quot;&gt; &lt;div class=&quot;name&quot;&gt; Akadémiai Kiadó &lt;/div&gt; &lt;div class=&quot;location&quot;&gt; Budapest, Magyarország &lt;/div&gt; &lt;div class=&quot;mtid&quot;&gt; [ Kiadó:15887 ] &lt;/div&gt; &lt;/div&gt;</template><template2>&lt;div class=&quot;Publisher long-list&quot;&gt; &lt;div class=&quot;name&quot;&gt; Akadémiai Kiadó &lt;/div&gt; &lt;div class=&quot;location&quot;&gt; Budapest, Magyarország &lt;/div&gt; &lt;div class=&quot;url&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://akkrt.hu/&quot;&gt;http://akkrt.hu/&lt;/a&gt;&lt;/div &gt; &lt;div class=&quot;mtid&quot;&gt; [ Kiadó:15887 ] &lt;/div&gt; &lt;/div&gt;</template2>
+          </publisher>
+        </publishers>
+        <publishedAt>
+          <city>
+            <otype>City</otype>
+            <mtid>10003</mtid>
+            <link>/api/city/10003</link>
+            <label>Budapest, Magyarország</label>
+            <partOf>
+              <otype>Country</otype>
+              <mtid>10001</mtid>
+              <link>/api/country/10001</link>
+              <label>Magyarország</label>
+              <published>true</published>
+              <oldId>1</oldId>
+              <snippet>true</snippet>
+            </partOf>
+            <published>true</published>
+            <oldId>10005024</oldId>
+            <snippet>true</snippet>
+          </city>
+        </publishedAt>
+        <identifiers>
+          <identifier>
+            <otype>PublicationIdentifier</otype>
+            <mtid>867432</mtid>
+            <link>/api/publicationidentifier/867432</link>
+            <label>PubMed: gggmedline-id/konyv.1234</label>
+            <source>
+              <otype>PlainSource</otype>
+              <mtid>17</mtid>
+              <link>/api/publicationsource/17</link>
+              <label>PubMed</label>
+              <type>
+                <otype>PublicationSourceType</otype>
+                <mtid>10003</mtid>
+                <link>/api/publicationsourcetype/10003</link>
+                <label>Indexelő adatbázis</label>
+                <mayHaveOa>false</mayHaveOa>
+                <published>true</published>
+                <snippet>true</snippet>
+              </type>
+              <name>PubMed</name>
+              <linkPattern>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=@@@&amp;dopt=Abstract</linkPattern>
+              <publiclyVisible>true</publiclyVisible>
+              <published>true</published>
+              <oldId>17</oldId>
+              <snippet>true</snippet>
+            </source>
+            <oaFree>false</oaFree>
+            <idValue>gggmedline-id/konyv.1234</idValue>
+            <realUrl>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=gggmedline-id/konyv.1234&amp;dopt=Abstract</realUrl>
+            <published>false</published>
+            <oldId>890373</oldId>
+            <snippet>true</snippet>
+          </identifier>
+          <identifier>
+            <otype>PublicationIdentifier</otype>
+            <mtid>867433</mtid>
+            <link>/api/publicationidentifier/867433</link>
+            <label>OSZK: rrrrrr2539894</label>
+            <source>
+              <otype>PlainSource</otype>
+              <mtid>29</mtid>
+              <link>/api/publicationsource/29</link>
+              <label>OSZK</label>
+              <type>
+                <otype>PublicationSourceType</otype>
+                <mtid>10005</mtid>
+                <link>/api/publicationsourcetype/10005</link>
+                <label>Könyvtári katalógus</label>
+                <mayHaveOa>false</mayHaveOa>
+                <published>true</published>
+                <snippet>true</snippet>
+              </type>
+              <name>OSZK</name>
+              <linkPattern>http://link.oszk.hu/libriurl.php?LN=hu&amp;DB=OSZK&amp;SRY=an&amp;SRE=@@@</linkPattern>
+              <publiclyVisible>true</publiclyVisible>
+              <published>true</published>
+              <oldId>29</oldId>
+              <snippet>true</snippet>
+            </source>
+            <oaFree>false</oaFree>
+            <idValue>rrrrrr2539894</idValue>
+            <realUrl>http://link.oszk.hu/libriurl.php?LN=hu&amp;DB=OSZK&amp;SRY=an&amp;SRE=rrrrrr2539894</realUrl>
+            <published>false</published>
+            <oldId>890371</oldId>
+            <snippet>true</snippet>
+          </identifier>
+          <identifier>
+            <otype>PublicationIdentifier</otype>
+            <mtid>867434</mtid>
+            <link>/api/publicationidentifier/867434</link>
+            <label>Teljes dokumentum: http://publikus.web.uuuuuintra</label>
+            <source>
+              <otype>PlainSource</otype>
+              <mtid>39</mtid>
+              <link>/api/publicationsource/39</link>
+              <label>Teljes dokumentum</label>
+              <type>
+                <otype>PublicationSourceType</otype>
+                <mtid>10006</mtid>
+                <link>/api/publicationsourcetype/10006</link>
+                <label>Link</label>
+                <mayHaveOa>true</mayHaveOa>
+                <published>true</published>
+                <snippet>true</snippet>
+              </type>
+              <name>Teljes dokumentum</name>
+              <linkPattern>@@@</linkPattern>
+              <publiclyVisible>true</publiclyVisible>
+              <published>true</published>
+              <oldId>39</oldId>
+              <snippet>true</snippet>
+            </source>
+            <oaFree>false</oaFree>
+            <idValue>http://publikus.web.uuuuuintra</idValue>
+            <realUrl>http://publikus.web.uuuuuintra</realUrl>
+            <published>false</published>
+            <oldId>890377</oldId>
+            <snippet>true</snippet>
+          </identifier>
+          <identifier>
+            <otype>PublicationIdentifier</otype>
+            <mtid>867435</mtid>
+            <link>/api/publicationidentifier/867435</link>
+            <label>Egyéb URL: http://webcim.kiado.intra</label>
+            <source>
+              <otype>PlainSource</otype>
+              <mtid>40</mtid>
+              <link>/api/publicationsource/40</link>
+              <label>Egyéb URL</label>
+              <type>
+                <otype>PublicationSourceType</otype>
+                <mtid>10006</mtid>
+                <link>/api/publicationsourcetype/10006</link>
+                <label>Link</label>
+                <mayHaveOa>true</mayHaveOa>
+                <published>true</published>
+                <snippet>true</snippet>
+              </type>
+              <name>Egyéb URL</name>
+              <linkPattern>@@@</linkPattern>
+              <publiclyVisible>true</publiclyVisible>
+              <published>true</published>
+              <oldId>40</oldId>
+              <snippet>true</snippet>
+            </source>
+            <oaFree>false</oaFree>
+            <idValue>http://webcim.kiado.intra</idValue>
+            <realUrl>http://webcim.kiado.intra</realUrl>
+            <published>false</published>
+            <oldId>890378</oldId>
+            <snippet>true</snippet>
+          </identifier>
+        </identifiers>
+        <chapters>
+          <chapter>
+            <otype>BookChapter</otype>
+            <mtid>2695806</mtid>
+            <link>/api/publication/2695806</link>
+            <label>Teszt Elek. Könyvrészlet címe: Könyvrészlet alcíme. (2004) Megjelent: Könyv címe pp. 25-30</label>
+            <core>true</core>
+            <citation>false</citation>
+            <publicationPending>false</publicationPending>
+            <type>
+              <otype>PublicationType</otype>
+              <mtid>25</mtid>
+              <link>/api/publicationtype/25</link>
+              <label>Könyvrészlet</label>
+              <code>25</code>
+              <otypeName>BookChapter</otypeName>
+              <listPosition>2</listPosition>
+              <published>true</published>
+              <oldId>25</oldId>
+              <snippet>true</snippet>
+            </type>
+            <subType>
+              <otype>SubType</otype>
+              <mtid>10000398</mtid>
+              <link>/api/subtype/10000398</link>
+              <label>Könyvfejezet (Könyvrészlet)</label>
+              <name>Könyvfejezet</name>
+              <nameEng>Chapter</nameEng>
+              <docType>
+                <otype>PublicationType</otype>
+                <mtid>25</mtid>
+                <link>/api/publicationtype/25</link>
+                <label>Könyvrészlet</label>
+                <code>25</code>
+                <otypeName>BookChapter</otypeName>
+                <listPosition>2</listPosition>
+                <published>true</published>
+                <oldId>25</oldId>
+                <snippet>true</snippet>
+              </docType>
+              <listPosition>220</listPosition>
+              <published>true</published>
+              <oldId>10000398</oldId>
+              <snippet>true</snippet>
+            </subType>
+            <category>
+              <otype>Category</otype>
+              <mtid>1</mtid>
+              <link>/api/category/1</link>
+              <label>Tudományos</label>
+              <published>true</published>
+              <oldId>1</oldId>
+              <snippet>true</snippet>
+            </category>
+            <languages>
+              <language>
+                <otype>Language</otype>
+                <mtid>10002</mtid>
+                <link>/api/language/10002</link>
+                <label>Angol</label>
+                <name>Angol</name>
+                <nameEng>English</nameEng>
+                <published>true</published>
+                <oldId>2</oldId>
+                <snippet>true</snippet>
+              </language>
+            </languages>
+            <title>Könyvrészlet címe</title>
+            <publishedAt/>
+            <publishedYear>2004</publishedYear>
+            <identifiers>
+              <identifier>
+                <otype>PublicationIdentifier</otype>
+                <mtid>867437</mtid>
+                <link>/api/publicationidentifier/867437</link>
+                <label>PubMed: medline-id/konyvreszlet.1234</label>
+                <source>
+                  <otype>PlainSource</otype>
+                  <mtid>17</mtid>
+                  <link>/api/publicationsource/17</link>
+                  <label>PubMed</label>
+                  <type>
+                    <otype>PublicationSourceType</otype>
+                    <mtid>10003</mtid>
+                    <link>/api/publicationsourcetype/10003</link>
+                    <label>Indexelő adatbázis</label>
+                    <mayHaveOa>false</mayHaveOa>
+                    <published>true</published>
+                    <snippet>true</snippet>
+                  </type>
+                  <name>PubMed</name>
+                  <linkPattern>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=@@@&amp;dopt=Abstract</linkPattern>
+                  <publiclyVisible>true</publiclyVisible>
+                  <published>true</published>
+                  <oldId>17</oldId>
+                  <snippet>true</snippet>
+                </source>
+                <oaFree>false</oaFree>
+                <idValue>medline-id/konyvreszlet.1234</idValue>
+                <published>false</published>
+                <oldId>890387</oldId>
+                <snippet>true</snippet>
+              </identifier>
+              <identifier>
+                <otype>PublicationIdentifier</otype>
+                <mtid>867436</mtid>
+                <link>/api/publicationidentifier/867436</link>
+                <label>Google books: _RaFCX8VEdwC</label>
+                <source>
+                  <otype>PlainSource</otype>
+                  <mtid>14</mtid>
+                  <link>/api/publicationsource/14</link>
+                  <label>Google books</label>
+                  <type>
+                    <otype>PublicationSourceType</otype>
+                    <mtid>10003</mtid>
+                    <link>/api/publicationsourcetype/10003</link>
+                    <label>Indexelő adatbázis</label>
+                    <mayHaveOa>false</mayHaveOa>
+                    <published>true</published>
+                    <snippet>true</snippet>
+                  </type>
+                  <name>Google books</name>
+                  <linkPattern>http://books.google.com/books?id=@@@&amp;source=gbs_ViewAPI</linkPattern>
+                  <publiclyVisible>true</publiclyVisible>
+                  <published>true</published>
+                  <oldId>14</oldId>
+                  <snippet>true</snippet>
+                </source>
+                <oaFree>false</oaFree>
+                <idValue>_RaFCX8VEdwC</idValue>
+                <published>false</published>
+                <oldId>890386</oldId>
+                <snippet>true</snippet>
+              </identifier>
+              <identifier>
+                <otype>PublicationIdentifier</otype>
+                <mtid>867438</mtid>
+                <link>/api/publicationidentifier/867438</link>
+                <label>Teljes dokumentum: http://publikus.web.uuuuuintra</label>
+                <source>
+                  <otype>PlainSource</otype>
+                  <mtid>39</mtid>
+                  <link>/api/publicationsource/39</link>
+                  <label>Teljes dokumentum</label>
+                  <type>
+                    <otype>PublicationSourceType</otype>
+                    <mtid>10006</mtid>
+                    <link>/api/publicationsourcetype/10006</link>
+                    <label>Link</label>
+                    <mayHaveOa>true</mayHaveOa>
+                    <published>true</published>
+                    <snippet>true</snippet>
+                  </type>
+                  <name>Teljes dokumentum</name>
+                  <linkPattern>@@@</linkPattern>
+                  <publiclyVisible>true</publiclyVisible>
+                  <published>true</published>
+                  <oldId>39</oldId>
+                  <snippet>true</snippet>
+                </source>
+                <oaFree>false</oaFree>
+                <idValue>http://publikus.web.uuuuuintra</idValue>
+                <published>false</published>
+                <oldId>890391</oldId>
+                <snippet>true</snippet>
+              </identifier>
+              <identifier>
+                <otype>PublicationIdentifier</otype>
+                <mtid>867439</mtid>
+                <link>/api/publicationidentifier/867439</link>
+                <label>Egyéb URL: http://webcim.kiado.intra</label>
+                <source>
+                  <otype>PlainSource</otype>
+                  <mtid>40</mtid>
+                  <link>/api/publicationsource/40</link>
+                  <label>Egyéb URL</label>
+                  <type>
+                    <otype>PublicationSourceType</otype>
+                    <mtid>10006</mtid>
+                    <link>/api/publicationsourcetype/10006</link>
+                    <label>Link</label>
+                    <mayHaveOa>true</mayHaveOa>
+                    <published>true</published>
+                    <snippet>true</snippet>
+                  </type>
+                  <name>Egyéb URL</name>
+                  <linkPattern>@@@</linkPattern>
+                  <publiclyVisible>true</publiclyVisible>
+                  <published>true</published>
+                  <oldId>40</oldId>
+                  <snippet>true</snippet>
+                </source>
+                <oaFree>false</oaFree>
+                <idValue>http://webcim.kiado.intra</idValue>
+                <published>false</published>
+                <oldId>890392</oldId>
+                <snippet>true</snippet>
+              </identifier>
+            </identifiers>
+            <foreignEdition>false</foreignEdition>
+            <foreignLanguage>true</foreignLanguage>
+            <fullPublication>true</fullPublication>
+            <conferencePublication>false</conferencePublication>
+            <nationalOrigin>true</nationalOrigin>
+            <published>true</published>
+            <oldId>2695806</oldId>
+            <snippet>true</snippet>
+          </chapter>
+        </chapters>
+        <link>/api/publication/2695805</link>
+        <label>Teszt Elek. Könyv címe: Könyv alcíme. (2004)</label><template>&lt;div class=&quot;Book Publication short-list&quot; xmlns=&quot;http://www.w3.org/1999/html&quot; xmlns=&quot;http://www.w3.org/1999/html&quot;&gt; &lt;div class=&quot;authors&quot;&gt; Teszt, Elek ; Teszt, E (szerk.) &lt;/div &gt; &lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;2695805&quot; mtid=&quot;2695805&quot; target=&quot;_blank&quot;&gt;Könyv címe&lt;span class=&quot;subTitle&quot;&gt;: Könyv alcíme&lt;/span&gt;&lt;/a&gt;&lt;/div&gt; &lt;div class=&quot;pub-info&quot;&gt; &lt;span class=&quot;publishedAt&quot;&gt;Budapest, Magyarország : &lt;span class=&quot;publisher&quot;&gt;Akadémiai Kiadó&lt;/span&gt; &lt;span class=&quot;year&quot;&gt;(2004)&lt;/span&gt; , &lt;span class=&quot;pageLength&quot;&gt;150 p.&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;gggmedline-id/konyv.1234&quot; target=&quot;_blank&quot; href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=gggmedline-id/konyv.1234&amp;dopt=Abstract&quot;&gt;PubMed&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;rrrrrr2539894&quot; target=&quot;_blank&quot; href=&quot;http://link.oszk.hu/libriurl.php?LN=hu&amp;DB=OSZK&amp;SRY=an&amp;SRE=rrrrrr2539894&quot;&gt;OSZK&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.uuuuuintra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.uuuuuintra&quot;&gt;Teljes dokumentum&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;http://webcim.kiado.intra&quot; target=&quot;_blank&quot; href=&quot;http://webcim.kiado.intra&quot;&gt;Egyéb URL&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:2695805 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-APPROVED&quot;&gt; Jóváhagyott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt;Forrás &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Könyv (Szakkönyv ) &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt;</template><template2>&lt;div class=&quot;Book Publication long-list&quot;&gt;
+&lt;div class=&quot;authors&quot;&gt;
+	 	&lt;img title=&quot;Forrásközlemény&quot; style=&quot;float: left&quot; src=&quot;/frontend/resources/grid/publication-core-icon.png&quot;&gt;		
+				&lt;div class=&quot;autype autype0&quot;&gt;											        &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a             href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt Elek
+                    (&lt;span class=&quot;authorship-author-name&quot;&gt;Teszt Elek&lt;/span&gt;
+            &lt;span class=&quot;authorAux-mtmt&quot;&gt; MTO teszt&lt;/span&gt;)
+		                &lt;/a&gt;    &lt;/span&gt;
+        											    &lt;/div&gt;
+			&lt;div class=&quot;autype autype-1&quot;&gt;					Szerkesztő:
+											        &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a             href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt E
+                    (&lt;span class=&quot;authorship-author-name&quot;&gt;Teszt Elek&lt;/span&gt;
+            &lt;span class=&quot;authorAux-mtmt&quot;&gt; MTO teszt&lt;/span&gt;)
+		                &lt;/a&gt;    &lt;/span&gt;
+                &lt;span class=&quot;author-affil&quot;&gt;Budapesti Műszaki és Gazdaságtudományi Egyetem&lt;/span&gt;
+            											    &lt;/div&gt;
+	
+	&lt;/div&gt;
+&lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;2695805&quot; target=&quot;_blank&quot;&gt;Könyv címe : Könyv alcíme.&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;publish-data&quot;&gt;
+			&lt;span class=&quot;published-at&quot;&gt; Budapest &lt;/span&gt;: 	    		&lt;span class=&quot;publishers&quot;&gt;Akadémiai Kiadó&lt;/span&gt;,
+		 &lt;span class=&quot;pages&quot;&gt;150 p.&lt;/span&gt; 	 &lt;span class=&quot;year&quot;&gt;(2004)&lt;/span&gt;  &lt;/div&gt;
+&lt;span class=&quot;volume&quot;&gt;
+    &lt;span class=&quot;volumeNumber&quot;&gt;Kötetszám.&lt;/span&gt;    &lt;span class=&quot;volumeTitle&quot;&gt;Kötetcím&lt;/span&gt;
+			            (&lt;span class=&quot;seriesTitle&quot;&gt;Sorozatcím; &lt;/span&gt;			&lt;span class=&quot;issn&quot;&gt;4444-4444&lt;/span&gt;			&lt;span class=&quot;seriesVolume&quot;&gt;sor.kötet&lt;/span&gt;)
+			&lt;br&gt;
+	&lt;/span&gt;
+&lt;div class=&quot;pub-footer&quot;&gt;
+
+
+	&lt;span class=&quot;language&quot; xmlns=&quot;http://www.w3.org/1999/html&quot;&gt;Nyelv:
+		            Angol				 | &lt;/span&gt;
+
+	&lt;span class=&quot;identifiers&quot;&gt;
+																                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+&quot;&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;gggmedline-id/konyv.1234&quot; target=&quot;_blank&quot; href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=gggmedline-id/konyv.1234&amp;dopt=Abstract&quot;&gt;PubMed&lt;/a&gt;
+					&lt;/span&gt;
+																									                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+&quot;&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;rrrrrr2539894&quot; target=&quot;_blank&quot; href=&quot;http://link.oszk.hu/libriurl.php?LN=hu&amp;DB=OSZK&amp;SRY=an&amp;SRE=rrrrrr2539894&quot;&gt;OSZK&lt;/a&gt;
+					&lt;/span&gt;
+																									                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+&quot;&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.uuuuuintra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.uuuuuintra&quot;&gt;Teljes dokumentum&lt;/a&gt;
+					&lt;/span&gt;
+																									                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+&quot;&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;http://webcim.kiado.intra&quot; target=&quot;_blank&quot; href=&quot;http://webcim.kiado.intra&quot;&gt;Egyéb URL&lt;/a&gt;
+					&lt;/span&gt;
+										    &lt;/span&gt;
+
+
+
+
+
+
+    &lt;div class=&quot;mtid&quot;&gt;&lt;span class=&quot;long-pub-mtid&quot;&gt;Közlemény: 2695805&lt;/span&gt;
+    |  Nyilvános &lt;span class=&quot;status-data status-APPROVED&quot;&gt;	Jóváhagyott
+&lt;/span&gt;
+        	&lt;span class=&quot;oldId&quot;&gt;Régi azonosító: &lt;a target=&quot;_blank&quot; href=&quot;http://vm.mtmt.hu/www/index.php?mode=html&amp;DocumentID=2695805&amp;frame_off=1&amp;st_on=1&amp;type_on=1&amp;url_on=1&quot;&gt;2695805&lt;/a&gt;&lt;/span&gt; | 		Forrás			        | &lt;span class=&quot;type-subtype&quot;&gt;Könyv
+					( Szakkönyv
+						)
+		 &lt;/span&gt;
+		      		| Tudományos
+			&lt;/span&gt; | &lt;span class=&quot;publication-sourceOfData&quot;&gt;kézi felvitel&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;lastModified&quot;&gt;Utolsó módosítás: 2014.06.23. 19:04 MTMT1 Admin (admin)
+&lt;/div&gt;
+
+
+
+&lt;div class=&quot;chapters&quot;&gt;
+	&lt;b&gt;&lt;a target=&quot;_blank&quot; href=&quot;/api/publication?from=BookChapter&amp;cond=book.mtid;eq;2695805&quot;&gt;Fejezetek: 1&lt;/a&gt;&lt;/b&gt;
+&lt;/div&gt;
+
+	&lt;pre class=&quot;comment&quot; style=&quot;margin-top: 0; margin-bottom: 0;&quot;&gt;&lt;u&gt;Megjegyzés&lt;/u&gt;: megjegyzés&lt;/pre&gt;
+&lt;/div&gt;&lt;/div&gt;</template2>
       </book>
       <languages>
         <language>

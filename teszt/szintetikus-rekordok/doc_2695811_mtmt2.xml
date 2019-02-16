@@ -2,12 +2,10 @@
 <myciteResult>
   <serverUrl>https://m2.mtmt.hu/</serverUrl>
   <labelLang>hun</labelLang>
-  <responseDate>2018-12-17 18:57</responseDate>
+  <responseDate>2019-02-16 15:42</responseDate>
   <content>
     <publication>
       <otype>Thesis</otype>
-      <generatedId>false</generatedId>
-      <resolvingDuplum>false</resolvingDuplum>
       <mtid>2695811</mtid>
       <status>APPROVED</status>
       <published>true</published>
@@ -16,19 +14,19 @@
       <oldTimestamp>2015-08-31T12:03:25.000+0000</oldTimestamp>
       <deleted>false</deleted>
       <oldId>2695811</oldId>
-      <lastRefresh>2018-10-06T18:41:45.799+0000</lastRefresh>
+      <lastRefresh>2019-01-20T11:19:19.236+0000</lastRefresh>
       <lastModified>2015-08-31T12:03:25.000+0000</lastModified>
       <created>2013-11-13T10:45:00.000+0000</created>
       <creator>
-        <otype>Author</otype>
+        <snippet>true</snippet>
         <mtid>10023926</mtid>
-        <link>/api/author/10023926</link>
-        <label>Teszt Elek (MTO teszt)</label>
         <familyName>Teszt</familyName>
         <givenName>Elek</givenName>
+        <link>/api/author/10023926</link>
+        <otype>Author</otype>
+        <label>Teszt Elek (MTO teszt)</label>
         <published>true</published>
         <oldId>10023926</oldId>
-        <snippet>true</snippet>
       </creator>
       <lastDuplumOK>2018-10-18T21:31:23.042+0000</lastDuplumOK>
       <lastDuplumSearch>2018-10-18T21:31:23.042+0000</lastDuplumSearch>
@@ -36,8 +34,6 @@
       <citations>
         <citation>
           <otype>Citation</otype>
-          <generatedId>false</generatedId>
-          <resolvingDuplum>false</resolvingDuplum>
           <mtid>24054733</mtid>
           <status>APPROVED</status>
           <published>true</published>
@@ -489,51 +485,52 @@
         </citation>
       </citations>
       <type>
-        <otype>PublicationType</otype>
+        <snippet>true</snippet>
         <mtid>28</mtid>
-        <link>/api/publicationtype/28</link>
-        <label>Disszertáció</label>
         <code>28</code>
-        <otypeName>Thesis</otypeName>
+        <link>/api/publicationtype/28</link>
+        <otype>PublicationType</otype>
+        <label>Disszertáció</label>
         <listPosition>8</listPosition>
         <published>true</published>
         <oldId>28</oldId>
-        <snippet>true</snippet>
+        <otypeName>Thesis</otypeName>
       </type>
       <subType>
-        <otype>SubType</otype>
+        <snippet>true</snippet>
         <mtid>9</mtid>
-        <link>/api/subtype/9</link>
-        <label>PhD (Disszertáció)</label>
-        <name>PhD</name>
         <nameEng>PhD</nameEng>
         <docType>
-          <otype>PublicationType</otype>
+          <snippet>true</snippet>
           <mtid>28</mtid>
-          <link>/api/publicationtype/28</link>
-          <label>Disszertáció</label>
           <code>28</code>
-          <otypeName>Thesis</otypeName>
+          <link>/api/publicationtype/28</link>
+          <otype>PublicationType</otype>
+          <label>Disszertáció</label>
           <listPosition>8</listPosition>
           <published>true</published>
           <oldId>28</oldId>
-          <snippet>true</snippet>
+          <otypeName>Thesis</otypeName>
         </docType>
+        <link>/api/subtype/9</link>
+        <name>PhD</name>
+        <otype>SubType</otype>
+        <label>PhD (Disszertáció)</label>
         <listPosition>867</listPosition>
         <published>true</published>
         <oldId>9</oldId>
-        <snippet>true</snippet>
       </subType>
       <category>
-        <otype>Category</otype>
+        <snippet>true</snippet>
         <mtid>1</mtid>
         <link>/api/category/1</link>
+        <otype>Category</otype>
         <label>Tudományos</label>
         <published>true</published>
         <oldId>1</oldId>
-        <snippet>true</snippet>
       </category>
       <firstAuthor>Teszt, Elek</firstAuthor>
+      <directInstitutesForSort></directInstitutesForSort>
       <ownerAuthorCount>1</ownerAuthorCount>
       <ownerInstituteCount>2</ownerInstituteCount>
       <directInstituteCount>0</directInstituteCount>
@@ -551,22 +548,26 @@
       <fullPublication>false</fullPublication>
       <conferencePublication>false</conferencePublication>
       <missingAuthor>false</missingAuthor>
+      <oaType>NONE</oaType>
+      <oaCheckDate>2019-01-20</oaCheckDate>
       <oaFree>false</oaFree>
       <oaByAuthor>
-        <otype>Admin</otype>
+        <snippet>true</snippet>
         <mtid>10039288</mtid>
-        <link>/api/admin/10039288</link>
-        <label>Szmolyán Mária (BME 4 admin)</label>
         <familyName>Szmolyán</familyName>
         <givenName>Mária</givenName>
+        <link>/api/admin/10039288</link>
+        <otype>Admin</otype>
+        <label>Szmolyán Mária (BME 4 admin)</label>
         <published>true</published>
         <oldId>10039288</oldId>
-        <snippet>true</snippet>
       </oaByAuthor>
       <citationCount>1</citationCount>
       <citationCountUnpublished>0</citationCountUnpublished>
       <citationCountWoOther>0</citationCountWoOther>
       <independentCitCountWoOther>0</independentCitCountWoOther>
+      <nationalOriginCitationCount>0</nationalOriginCitationCount>
+      <foreignEditionCitationCount>0</foreignEditionCitationCount>
       <doiCitationCount>1</doiCitationCount>
       <wosCitationCount>0</wosCitationCount>
       <scopusCitationCount>0</scopusCitationCount>
@@ -797,12 +798,59 @@
         <publisher>
           <otype>Publisher</otype>
           <mtid>12197</mtid>
-          <link>/api/publisher/12197</link>
-          <label>Université de Franche-Comté</label>
-          <name>Université de Franche-Comté</name>
+          <status>IMPORT</status>
           <published>false</published>
+          <unhandledTickets>0</unhandledTickets>
+          <oldTimestamp>2016-10-18T13:36:04.000+0000</oldTimestamp>
+          <deleted>false</deleted>
           <oldId>4421</oldId>
-          <snippet>true</snippet>
+          <lastModified>2016-10-18T13:36:04.000+0000</lastModified>
+          <created>2018-11-04T08:11:59.303+0000</created>
+          <lastDuplumOK>2018-11-09T12:00:00.913+0000</lastDuplumOK>
+          <lastDuplumSearch>2018-11-09T12:00:00.913+0000</lastDuplumSearch>
+          <name>Université de Franche-Comté</name>
+          <organization>false</organization>
+          <url>http://www.univ-fcomte.fr</url>
+          <predator>NOT_PREDATOR</predator>
+          <fromCitation>false</fromCitation>
+          <cities>
+            <city>
+              <otype>City</otype>
+              <mtid>10784</mtid>
+              <status>APPROVED</status>
+              <published>true</published>
+              <unhandledTickets>0</unhandledTickets>
+              <oldTimestamp>2018-01-09T14:51:57.000+0000</oldTimestamp>
+              <deleted>false</deleted>
+              <oldId>1323112</oldId>
+              <lastModified>2018-01-09T14:51:57.000+0000</lastModified>
+              <created>2018-11-03T14:03:17.306+0000</created>
+              <lastDuplumOK>2018-11-04T08:05:31.810+0000</lastDuplumOK>
+              <lastDuplumSearch>2018-11-04T08:05:31.810+0000</lastDuplumSearch>
+              <name>Besançon</name>
+              <partOf>
+                <otype>Country</otype>
+                <mtid>10012</mtid>
+                <status>APPROVED</status>
+                <published>true</published>
+                <unhandledTickets>0</unhandledTickets>
+                <deleted>false</deleted>
+                <oldId>6</oldId>
+                <created>2018-10-30T10:00:36.235+0000</created>
+                <lastDuplumOK>2019-02-15T22:13:43.793+0000</lastDuplumOK>
+                <lastDuplumSearch>2019-02-15T22:13:43.793+0000</lastDuplumSearch>
+                <name>Franciaország</name>
+                <nameEng>France</nameEng>
+                <link>/api/country/10012</link>
+                <label>Franciaország</label><template>&lt;div class=&quot;Country&quot;&gt;Franciaország&lt;/div&gt;</template>
+              </partOf>
+              <fromCitation>false</fromCitation>
+              <link>/api/city/10784</link>
+              <label>Besançon, Franciaország</label><template>&lt;div class=&quot;City Location short-list&quot;&gt;Besançon ( Franciaország ) [Település:10784]&lt;/div&gt;</template>
+            </city>
+          </cities>
+          <link>/api/publisher/12197</link>
+          <label>Université de Franche-Comté</label><template>&lt;div class=&quot;Publisher short-list&quot;&gt; &lt;div class=&quot;name&quot;&gt; Université de Franche-Comté &lt;/div&gt; &lt;div class=&quot;location&quot;&gt; Besançon, Franciaország &lt;/div&gt; &lt;div class=&quot;mtid&quot;&gt; [ Kiadó:12197 ] &lt;/div&gt; &lt;/div&gt;</template><template2>&lt;div class=&quot;Publisher long-list&quot;&gt; &lt;div class=&quot;name&quot;&gt; Université de Franche-Comté &lt;/div&gt; &lt;div class=&quot;location&quot;&gt; Besançon, Franciaország &lt;/div&gt; &lt;div class=&quot;url&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.univ-fcomte.fr&quot;&gt;http://www.univ-fcomte.fr&lt;/a&gt;&lt;/div &gt; &lt;div class=&quot;mtid&quot;&gt; [ Kiadó:12197 ] &lt;/div&gt; &lt;/div&gt;</template2>
         </publisher>
       </publishers>
       <identifiers>
@@ -817,13 +865,13 @@
             <link>/api/publicationsource/17</link>
             <label>PubMed</label>
             <type>
-              <snippet>true</snippet>
+              <otype>PublicationSourceType</otype>
               <mtid>10003</mtid>
               <link>/api/publicationsourcetype/10003</link>
-              <otype>PublicationSourceType</otype>
               <label>Indexelő adatbázis</label>
-              <published>true</published>
               <mayHaveOa>false</mayHaveOa>
+              <published>true</published>
+              <snippet>true</snippet>
             </type>
             <name>PubMed</name>
             <linkPattern>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=@@@&amp;dopt=Abstract</linkPattern>
@@ -834,6 +882,7 @@
           </source>
           <oaFree>false</oaFree>
           <idValue>medline-id/dissz.1234</idValue>
+          <realUrl>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=medline-id/dissz.1234&amp;dopt=Abstract</realUrl>
           <published>false</published>
           <oldId>890424</oldId>
           <snippet>true</snippet>
@@ -849,13 +898,13 @@
             <link>/api/publicationsource/30</link>
             <label>BME OMIKK</label>
             <type>
-              <snippet>true</snippet>
+              <otype>PublicationSourceType</otype>
               <mtid>10005</mtid>
               <link>/api/publicationsourcetype/10005</link>
-              <otype>PublicationSourceType</otype>
               <label>Könyvtári katalógus</label>
-              <published>true</published>
               <mayHaveOa>false</mayHaveOa>
+              <published>true</published>
+              <snippet>true</snippet>
             </type>
             <name>BME OMIKK</name>
             <linkPattern>http://aleph.omikk.bme.hu/jump/sysno/@@@</linkPattern>
@@ -866,6 +915,7 @@
           </source>
           <oaFree>false</oaFree>
           <idValue>000121917</idValue>
+          <realUrl>http://aleph.omikk.bme.hu/jump/sysno/000121917</realUrl>
           <published>false</published>
           <oldId>890423</oldId>
           <snippet>true</snippet>
@@ -881,13 +931,13 @@
             <link>/api/publicationsource/39</link>
             <label>Teljes dokumentum</label>
             <type>
-              <snippet>true</snippet>
+              <otype>PublicationSourceType</otype>
               <mtid>10006</mtid>
               <link>/api/publicationsourcetype/10006</link>
-              <otype>PublicationSourceType</otype>
               <label>Link</label>
-              <published>true</published>
               <mayHaveOa>true</mayHaveOa>
+              <published>true</published>
+              <snippet>true</snippet>
             </type>
             <name>Teljes dokumentum</name>
             <linkPattern>@@@</linkPattern>
@@ -898,6 +948,7 @@
           </source>
           <oaFree>false</oaFree>
           <idValue>http://publikus.web.intra</idValue>
+          <realUrl>http://publikus.web.intra</realUrl>
           <published>false</published>
           <oldId>890428</oldId>
           <snippet>true</snippet>
@@ -913,13 +964,13 @@
             <link>/api/publicationsource/40</link>
             <label>Egyéb URL</label>
             <type>
-              <snippet>true</snippet>
+              <otype>PublicationSourceType</otype>
               <mtid>10006</mtid>
               <link>/api/publicationsourcetype/10006</link>
-              <otype>PublicationSourceType</otype>
               <label>Link</label>
-              <published>true</published>
               <mayHaveOa>true</mayHaveOa>
+              <published>true</published>
+              <snippet>true</snippet>
             </type>
             <name>Egyéb URL</name>
             <linkPattern>@@@</linkPattern>
@@ -930,6 +981,7 @@
           </source>
           <oaFree>false</oaFree>
           <idValue>http://webcim.kiado.intra</idValue>
+          <realUrl>http://webcim.kiado.intra</realUrl>
           <published>false</published>
           <oldId>890429</oldId>
           <snippet>true</snippet>
@@ -947,11 +999,10 @@
         </keyword>
       </keywords>
       <link>/api/publication/2695811</link>
-      <label>Teszt Elek. Disszertáció címe: alcím. (2000)</label><template>&lt;div class=&quot;Thesis Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt, Elek&lt;/a&gt; &lt;/span&gt; &lt;/div &gt; &lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;2695811&quot; mtid=&quot;2695811&quot; target=&quot;_blank&quot;&gt;Disszertáció címe&lt;span class=&quot;subTitle&quot;&gt;: alcím&lt;/span&gt;&lt;/a&gt; 100 p.&lt;/div&gt; &lt;div class=&quot;pub-info&quot;&gt; : &lt;span class=&quot;publisher&quot;&gt;Université de Franche-Comté&lt;/span&gt;, &lt;span class=&quot;publishedYear&quot;&gt;Megjelenés/Fokozatszerzés éve: 2000&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;medline-id/dissz.1234&quot; target=&quot;_blank&quot; href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=medline-id/dissz.1234&amp;dopt=Abstract&quot;&gt;PubMed&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;000121917&quot; target=&quot;_blank&quot; href=&quot;http://aleph.omikk.bme.hu/jump/sysno/000121917&quot;&gt;BME OMIKK&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.intra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.intra&quot;&gt;Teljes dokumentum&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;http://webcim.kiado.intra&quot; target=&quot;_blank&quot; href=&quot;http://webcim.kiado.intra&quot;&gt;Egyéb URL&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:2695811 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-APPROVED&quot;&gt; Jóváhagyott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt;Forrás &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Disszertáció (PhD ) &lt;/span&gt; &lt;span class=&quot;citing-count1&quot;&gt;Nyilvános idézők összesen: 1&lt;/span&gt; &lt;span class=&quot;citing-count-independent&quot;&gt;Független: 1&lt;/span&gt; &lt;span class=&quot;citing-count-self&quot;&gt;Függő: 0&lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt;</template><template2>&lt;div class=&quot;Thesis Publication long-list&quot;&gt;
+      <label>Teszt Elek. Disszertáció címe: alcím. (2000)</label><template>&lt;div class=&quot;Thesis Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt, Elek&lt;/a&gt; &lt;/span&gt; &lt;/div &gt; &lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;2695811&quot; mtid=&quot;2695811&quot; target=&quot;_blank&quot;&gt;Disszertáció címe&lt;span class=&quot;subTitle&quot;&gt;: alcím&lt;/span&gt;&lt;/a&gt; 100 p.&lt;/div&gt; &lt;div class=&quot;pub-info&quot;&gt; &lt;span class=&quot;publisher&quot;&gt;Université de Franche-Comté&lt;/span&gt;, &lt;span class=&quot;publishedYear&quot;&gt;Megjelenés/Fokozatszerzés éve: 2000&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;medline-id/dissz.1234&quot; target=&quot;_blank&quot; href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=medline-id/dissz.1234&amp;dopt=Abstract&quot;&gt;PubMed&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;000121917&quot; target=&quot;_blank&quot; href=&quot;http://aleph.omikk.bme.hu/jump/sysno/000121917&quot;&gt;BME OMIKK&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.intra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.intra&quot;&gt;Teljes dokumentum&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;http://webcim.kiado.intra&quot; target=&quot;_blank&quot; href=&quot;http://webcim.kiado.intra&quot;&gt;Egyéb URL&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:2695811 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-APPROVED&quot;&gt; Jóváhagyott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt;Forrás &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Disszertáció (PhD ) &lt;/span&gt; &lt;span class=&quot;citing-count1&quot;&gt;Nyilvános idézők összesen: 1&lt;/span&gt; &lt;span class=&quot;citing-count-independent&quot;&gt;Független: 1&lt;/span&gt; &lt;span class=&quot;citing-count-self&quot;&gt;Függő: 0&lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt;</template><template2>&lt;div class=&quot;Thesis Publication long-list&quot;&gt;
 	&lt;div class=&quot;authors&quot;&gt;
 	 	&lt;img title=&quot;Forrásközlemény&quot; style=&quot;float: left&quot; src=&quot;/frontend/resources/grid/publication-core-icon.png&quot;&gt;		
-				&lt;div class=&quot;autype autype0&quot;&gt;											        &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a
-            href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt Elek
+				&lt;div class=&quot;autype autype0&quot;&gt;											        &lt;span class=&quot;author-name&quot; mtid=&quot;10023926&quot;&gt;&lt;a             href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10023926&quot; target=&quot;_blank&quot;&gt;Teszt Elek
                     (&lt;span class=&quot;authorship-author-name&quot;&gt;Teszt Elek&lt;/span&gt;
             &lt;span class=&quot;authorAux-mtmt&quot;&gt; MTO teszt&lt;/span&gt;)
 		                &lt;/a&gt;    &lt;/span&gt;
@@ -970,21 +1021,21 @@
 		            Angol				 | &lt;/span&gt;
 
 	&lt;span class=&quot;identifiers&quot;&gt;
-													                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+																                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
 &quot;&gt;
-						                &lt;a style=&quot;color: black&quot; title=&quot;medline-id/dissz.1234&quot; target=&quot;_blank&quot; href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=medline-id/dissz.1234&amp;dopt=Abstract&quot;&gt;PubMed&lt;/a&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;medline-id/dissz.1234&quot; target=&quot;_blank&quot; href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=medline-id/dissz.1234&amp;dopt=Abstract&quot;&gt;PubMed&lt;/a&gt;
 					&lt;/span&gt;
-																						                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+																									                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
 &quot;&gt;
-						                &lt;a style=&quot;color: black&quot; title=&quot;000121917&quot; target=&quot;_blank&quot; href=&quot;http://aleph.omikk.bme.hu/jump/sysno/000121917&quot;&gt;BME OMIKK&lt;/a&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;000121917&quot; target=&quot;_blank&quot; href=&quot;http://aleph.omikk.bme.hu/jump/sysno/000121917&quot;&gt;BME OMIKK&lt;/a&gt;
 					&lt;/span&gt;
-																						                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+																									                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
 &quot;&gt;
-						                &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.intra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.intra&quot;&gt;Teljes dokumentum&lt;/a&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;http://publikus.web.intra&quot; target=&quot;_blank&quot; href=&quot;http://publikus.web.intra&quot;&gt;Teljes dokumentum&lt;/a&gt;
 					&lt;/span&gt;
-																						                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
+																									                &lt;span class=&quot;id identifier oa_&quot; title=&quot;	
 &quot;&gt;
-						                &lt;a style=&quot;color: black&quot; title=&quot;http://webcim.kiado.intra&quot; target=&quot;_blank&quot; href=&quot;http://webcim.kiado.intra&quot;&gt;Egyéb URL&lt;/a&gt;
+					 	                &lt;a style=&quot;color: black&quot; title=&quot;http://webcim.kiado.intra&quot; target=&quot;_blank&quot; href=&quot;http://webcim.kiado.intra&quot;&gt;Egyéb URL&lt;/a&gt;
 					&lt;/span&gt;
 										    &lt;/span&gt;
 
@@ -1000,14 +1051,14 @@
 
 
     &lt;div class=&quot;mtid&quot;&gt;&lt;span class=&quot;long-pub-mtid&quot;&gt;Közlemény: 2695811&lt;/span&gt;
-    | &lt;span class=&quot;status-data status-APPROVED&quot;&gt;	Jóváhagyott
+    |  Nyilvános &lt;span class=&quot;status-data status-APPROVED&quot;&gt;	Jóváhagyott
 &lt;/span&gt;
-        	&lt;span class=&quot;oldId&quot;&gt;Régi azonosító: &lt;a target=&quot;_blank&quot; href=&quot;http://migralas-teszt1.mtmt.hu/www/index.php?mode=html&amp;DocumentID=2695811&amp;frame_off=1&amp;st_on=1&amp;type_on=1&amp;url_on=1&quot;&gt;2695811&lt;/a&gt;&lt;/span&gt; | 		Forrás			        | &lt;span class=&quot;type-subtype&quot;&gt;Disszertáció
+        	&lt;span class=&quot;oldId&quot;&gt;Régi azonosító: &lt;a target=&quot;_blank&quot; href=&quot;http://vm.mtmt.hu/www/index.php?mode=html&amp;DocumentID=2695811&amp;frame_off=1&amp;st_on=1&amp;type_on=1&amp;url_on=1&quot;&gt;2695811&lt;/a&gt;&lt;/span&gt; | 		Forrás			        | &lt;span class=&quot;type-subtype&quot;&gt;Disszertáció
 					( PhD
 						)
 		 &lt;/span&gt;
 		      		| Tudományos
-			 | Nyilvános	&lt;/span&gt; | &lt;span class=&quot;publication-sourceOfData&quot;&gt;kézi felvitel&lt;/span&gt;
+			&lt;/span&gt; | &lt;span class=&quot;publication-sourceOfData&quot;&gt;kézi felvitel&lt;/span&gt;
 &lt;/div&gt;
 
 

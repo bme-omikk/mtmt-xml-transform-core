@@ -2,12 +2,10 @@
 <myciteResult>
   <serverUrl>https://m2.mtmt.hu/</serverUrl>
   <labelLang>hun</labelLang>
-  <responseDate>2018-12-17 18:57</responseDate>
+  <responseDate>2019-02-16 15:42</responseDate>
   <content>
     <publication>
       <otype>Book</otype>
-      <generatedId>false</generatedId>
-      <resolvingDuplum>false</resolvingDuplum>
       <mtid>2695821</mtid>
       <status>APPROVED</status>
       <published>true</published>
@@ -36,8 +34,6 @@
       <citations>
         <citation>
           <otype>Citation</otype>
-          <generatedId>false</generatedId>
-          <resolvingDuplum>false</resolvingDuplum>
           <mtid>24054740</mtid>
           <status>APPROVED</status>
           <published>true</published>
@@ -1113,12 +1109,76 @@
         <publisher>
           <otype>Publisher</otype>
           <mtid>14193</mtid>
-          <link>/api/publisher/14193</link>
-          <label>Balassi Kiadó</label>
-          <name>Balassi Kiadó</name>
+          <status>APPROVED</status>
           <published>true</published>
+          <unhandledTickets>0</unhandledTickets>
+          <oldTimestamp>2016-02-29T17:12:26.000+0000</oldTimestamp>
+          <deleted>false</deleted>
           <oldId>1219676</oldId>
-          <snippet>true</snippet>
+          <lastModified>2016-02-29T17:12:26.000+0000</lastModified>
+          <created>2018-11-03T13:57:20.954+0000</created>
+          <duplumSearchResult>
+            <id>1677389</id>
+            <creationDate>2018-11-04T08:13:49.236+0000</creationDate>
+            <startDate>2018-11-04T08:13:49.232+0000</startDate>
+            <creator>
+              <otype>Admin</otype>
+              <mtid>10013834</mtid>
+              <link>/api/admin/10013834</link>
+              <label>Makara Gábor (Admin 3, admin)</label>
+              <familyName>Makara</familyName>
+              <givenName>Gábor</givenName>
+              <published>true</published>
+              <oldId>10013834</oldId>
+              <snippet>true</snippet>
+            </creator>
+          </duplumSearchResult>
+          <duplumRole>DUPLUM</duplumRole>
+          <lastDuplumSearch>2018-11-04T08:13:49.232+0000</lastDuplumSearch>
+          <name>Balassi Kiadó</name>
+          <organization>false</organization>
+          <url>http://www.balassikiado.hu/</url>
+          <predator>NOT_PREDATOR</predator>
+          <fromCitation>false</fromCitation>
+          <cities>
+            <city>
+              <otype>City</otype>
+              <mtid>10003</mtid>
+              <status>UNAPPROVED</status>
+              <published>true</published>
+              <unhandledTickets>0</unhandledTickets>
+              <oldTimestamp>2016-02-29T17:13:02.000+0000</oldTimestamp>
+              <deleted>false</deleted>
+              <oldId>10005024</oldId>
+              <lastModified>2018-11-10T06:00:45.927+0000</lastModified>
+              <created>2018-10-30T21:51:48.405+0000</created>
+              <lastDuplumOK>2019-02-15T12:19:29.304+0000</lastDuplumOK>
+              <lastDuplumSearch>2019-02-15T12:19:29.304+0000</lastDuplumSearch>
+              <name>Budapest</name>
+              <nameEng>Budapest</nameEng>
+              <partOf>
+                <otype>Country</otype>
+                <mtid>10001</mtid>
+                <status>APPROVED</status>
+                <published>true</published>
+                <unhandledTickets>0</unhandledTickets>
+                <deleted>false</deleted>
+                <oldId>1</oldId>
+                <created>2018-10-30T10:00:36.235+0000</created>
+                <lastDuplumOK>2019-02-15T22:16:48.319+0000</lastDuplumOK>
+                <lastDuplumSearch>2019-02-15T22:16:48.319+0000</lastDuplumSearch>
+                <name>Magyarország</name>
+                <nameEng>Hungary</nameEng>
+                <link>/api/country/10001</link>
+                <label>Magyarország</label><template>&lt;div class=&quot;Country&quot;&gt;Magyarország&lt;/div&gt;</template>
+              </partOf>
+              <fromCitation>false</fromCitation>
+              <link>/api/city/10003</link>
+              <label>Budapest, Magyarország</label><template>&lt;div class=&quot;City Location short-list&quot;&gt;Budapest ( Magyarország ) [Település:10003]&lt;/div&gt;</template>
+            </city>
+          </cities>
+          <link>/api/publisher/14193</link>
+          <label>Balassi Kiadó</label><template>&lt;div class=&quot;Publisher short-list&quot;&gt; &lt;div class=&quot;name&quot;&gt; Balassi Kiadó &lt;/div&gt; &lt;div class=&quot;location&quot;&gt; Budapest, Magyarország &lt;/div&gt; &lt;div class=&quot;mtid&quot;&gt; [ Kiadó:14193 ] &lt;/div&gt; &lt;/div&gt;</template><template2>&lt;div class=&quot;Publisher long-list&quot;&gt; &lt;div class=&quot;name&quot;&gt; Balassi Kiadó &lt;/div&gt; &lt;div class=&quot;location&quot;&gt; Budapest, Magyarország &lt;/div&gt; &lt;div class=&quot;url&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.balassikiado.hu/&quot;&gt;http://www.balassikiado.hu/&lt;/a&gt;&lt;/div &gt; &lt;div class=&quot;mtid&quot;&gt; [ Kiadó:14193 ] &lt;/div&gt; &lt;/div&gt;</template2>
         </publisher>
       </publishers>
       <publishedAt>
