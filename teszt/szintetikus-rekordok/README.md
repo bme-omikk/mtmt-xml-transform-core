@@ -7,7 +7,7 @@ Az MTMT2 XML fájlokban a gyökérelem `myciteResult`, de lehet `myciteResultLis
 ## MTMT2 lekérdezés
 
 ```
-export FIELDS='citations:1,publishers.cities.partOf:1,book.publishers.cities.partOf:1,journal.publishers.cities.partOf:1'
+export FIELDS='citations:1,publishers.cities.partOf:1,book.publishers.cities.partOf:1,journal.publishers.cities.partOf:1,creator.identifiers:1'
 ```
 
  - egyes közleményekre
