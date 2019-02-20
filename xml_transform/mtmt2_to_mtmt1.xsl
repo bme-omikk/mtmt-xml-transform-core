@@ -260,14 +260,13 @@
   </xsl:template>
 
   <xsl:template match="publisher">
-    <publisher>
+    <publisher country="{.//partOf/label[../otype = 'Country']}" city="{./cities/city/name}" publisher-country="{//partOf/label[../otype = 'Country']}">
       <xsl:value-of select="./name" />
     </publisher>
-    <!-- TODO: attr: city, country, publisher-coutnry -->
   </xsl:template>
 
   <xsl:template match="publishedAt">
-    <published country="{//partOf/label[../otype = 'Country']}" city="{substring-before(//city/label[../otype = 'City'], ',')}" />
+    <published country="{.//partOf/label[../otype = 'Country']}" city="{substring-before(//city/label[../otype = 'City'], ',')}" />
   </xsl:template>
 
   <xsl:template name="edited">
