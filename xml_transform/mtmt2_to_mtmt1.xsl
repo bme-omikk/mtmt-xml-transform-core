@@ -239,13 +239,14 @@
   </xsl:template>
 
   <xsl:template match="publication/type|citation/related/type|publication/book/type">
-    <type identifier="{mtid}"><xsl:value-of select="translate(name, $uppercase, $lowercase)" /></type>
+    <type identifier="{mtid}"><xsl:value-of select="translate(label, $uppercase, $lowercase)" /></type>
   </xsl:template>
+  <!-- we intentionally use name here as the label has also type information, which is poisonous for us -->
   <xsl:template match="publication/subType|citation/related/subType|publication/book/subType">
     <subtype identifier="{mtid}"><xsl:value-of select="translate(name, $uppercase, $lowercase)" /></subtype>
   </xsl:template>
   <xsl:template match="publication/category|citation/related/category|publication/book/category">
-    <character identifier="{mtid}"><xsl:value-of select="translate(name, $uppercase, $lowercase)" /></character>
+    <character identifier="{mtid}"><xsl:value-of select="translate(label, $uppercase, $lowercase)" /></character>
   </xsl:template>
 
   <xsl:template match="creator|author|adminApprover">
