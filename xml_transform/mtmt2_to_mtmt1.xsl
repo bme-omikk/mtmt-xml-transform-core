@@ -26,7 +26,7 @@
             </filesource>
             <language>
               <xsl:choose>
-                <xsl:when test="technical_lang = 'hun'">magyar</xsl:when>
+                <xsl:when test="$technical_lang = 'hun'">magyar</xsl:when>
                 <!-- TODO: other cases -->
                 <xsl:otherwise><xsl:value-of select="$technical_lang"/></xsl:otherwise>
               </xsl:choose>
@@ -257,7 +257,9 @@
       <identifier type="{$source_name}"><xsl:value-of select="./mtid" /></identifier>
       <xsl:apply-templates select="./identifiers/identifier" />
     </identifiers>
-    <institutes><!-- TODO --></institutes>
+    <institutes>
+      <xsl:apply-templates select="./affiliations/affiliation" />
+    </institutes>
   </xsl:template>
 
   <xsl:template match="publisher">
@@ -289,6 +291,12 @@
         </xsl:attribute>
       </entry>
     </edited>
+  </xsl:template>
+
+  <xsl:template match="affiliation">
+    <institute identifier="{./worksFor/mtid}">
+      <xsl:value-of select="./worksFor/name" />
+    </institute>
   </xsl:template>
 
 </xsl:stylesheet>
