@@ -20,9 +20,9 @@
               <xsl:attribute name="status">
                 <xsl:call-template name="process-status" />
               </xsl:attribute>
-              <xsl:attribute name="accepted-by"><!-- TODO --></xsl:attribute>
-              <xsl:attribute name="acceptance-date">1970-01-01<!-- TODO --></xsl:attribute>
-              <xsl:attribute name="error"><!-- TODO --></xsl:attribute>
+              <!--<xsl:attribute name="accepted-by"> </xsl:attribute> TODO -->
+              <!-- <xsl:attribute name="acceptance-date">1970-01-01</xsl:attribute> TODO -->
+              <!-- <xsl:attribute name="error"></xsl:attribute> TODO -->
             </filesource>
             <language>
               <xsl:choose>
@@ -100,13 +100,7 @@
         </editor>
       </xsl:for-each>
     </editors>
-    <length>
-      <entry>
-        <xsl:attribute name="page_number">
-          <xsl:value-of select="./pageLength" />
-        </xsl:attribute>
-      </entry>
-    </length>
+
     <xsl:copy-of select="title" />
     <xsl:if test="subTitle">
       <subtitle><xsl:value-of select="subTitle" /></subtitle>
@@ -116,16 +110,23 @@
         <xsl:value-of select="./volumeNumber" />
       </volume>
     </xsl:if>
-
-    <xsl:apply-templates select="publishers/publisher" />
-    <xsl:apply-templates select="publishedAt" />
     <xsl:apply-templates select="publishedYear" />
-    <xsl:apply-templates select="languages" />
-    <xsl:call-template name="process-classifications" />
-
     <identifiers>
       <xsl:apply-templates select="identifiers/identifier" />
     </identifiers>
+
+    <xsl:apply-templates select="languages" />
+    <xsl:apply-templates select="publishers/publisher" />
+    <xsl:apply-templates select="publishedAt" />
+    <xsl:call-template name="process-classifications" />
+    <length>
+      <entry>
+        <xsl:attribute name="page_number">
+          <xsl:value-of select="./pageLength" />
+        </xsl:attribute>
+      </entry>
+    </length>
+
     <!-- TODO -->
   </xsl:template>
 
