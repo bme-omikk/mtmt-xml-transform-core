@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding='UTF-8' standalone='yes'?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  <!-- for XSLT 1.0 lowercase transformation using fn:translate -->
+  <xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyzáéíóöőúüű'" />
+  <xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÖŐÚÜŰ'" />
+
   <xsl:param name="source_name" />
 
   <xsl:template match="/">
@@ -235,13 +239,13 @@
   </xsl:template>
 
   <xsl:template match="publication/type|citation/related/type|publication/book/type">
-    <type identifier="{mtid}"><xsl:value-of select="label" /></type>
+    <type identifier="{mtid}"><xsl:value-of select="translate(name, $uppercase, $lowercase)" /></type>
   </xsl:template>
   <xsl:template match="publication/subType|citation/related/subType|publication/book/subType">
-    <subtype identifier="{mtid}"><xsl:value-of select="label" /></subtype>
+    <subtype identifier="{mtid}"><xsl:value-of select="translate(name, $uppercase, $lowercase)" /></subtype>
   </xsl:template>
   <xsl:template match="publication/category|citation/related/category|publication/book/category">
-    <character identifier="{mtid}"><xsl:value-of select="label" /></character>
+    <character identifier="{mtid}"><xsl:value-of select="translate(name, $uppercase, $lowercase)" /></character>
   </xsl:template>
 
   <xsl:template match="creator|author|adminApprover">
