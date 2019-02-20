@@ -254,7 +254,7 @@
     </name>
     <identifiers>
       <identifier type="{$source_name}"><xsl:value-of select="./mtid" /></identifier>
-      <!-- TODO: other ids? -->
+      <xsl:apply-templates select="./identifiers/identifier" />
     </identifiers>
     <institutes><!-- TODO --></institutes>
   </xsl:template>
