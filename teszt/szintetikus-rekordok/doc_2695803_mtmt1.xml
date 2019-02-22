@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML version 2.3-->
+<!--Original version was created 01/04/2011 by Istvan Kollar and Peter Z. Csurcsia-->
+<!--Software version 2.7 1970.01.01 01:01 23/07/2013 redefined and modified by: MTMT-->
+<!--query: https://vm.mtmt.hu/www/index.php?mode=xml&DocumentID=2695803&Full=1 -->
+<!--MyCite: Éles MTMT felület. -->
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mycite.xsd">
+ <xsd_version>2.4.</xsd_version>
+
+<record>
+  <technical_data>
+   <filesource identifier="2695803" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2014-06-17T21:38:47+00:00">
+    <name first="Marton" last="József"></name>
+    <comment>BME admin 5</comment>
+    <identifiers>
+     <identifier>10043976</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Teszt" last="Elek"/>
+    <comment>MTO teszt</comment>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">10023926</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2013"/>
+   <edited>
+    <entry event="created" date="2013-11-13" time="11:07" login="teszt-mto"/>
+    <entry event="last-modified" date="2014-12-24" time="12:31"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name first="Elek" last="Teszt" share="1">Teszt E</name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier type="Éles MTMT felület.">10023926</identifier>
+     </identifiers>
+     <institutes for="author">
+      <institute identifier="10436" parent="119" direct="direct" abbreviation="BMEOMIKK">BME Országos Műszaki Információs Központ és Könyvtár</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+    </author>
+   </authors>
+   <editors/>
+   <title>Folyóiratcikk címe - NE ments rá! jmarton</title>
+   <subtitle>Folyóiratcikk alcíme</subtitle>
+   <volume>Kötet</volume>
+   <issue>füzet</issue>
+   <date year="2013"/>
+   <institutes for="document">
+    <institute identifier="119" share="1" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="WoS" identifier="000293036000055"/>
+    <identifier name="PubMed" identifier="medline-id/firatcikk.1234"/>
+    <identifier name="Matarka" identifier="1931112"/>
+    <identifier name="Teljes dokumentum" identifier="http://publikus.web.intra"/>
+    <identifier name="Egyéb URL" identifier="http://webcim.kiado.intra"/>
+    <identifier name="article identifier" identifier="35"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Magyar</language>
+   <abstract>Itt lenne az absztrakt.</abstract>
+   <comment>megjegyzés&#13;
+ekezetekkel kisbetu: árvíztűrő tükörfúrógép&#13;
+ekezetekkel nagybetu: ÁRVÍZTŰRŐ TÜKÖRFÚRÓGÉP&#13;
+HTML kisbetu: árvíztűrő t�k�rf�róg�p&#13;
+HTML nagybetu: �RV�ZTŰRŐ T�K�RF�R�G�P&#13;
+hexa kisbetu: �rv�zt&amp;#x0171;r&amp;#x0151; t�k�rf�r�g�p&#13;
+hexa nagybetu: �RV�ZT&amp;#x0170;R&amp;#x0150; T�K�RF�R�G�P&#13;
+decimalis kisbetu: �rv�zt&amp;#369;r&amp;#337; t�k�rf�r�gép&#13;
+decimalis nagybetu: �RV�ZT&amp;#368;R&amp;#336; T�K�RF�R�G�P</comment>
+   <administrative_comment>Admin megjegyzés</administrative_comment>
+   <classifications>
+    <classification>
+     <type identifier="24">folyóiratcikk</type>
+     <subtype identifier="10000059">szakcikk</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="1" page_to="10"/>
+   </length>
+   <container>
+    <title>BRITISH POLYMER JOURNAL</title>
+    <shorttitle>BRIT POLYM J</shorttitle>
+    <peerreviewed>true</peerreviewed>
+    <published_abroad>true</published_abroad>
+    <impactfactor>0</impactfactor>
+    <identifiers>
+     <identifier type="issn">0007-1641</identifier>
+    </identifiers>
+   </container>
+   <references>
+    <reference>Közleményben hivatkozott művek</reference>
+   </references>
+   <keywords>
+    <keyword>Test generation</keyword>
+   </keywords>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="WoS-XML" year="2018"/>
+    <owner>
+     <name first="Teszt" last="Elek"></name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier>10023926</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-04-15" time="07:48" login="teszt-mto"/>
+     <entry event="last-modified" date="2018-05-23" time="11:13"/>
+    </edited>
+    <independent independent-ok="false">true</independent>
+    <language>Angol</language>
+    <foreign_only>not given</foreign_only>
+    <published_abroad>not given</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17284449</identifier>
+     <identifier name="WoS" identifier="000402351500001"/>
+     <identifier name="DOI" identifier="10.1016/j.solidstatesciences.2017.03.017"/>
+    </identifiers>
+    <title>Solid state synthesis, spectroscopic and X-ray studies of metal complexes of 2-picolinic acid and vapochromic behavior of [Co(Pic)(2)(H2O)(2)]center dot 2H(2)O</title>
+    <volume>68</volume>
+    <date year="2017"/>
+    <authors>
+     <author>
+      <name>Tella Adedibu C</name>
+     </author>
+     <author>
+      <name>Oladipo Adetola C</name>
+     </author>
+     <author>
+      <name>Adeyemi Olalere G</name>
+     </author>
+     <author>
+      <name>Oluwafemi Oluwatobi S</name>
+     </author>
+     <author>
+      <name>Oguntoye Stephen O</name>
+     </author>
+     <author>
+      <name>Alimi Lukman O</name>
+     </author>
+     <author>
+      <name>Ajayi Joseph T</name>
+     </author>
+     <author>
+      <name>Degni Sylvestre K</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="1" page_to="9" page_number="9"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>SOLID STATE SCIENCES</title>
+     <identifiers>
+      <identifier type="issn">1293-2558</identifier>
+     </identifiers>
+    </container>
+    <references/>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="WoS-XML" year="2018"/>
+    <owner>
+     <name first="Teszt" last="Elek"></name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier>10023926</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-04-15" time="07:48" login="teszt-mto"/>
+     <entry event="last-modified" date="2018-05-23" time="11:13"/>
+    </edited>
+    <independent independent-ok="false">true</independent>
+    <language>Angol</language>
+    <foreign_only>not given</foreign_only>
+    <published_abroad>not given</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17284450</identifier>
+     <identifier name="WoS" identifier="000395473500143"/>
+     <identifier name="DOI" identifier="10.3390/molecules22010144"/>
+     <identifier name="article identifier" identifier="144"/>
+    </identifiers>
+    <title>Advances in Solid-State Transformations of Coordination Bonds: From the Ball Mill to the Aging Chamber</title>
+    <volume>22</volume>
+    <issue>1</issue>
+    <date year="2017"/>
+    <authors>
+     <author>
+      <name>Mottillo Cristina</name>
+     </author>
+     <author>
+      <name>Friscic Tomislav</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_number="38"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="1134514">Összefoglaló cikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>MOLECULES</title>
+     <identifiers>
+      <identifier type="issn">1420-3049</identifier>
+     </identifiers>
+    </container>
+    <references/>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="WoS-XML" year="2018"/>
+    <owner>
+     <name first="Teszt" last="Elek"></name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier>10023926</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-08-18" time="21:12" login="teszt-mto"/>
+     <entry event="last-modified" date="2018-08-18" time="21:12"/>
+    </edited>
+    <independent independent-ok="false">not given</independent>
+    <language>Angol</language>
+    <foreign_only>not given</foreign_only>
+    <published_abroad>not given</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17534401</identifier>
+     <identifier name="WoS" identifier="000440615900023"/>
+     <identifier name="DOI" identifier="10.1021/acsomega.8b00943"/>
+    </identifiers>
+    <title>Multicomponent Mechanochemical Synthesis of Cyclopentadienyl Titanium tert-Butoxy Halides, CpxTiXy((OBu)-Bu-t)(4-(x+y)) (x, y = 1, 2; X = Cl, Br)</title>
+    <volume>3</volume>
+    <issue>7</issue>
+    <date year="2018"/>
+    <authors>
+     <author>
+      <name>Boyde Nicholas C</name>
+     </author>
+     <author>
+      <name>Steelman Grant W</name>
+     </author>
+     <author>
+      <name>Hanusa Timothy P</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="8149" page_to="8159" page_number="11"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>ACS OMEGA</title>
+     <identifiers>
+      <identifier type="eissn">2470-1343</identifier>
+     </identifiers>
+    </container>
+    <references/>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="WoS-XML" year="2018"/>
+    <owner>
+     <name first="Teszt" last="Elek"></name>
+     <comment>MTO teszt</comment>
+     <identifiers>
+      <identifier>10023926</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-08-18" time="21:12" login="teszt-mto"/>
+     <entry event="last-modified" date="2018-08-18" time="21:12"/>
+    </edited>
+    <independent independent-ok="false">not given</independent>
+    <language>Angol</language>
+    <foreign_only>not given</foreign_only>
+    <published_abroad>not given</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17534402</identifier>
+     <identifier name="WoS" identifier="000439154300014"/>
+     <identifier name="DOI" identifier="10.1039/c8dt01073k"/>
+    </identifiers>
+    <title>The first representatives of tetranuclear gold(I) complexes of P,N-containing cyclophanes</title>
+    <volume>47</volume>
+    <issue>23</issue>
+    <date year="2018"/>
+    <authors>
+     <author>
+      <name>Nikolaeva Yu A</name>
+     </author>
+     <author>
+      <name>Balueva A S</name>
+     </author>
+     <author>
+      <name>Khafizov A A</name>
+     </author>
+     <author>
+      <name>Strelnik I D</name>
+     </author>
+     <author>
+      <name>Gerasimova T P</name>
+     </author>
+     <author>
+      <name>Katsyuba S A</name>
+     </author>
+     <author>
+      <name>Litvinov I A</name>
+     </author>
+     <author>
+      <name>Musina E I</name>
+     </author>
+     <author>
+      <name>Karasik A A</name>
+     </author>
+     <author>
+      <name>Sinyashin O G</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="7715" page_to="7720" page_number="6"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>DALTON TRANSACTIONS</title>
+     <identifiers>
+      <identifier type="issn">1477-9226</identifier>
+      <identifier type="eissn">1477-9234</identifier>
+     </identifiers>
+    </container>
+    <references/>
+   </citation>
+  </citations>
+ </record>
+
+</records>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML version 2.3-->
+<!--Original version was created 01/04/2011 by Istvan Kollar and Peter Z. Csurcsia-->
+<!--Software version 2.7 1970.01.01 01:01 23/07/2013 redefined and modified by: MTMT-->
+<!--query: https://vm.mtmt.hu/www/index.php?mode=xml&DocumentID=3400503&Full=1 -->
+<!--MyCite: Éles MTMT felület. -->
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mycite.xsd">
+ <xsd_version>2.4.</xsd_version>
+
+<record>
+  <technical_data>
+   <filesource identifier="3400503" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <owner>
+    <name first="Fülöp" last="Tamás"/>
+    <comment>fizika, műszaki alk.</comment>
+    <identifiers>
+     <identifier type="ResearcherID">B-1463-2013</identifier>
+     <identifier type="Scopus ID">55407482200</identifier>
+     <identifier type="Google Scholar ID">b20oxWEAAAAJ</identifier>
+     <identifier type="ORCID">0000-0003-2708-7065</identifier>
+     <identifier type="Éles MTMT felület.">10026717</identifier>
+    </identifiers>
+   </owner>
+   <source name="kézi felvitel" year="2018"/>
+   <edited>
+    <entry event="created" date="2018-07-31" time="19:39" login="tamas.fulop@gmail.com"/>
+    <entry event="last-modified" date="2018-07-31" time="19:41"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name share="1">Matolcsi T</name>
+     <identifiers/>
+    </author>
+   </authors>
+   <editors>
+    <editor>
+     <name first="Tamás" last="Fülöp" share="0.6">Fülöp T</name>
+     <comment>fizika, műszaki alk.</comment>
+     <identifiers>
+      <identifier type="ResearcherID">B-1463-2013</identifier>
+      <identifier type="Scopus ID">55407482200</identifier>
+      <identifier type="Google Scholar ID">b20oxWEAAAAJ</identifier>
+      <identifier type="ORCID">0000-0003-2708-7065</identifier>
+      <identifier type="Éles MTMT felület.">10026717</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10879" parent="10333" direct="direct" abbreviation="EGRT">Energetikai Gépek és Rendszerek Tanszék</institute>
+      <institute identifier="10333" parent="119" abbreviation="GEK">Gépészmérnöki Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="360" parent="11758" direct="direct" abbreviation="MTA-ELTE-EFK">MTA-ELTE Elméleti Fizikai Kutatócsoport</institute>
+      <institute identifier="13944" parent="13920" direct="direct">Nehézion-fizikai csoport</institute>
+      <institute identifier="10879" parent="10333" direct="direct" abbreviation="EGRT">Energetikai Gépek és Rendszerek Tanszék</institute>
+      <institute identifier="84" parent="13" direct="direct">Elméleti Fizikai Főosztály</institute>
+      <institute identifier="13" parent="12797" abbreviation="RMKI">Részecske- és Magfizikai Kutató Intézet</institute>
+      <institute identifier="12797" abbreviation="MTA Wigner FK">MTA Wigner Fizikai Kutatóközpont</institute>
+      <institute identifier="10333" parent="119" abbreviation="GEK">Gépészmérnöki Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      <institute identifier="13920" parent="13918" abbreviation="ELMO">Elméleti Osztály</institute>
+      <institute identifier="13918" parent="12797" abbreviation="RMI">Részecske- és Magfizikai Intézet</institute>
+      <institute identifier="11758" parent="11104" abbreviation="ELTE TTK FI">ELTE TTK Fizikai Intézet</institute>
+      <institute identifier="11104" parent="133" abbreviation="ELTE TTK">Eötvös Loránd Tudományegyetem Természettudományi Kar</institute>
+      <institute identifier="133" abbreviation="ELTE">Eötvös Loránd Tudományegyetem</institute>
+     </institutes>
+    </editor>
+    <editor>
+     <name share="0.4">Szabó Á</name>
+     <identifiers/>
+    </editor>
+   </editors>
+   <title>Spacetime without reference frames</title>
+   <date year="2018"/>
+   <identifiers>
+    <identifier name="Teljes dokumentum" identifier="http://energia.bme.hu/~fulop/Matolcsi_Spacetime_without_Reference_Frames_2018-07-31.pdf"/>
+    <identifier name="Teljes dokumentum" identifier="http://montavid.hu/materials/Matolcsi_Spacetime_without_Reference_Frames_2018-07-31.pdf"/>
+    <identifier type="isbn">978-615-80157-3-8</identifier>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Angol</language>
+   <comment>2nd, revised edition&#13;
+(1st edition by Akadémiai Kiadó, Budapest, 1993, ISBN 963 05 6433 5)</comment>
+   <publisher city="Budapest" country="Magyarország" publisher-country="Magyarország">Egyesület a Tudomány és Technológia Egységéért</publisher>
+   <published city="Budapest" country="Magyarország"/>
+   <media>Internet;E-book</media>
+   <classifications>
+    <classification>
+     <type identifier="23">könyv</type>
+     <subtype identifier="10000201">szakkönyv</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_number="394"/>
+   </length>
+  </publication>
+  <citations/>
+ </record>
+
+</records>

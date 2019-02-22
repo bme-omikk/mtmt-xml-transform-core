@@ -1,4 +1,4 @@
-# Szintetikus tesztrekordok
+# Tesztrekordok
 
 
 Az MTMT2 XML fájlokban a gyökérelem `myciteResult`, de lehet `myciteResultList` is. A lényeg, hogy a `/mycireResult|myciteResultList/content/publication` az, amit transzformálni kell.

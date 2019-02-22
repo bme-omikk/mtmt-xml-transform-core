@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML version 2.3-->
+<!--Original version was created 01/04/2011 by Istvan Kollar and Peter Z. Csurcsia-->
+<!--Software version 2.7 1970.01.01 01:01 23/07/2013 redefined and modified by: MTMT-->
+<!--query: https://vm.mtmt.hu/www/index.php?mode=xml&DocumentID=2615009&Full=1 -->
+<!--MyCite: Éles MTMT felület. -->
+<records xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mycite.xsd">
+ <xsd_version>2.4.</xsd_version>
+
+<record>
+  <technical_data>
+   <filesource identifier="2615009" name="Éles MTMT felület." status="jóváhagyva"/>
+   <language>magyar</language>
+   <admin_seen timestamp="2012-06-20T14:16:54+00:00">
+    <name first="Szmolyán" last="Mária"></name>
+    <comment>BME admin 5</comment>
+    <identifiers>
+     <identifier>10014110</identifier>
+    </identifiers>
+   </admin_seen>
+   <owner>
+    <name first="Czigány" last="Tibor"/>
+    <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+    <identifiers>
+     <identifier type="MTA ID">10007961</identifier>
+     <identifier type="ResearcherID">A-5301-2008</identifier>
+     <identifier type="Scopus ID">35502123300</identifier>
+     <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+     <identifier type="ResearchGate">Tibor_Czigany</identifier>
+     <identifier type="ODT ID">2767</identifier>
+     <identifier type="Microsoft Academic Search">19690576</identifier>
+     <identifier type="ORCID">0000-0002-5138-0141</identifier>
+     <identifier type="Éles MTMT felület.">10001225</identifier>
+    </identifiers>
+   </owner>
+   <source name="WOS" year="2008"/>
+   <edited>
+    <entry event="created" date="2008-03-21" time="00:00" login="czigany"/>
+    <entry event="last-modified" date="2014-10-16" time="18:44"/>
+   </edited>
+  </technical_data>
+  <publication>
+   <authors>
+    <author>
+     <name share="0.166666666666667">Ahmad SH</name>
+     <identifiers/>
+    </author>
+    <author>
+     <name share="0.166666666666667">Rasid R</name>
+     <identifiers/>
+    </author>
+    <author>
+     <name share="0.166666666666667">Surip SN</name>
+     <identifiers/>
+    </author>
+    <author>
+     <name share="0.166666666666667">Anuar H</name>
+     <identifiers/>
+    </author>
+    <author>
+     <name first="Tibor" last="Czigány" share="0.166666666666667">Czigány T</name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier type="Éles MTMT felület.">10001225</identifier>
+     </identifiers>
+     <institutes for="docauthor">
+      <institute identifier="10858" parent="10333" direct="direct" abbreviation="PT">Polimertechnika Tanszék</institute>
+      <institute identifier="10333" parent="119" abbreviation="GEK">Gépészmérnöki Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+     </institutes>
+     <institutes for="author">
+      <institute identifier="13845" parent="13668" direct="direct">Szakmai Habilitációs Bizottság és Doktor Tanács (PÁGDI)</institute>
+      <institute identifier="13823" parent="13668" direct="direct">Pattantyús-Ábrahám Géza Doktori Iskola törzstagjai</institute>
+      <institute identifier="12818" parent="12810" direct="direct">MTA-BME Kompozittechnológiai Kutatócsoport</institute>
+      <institute identifier="10858" parent="10333" direct="direct" abbreviation="PT">Polimertechnika Tanszék</institute>
+      <institute identifier="10333" parent="119" abbreviation="GEK">Gépészmérnöki Kar</institute>
+      <institute identifier="119" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+      <institute identifier="12810" parent="119">MTA-BME Kutatócsoportok</institute>
+      <institute identifier="13668" parent="10932">Pattantyús-Ábrahám Géza Doktori Iskola</institute>
+      <institute identifier="10932" parent="119" abbreviation="EHBDT">Egyetemi Habilitációs Bizottság és Doktori Tanács</institute>
+     </institutes>
+    </author>
+    <author>
+     <name share="0.166666666666667">Razak SBA</name>
+     <identifiers/>
+    </author>
+   </authors>
+   <editors/>
+   <title>Mechanical and fracture toughness behavior of TPNR nanocomposites</title>
+   <volume>41</volume>
+   <issue>17</issue>
+   <date year="2007"/>
+   <institutes for="document">
+    <institute identifier="119" share="-2" direct="direct" abbreviation="BME">Budapesti Műszaki és Gazdaságtudományi Egyetem</institute>
+   </institutes>
+   <identifiers>
+    <identifier name="WoS" identifier="000249099200008" validator="-1" date="2016-05-26 03:47:33"/>
+    <identifier name="Scopus" identifier="34547508976"/>
+    <identifier name="DOI" identifier="10.1177/0021998307074140"/>
+    <identifier name="Google scholar" identifier="16413819507822276498"/>
+    <identifier type="url" name="publisher" public="true"></identifier>
+   </identifiers>
+   <language>Angol</language>
+   <abstract>Thermoplastic natural rubber (TPNR) nanocomposites containing&#13;
+organophilic layered silicates were prepared by melt blending method at&#13;
+180 degrees C using internal mixer (Haake 600P). The aim of this study&#13;
+is to determine the influence of the organoclay filler on the&#13;
+mechanical and fracture properties. In this study, two mixing methods&#13;
+were employed to incorporate filler into matrix, namely the direct (DM)&#13;
+and indirect (IDM) method. The mechanical properties of TPNR&#13;
+nanocomposites were studied using tensile, flexural, and impact tests.&#13;
+The tensile and flexural tests revealed that the optimum loading of&#13;
+organoclay was at 4 wt% using the indirect method of mixing. Plane&#13;
+stress fracture toughness of thermoplastic natural rubber (TPNR)&#13;
+nanocomposite was determined by the essential work of fracture (EWF)&#13;
+concept using tensile-loaded deeply double-edge notched (DDEN-T)&#13;
+specimens. The EWF measurements indicated that the specific essential&#13;
+work of fracture (w(e)) decreased in the presence of nanoclay.&#13;
+Nevertheless, these TPNR nanocomposites met the basic requirement of&#13;
+the EWF concept of full ligament yielding, which was marked by a load&#13;
+drop in the force-displacement curves of the DDEN-T specimens.</abstract>
+   <classifications>
+    <classification>
+     <type identifier="24">folyóiratcikk</type>
+     <subtype identifier="10000059">szakcikk</subtype>
+     <character identifier="1">tudományos</character>
+    </classification>
+   </classifications>
+   <length>
+    <entry page_from="2147" page_to="2159"/>
+   </length>
+   <container>
+    <title>JOURNAL OF COMPOSITE MATERIALS</title>
+    <shorttitle>J COMPOS MATER</shorttitle>
+    <peerreviewed>true</peerreviewed>
+    <published_abroad>true</published_abroad>
+    <impactfactor>0.957</impactfactor>
+    <identifiers>
+     <identifier type="issn">0021-9983</identifier>
+     <identifier type="eissn">1530-793x</identifier>
+    </identifiers>
+   </container>
+   <references>
+    <reference>AKELAH A, 1995, MATER LETT, V22, P97</reference>
+    <reference>ALEXANDRE M, 2000, MAT SCI ENG R, V28, P1</reference>
+    <reference>AVELLA M, 2006, EUR POLYM J, V42, P1548, DOI</reference>
+    <reference>10.1016/j.eurpolymj.2006.01.009</reference>
+    <reference>CAI LF, 2007, EXPRESS POLYM LETT, V1, P2</reference>
+    <reference>CHOW WS, 2003, POLYMER, V44, P7427, DOI 10.1016/j.polymer.2003.09.006</reference>
+    <reference>GATOS KG, 2007, EXPRESS POLYM LETT, V1, P27</reference>
+    <reference>HASEGAWA N, 1998, J APPL POLYM SCI, V67, P87</reference>
+    <reference>KARGERKOCSIS J, 2000, POLYM ENG SCI, V40, P1809</reference>
+    <reference>KARGERKOCSIS J, 2002, POLYM ENG SCI, V42, P1410</reference>
+    <reference>KOCSIS KJ, 2003, POLYMER, V44, P5691</reference>
+    <reference>KORNMANN X, 2001, POLYMER, V42, P1303</reference>
+    <reference>LI XC, 2002, POLYM ENG SCI, V42, P2156</reference>
+    <reference>LIM JW, 2006, PLAST RUB COMPOS PRO, V35, P1</reference>
+    <reference>LIU XH, 2001, POLYMER, V42, P10013</reference>
+    <reference>MCNALLY T, 2002, POLYMER, V43, P3785</reference>
+    <reference>MOORE DR, 2001, ESIS PUBLICATION, V28</reference>
+    <reference>SURIP SN, 2005, 5 NAT S POL P RESI H, P560</reference>
+    <reference>VAIA RA, 1997, MACROMOLECULES, V30, P8000</reference>
+    <reference>WHITE JR, 1999, POLYPROPYLENE A Z RE</reference>
+    <reference>YASUE K, 2001, POLYMER CLAY NANOCOM</reference>
+    <reference>ZHANG Q, 2000, POLYM INT, V49, P1561</reference>
+   </references>
+  </publication>
+  <citations>
+   <citation status="jóváhagyva">
+    <source name="kézi felvitel"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2010-08-16" time="11:13" login="czigany"/>
+     <entry event="last-modified" date="2018-09-14" time="12:21"/>
+    </edited>
+    <independent independent-ok="false">true</independent>
+    <language>Spanyol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">13936954</identifier>
+     <identifier name="Scopus" validator="J" identifier="78449313658"/>
+    </identifiers>
+    <title>APLICACIÓN DE LA MECÁNICA DE LA FRACTURA POST-CEDENCIA A POLÍMEROS</title>
+    <comment>ISSN 0255-6952</comment>
+    <volume>30</volume>
+    <issue>2</issue>
+    <date year="2010"/>
+    <authors>
+     <author>
+      <name>Maspoch ML</name>
+     </author>
+     <author>
+      <name>Urquiza EF</name>
+     </author>
+     <author>
+      <name>Perez JG</name>
+     </author>
+     <author>
+      <name>Soto MS</name>
+     </author>
+     <author>
+      <name>Velasco JI</name>
+     </author>
+     <author>
+      <name>Santana OO</name>
+     </author>
+     <author>
+      <name>Martinez AB</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="101" page_to="118"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>Revista Latinoamericana de Metalurgia y Materiales</title>
+     <identifiers>
+      <identifier type="issn">0255-6952</identifier>
+      <identifier type="eissn">2244-7113</identifier>
+     </identifiers>
+    </container>
+    <references/>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="WOS" year="2010"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2010-11-22" time="10:56" login="czigany"/>
+     <entry event="last-modified" date="2018-01-29" time="10:14"/>
+    </edited>
+    <independent independent-ok="false">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">13936955</identifier>
+     <identifier name="WoS" validator="J" identifier="000276895000002"/>
+     <identifier name="Scopus" validator="J" identifier="78049426870"/>
+     <identifier name="Google scholar hash" identifier="MEFBUR64xbEJ"/>
+    </identifiers>
+    <title>Modification of Polystyrene using Nanosilica for Improvement in Mechanical Properties</title>
+    <volume>25</volume>
+    <issue>2</issue>
+    <date year="2009"/>
+    <authors>
+     <author>
+      <name>Renjanadevi B</name>
+     </author>
+     <author>
+      <name>George KE</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="103" page_to="111"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>PROGRESS IN RUBBER PLASTICS AND RECYCLING TECHNOLOGY</title>
+     <identifiers>
+      <identifier type="issn">1477-7606</identifier>
+      <identifier type="eissn">0266-7320</identifier>
+     </identifiers>
+    </container>
+    <references>
+     <reference>2004, COLLOIDS SURFACES A, V240, P173</reference>
+     <reference>2005, COMPOSITE SCI TECHNO, V65, P2364</reference>
+     <reference>2005, POLYMER, V46, P3343</reference>
+     <reference>2007, J COMPOSITE MAT, V41, P2147</reference>
+     <reference>2007, MAT SCI ENG A, V467, P172</reference>
+     <reference>CHAN CM, 2001, POLYMER, V42, P3301</reference>
+     <reference>CHAN CM, 2002, POLYMER, V43, P2981</reference>
+     <reference>CHUN LW, 2002, COMPOS SCI TECHNOL, V62, P1327</reference>
+     <reference>ILPARK C, 2001, POLYMER, V42, P7465</reference>
+     <reference>JEFFERY J, 2005, MAT SCI ENG A-STRUCT, V393, P1</reference>
+     <reference>KOTOKY T, 2004, J SOL-GEL SCI TECHN, V29, P107</reference>
+     <reference>LI JX, 2000, POLYMER, V41, P6935</reference>
+     <reference>LI Y, 2002, J APPL POLYM SCI, V84, P827</reference>
+     <reference>LIPATOV YS, 1995, POLYM REINFORCEMENT, P385</reference>
+     <reference>MASENELLIVARLOT K, 2002, J POLYM SCI POL PHYS, V40, P272</reference>
+     <reference>MASENELLIVARLOT K, 2002, POLYM SCI SER B, V40, P272</reference>
+     <reference>OU Y, 1998, J APPL POLYM SCI B, V36, P798</reference>
+     <reference>RONG MZ, 2001, POLYMER, V42, P3301</reference>
+     <reference>SHELLEY JS, 2001, POLYMER, V42, P5849</reference>
+     <reference>TANNENBAUM R, CHARACTERISATION MET, P1</reference>
+     <reference>VOLLENBERG PHT, 1989, POLYMER, V30, P1656</reference>
+     <reference>ZENG QH, 2001, COMPOSITES APPL</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="WOS" year="2011"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2011-10-19" time="13:56" login="czigany"/>
+     <entry event="last-modified" date="2018-01-29" time="14:08"/>
+    </edited>
+    <independent independent-ok="true">false</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">13936956</identifier>
+     <identifier name="WoS" validator="J" identifier="000289972100007"/>
+     <identifier name="Scopus" validator="J" identifier="79955700878"/>
+     <identifier name="DOI" identifier="10.1177/0731684411399134"/>
+     <identifier name="Google scholar" identifier="657234085619117089"/>
+    </identifiers>
+    <title>The enhancement of properties of TPNR/clay nanocomposites using ultrasonic treatment</title>
+    <volume>30</volume>
+    <issue>6</issue>
+    <date year="2011" from="2010-11-30" to="2010-11-30"/>
+    <authors>
+     <author>
+      <name>Tarawneh MA</name>
+     </author>
+     <author>
+      <name>Ahmad SH</name>
+     </author>
+     <author>
+      <name>Rasid R</name>
+     </author>
+     <author>
+      <name>Yahya SY</name>
+     </author>
+     <author>
+      <name>Noum SYE</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="524" page_to="532"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>JOURNAL OF REINFORCED PLASTICS AND COMPOSITES</title>
+     <identifiers>
+      <identifier type="issn">0731-6844</identifier>
+     </identifiers>
+    </container>
+    <references>
+     <reference>AHMAD SH, 2007, J COMPOS MATER, V41, P2147, DOI 10.1177/0021998307074140</reference>
+     <reference>AVELLA M, 2006, EUR POLYM J, V42, P1548, DOI</reference>
+     <reference>10.1016/j.eurpolymj.2006.01.009</reference>
+     <reference>CHIU FC, 2004, J POLYM SCI POL PHYS, V42, P4139, DOI 10.1002/polb.20271</reference>
+     <reference>CHOI WM, 2003, J APPL POLYM SCI, V90, P525, DOI 10.1002/app.12702</reference>
+     <reference>CHOW WS, 2003, POLYMER, V44, P7427, DOI 10.1016/j.polymer.2003.09.006</reference>
+     <reference>FORNES TD, 2003, POLYMER, V44, P4993, DOI 10.1016/S0032-3861(03)00471-3</reference>
+     <reference>JORDAN J, 2005, MAT SCI ENG A-STRUCT, V393, P1, DOI</reference>
+     <reference>10.1016/j.msea.2004.09.044</reference>
+     <reference>KE YC, 1999, J APPL POLYM SCI, V71, P1139</reference>
+     <reference>KRISHNAMOORTI R, 1997, MACROMOLECULES, V30, P4097</reference>
+     <reference>KUMAR RV, 2002, J APPL POLYM SCI, V86, P160</reference>
+     <reference>LEE EC, 2004, POLYM ENG SCI, V44, P1773, DOI 10.1002/pen.20179</reference>
+     <reference>LEE KM, 2003, POLYMER, V44, P4573, DOI 10.1016/S0032-3861(03)00444-0</reference>
+     <reference>LIU WP, 2005, COMPOS SCI TECHNOL, V65, P307, DOI</reference>
+     <reference>10.1016/j.compscitech.2004.07.012</reference>
+     <reference>LIU XH, 2001, POLYMER, V42, P10013</reference>
+     <reference>LOYENS W, 2005, POLYMER, V46, P903, DOI 10.1016/j.polymer.2004.11.077</reference>
+     <reference>MAITI SN, 1992, J MATER SCI, V27, P4605</reference>
+     <reference>RYU J, 2001, DEV PP BASED NANOCOM, P2135</reference>
+     <reference>SONG M, 2003, J APPL POLYM SCI, V90, P3239, DOI 10.1002/app.12979</reference>
+     <reference>USUKI A, 1993, J MATER RES, V8, P1179</reference>
+     <reference>VAIA RA, 1993, CHEM MATER, V5, P1694</reference>
+     <reference>VAIA RA, 1995, MACROMOLECULES, V28, P8080</reference>
+     <reference>XIA HS, 2003, J APPL POLYM SCI, V87, P1811, DOI 10.1002/app.11627</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="WOS" year="2011"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2011-10-19" time="13:56" login="czigany"/>
+     <entry event="last-modified" date="2018-01-29" time="10:14"/>
+    </edited>
+    <independent independent-ok="false">false</independent>
+    <language>Angol</language>
+    <foreign_only>false</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">13936957</identifier>
+     <identifier name="WoS" validator="J" identifier="000283909500003"/>
+     <identifier name="Scopus" validator="J" identifier="77957578098"/>
+     <identifier name="DOI" identifier="10.1016/j.progpolymsci.2010.07.001"/>
+     <identifier name="Google scholar" identifier="3715744278251497185"/>
+     <identifier name="Google scholar hash" identifier="4eZe9bv5kDMJ"/>
+    </identifiers>
+    <title>Application of the essential work of fracture (EWF) concept for polymers, related blends and composites: A review</title>
+    <volume>35</volume>
+    <issue>10</issue>
+    <date year="2010" from="2009-11-30" to="2009-11-30"/>
+    <authors>
+     <author>
+      <name>Barany T</name>
+     </author>
+     <author>
+      <name>Czigany T</name>
+     </author>
+     <author>
+      <name>Karger-Kocsis J</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="1257" page_to="1287"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>PROGRESS IN POLYMER SCIENCE</title>
+     <identifiers>
+      <identifier type="issn">0079-6700</identifier>
+     </identifiers>
+    </container>
+    <references>
+     <reference>*ISO CD, 1920, 18874 ISOCD</reference>
+     <reference>AHMAD SH, 2007, J COMPOS MATER, V41, P2147, DOI 10.1177/0021998307074140</reference>
+     <reference>ANUAR H, 2007, J COMPOS MATER, V41, P3035, DOI 10.1177/0021998307082173</reference>
+     <reference>ARENCON D, 2001, J MATER SCI, V36, P179</reference>
+     <reference>ARENCON D, 2007, POLYM TEST, V26, P761, DOI</reference>
+     <reference>10.1016/j.polymertesting.2007.03.009</reference>
+     <reference>ARKHIREYEVA A, 1999, J MATER SCI, V34, P5961</reference>
+     <reference>ARKHIREYEVA A, 2001, PLAST RUBBER COMPOS, V30, P125</reference>
+     <reference>ARKHIREYEVA A, 2001, PLAST RUBBER COMPOS, V30, P337</reference>
+     <reference>ARKHIREYEVA A, 2002, J MATER SCI, V37, P3675</reference>
+     <reference>ARKHIREYEVA A, 2002, POLYM ENG SCI, V42, P504</reference>
+     <reference>ARKHIREYEVA A, 2002, POLYMER, V43, P289</reference>
+     <reference>ARKHIREYEVA A, 2004, ENG FRACT MECH, V71, P789, DOI</reference>
+     <reference>10.1016/S0013-7944(03)00010-9</reference>
+     <reference>ATKINS AG, 1985, ELASTIC PLASTIC FRAC</reference>
+     <reference>BALAMURUGAN GP, 2008, POLYM TEST, V27, P752, DOI</reference>
+     <reference>10.1016/j.polymertesting.2008.05.010</reference>
+     <reference>BALDI F, 2006, J APPL POLYM SCI, V99, P3406, DOI 10.1002/app.22955</reference>
+     <reference>BAO SP, 2007, COMPOS PART A-APPL S, V38, P378, DOI</reference>
+     <reference>10.1016/j.compositesa.2006.03.005</reference>
+     <reference>BARANY T, 2003, POLYM DEGRAD STABIL, V82, P271, DOI</reference>
+     <reference>10.1016/S0141-3910(03)00221-0</reference>
+     <reference>BARANY T, 2004, J APPL POLYM SCI, V91, P3462, DOI 10.1002/app.13528</reference>
+     <reference>BARANY T, 2005, INT J FRACTURE, V135, P251, DOI</reference>
+     <reference>10.1007/s10704-005-3947-2</reference>
+     <reference>BARANY T, 2007, EXPRESS POLYM LETT, V1, P180</reference>
+     <reference>BENJAR PY, 2010, POLYM ENG SCI, V50, P530, DOI 10.1002/pen.21564</reference>
+     <reference>BERNAL CR, 1995, POLYM ENG SCI, V35, P1705</reference>
+     <reference>BILLON N, 2003, ESIS PUBL, V32, P65</reference>
+     <reference>BOHATY P, 2002, J MACROMOL SCI PHY B, V41, P657, DOI</reference>
+     <reference>10.1081/MB-120013057</reference>
+     <reference>BROBERG KB, 1968, INT J FRAC MECH, V4, P11</reference>
+     <reference>BROBERG KB, 1971, J MECH PHYS, V19, P407</reference>
+     <reference>BROBERG KB, 1975, J MECH PHYS SOLIDS, V23, P215</reference>
+     <reference>BUREAU MN, 2004, POLYM ENG SCI, V44, P1142, DOI 10.1002/pen.20107</reference>
+     <reference>BUREAU MN, 2006, ENG FRACT MECH, V73, P2360, DOI</reference>
+     <reference>10.1016/j.engfracmech.2006.04.012</reference>
+     <reference>CANDAL MV, 2008, J MATER SCI, V43, P5052, DOI 10.1007/s10853-008-2667-1</reference>
+     <reference>CASELLAS JJ, 1999, J APPL POLYM SCI, V74, P781</reference>
+     <reference>CHALEAT CM, 2008, CARBOHYD POLYM, V71, P535, DOI</reference>
+     <reference>10.1016/j.carbpol.2007.06.029</reference>
+     <reference>CHAN WYF, 1994, POLYMER, V35, P1666</reference>
+     <reference>CHEN HB, 2004, POLYMER, V45, P6375, DOI 10.1016/j.polymer.2004.07.007</reference>
+     <reference>CHEN HB, 2007, J POLYM SCI POL PHYS, V45, P1418, DOI 10.1002/polb.21172</reference>
+     <reference>CHEN HB, 2007, MACROMOLECULES, V40, P4322, DOI 10.1021/ma062567r</reference>
+     <reference>CHEN N, 2005, J APPL POLYM SCI, V95, P953</reference>
+     <reference>CHIA JYH, 2006, MAT SCI ENG A-STRUCT, V428, P67, DOI</reference>
+     <reference>10.1016/j.msea.2006.04.052</reference>
+     <reference>CHING ECY, 2000, POLYM ENG SCI, V40, P2558</reference>
+     <reference>CHING ECY, 2000, POLYM ENG SCI, V40, P310</reference>
+     <reference>CHING ECY, 2003, POLYM ENG SCI, V43, P558</reference>
+     <reference>CHIOU KC, 2001, POLYM ENG SCI, V41, P1007</reference>
+     <reference>CLUTTON E, 2001, FRACTURE MECH TESTIN, V28, P177</reference>
+     <reference>COSTA FR, 2006, EUR POLYM J, V42, P2140, DOI</reference>
+     <reference>10.1016/j.eurpolmj.2006.04.005</reference>
+     <reference>COTTERELL B, 2005, ENG FRACT MECH, V72, P827, DOI</reference>
+     <reference>10.1016/j.engfracmech.2004.10.002</reference>
+     <reference>DROZDOV AD, 2009, ENG FRACT MECH, V76, P1977, DOI</reference>
+     <reference>10.1016/j.engfracmech.2009.05.003</reference>
+     <reference>DUAN K, 2006, COMPOS SCI TECHNOL, V66, P3172, DOI</reference>
+     <reference>10.1016/j.compscitech.2005.02.020</reference>
+     <reference>EGAN BJ, 1995, J MATER SCI, V30, P3307</reference>
+     <reference>FASCE L, 1999, J APPL POLYM SCI, V74, P2681</reference>
+     <reference>FASCE L, 2001, POLYM ENG SCI, V41, P1</reference>
+     <reference>FASCE L, 2007, MACROMOL SYMP, V247, P271, DOI 10.1002/masy.200750131</reference>
+     <reference>FAYOLLE B, 2002, POLYM DEGRAD STABIL, V75, P123</reference>
+     <reference>FAYOLLE B, 2003, POLYMER, V44, P2773, DOI 10.1016/S0032-3861(03)00116-2</reference>
+     <reference>FAYOLLE B, 2004, POLYM TEST, V23, P939, DOI</reference>
+     <reference>10.1016/j.polymertesting.2004.04.013</reference>
+     <reference>FAYOLLE B, 2005, POLYM ENG SCI, V45, P424, DOI 10.1002/pen.20241</reference>
+     <reference>FERRERBALAS D, 1999, POLYM BULL, V42, P101</reference>
+     <reference>FERRERBALAS D, 2001, POLYMER, V42, P1697</reference>
+     <reference>FERRERBALAS D, 2001, POLYMER, V42, P2665</reference>
+     <reference>FERRERBALAS M, 2002, POLYMER, V43, P3083</reference>
+     <reference>FUNG KL, 2004, POLYM ENG SCI, V44, P580, DOI 10.1002/pen.20052</reference>
+     <reference>FUNG KL, 2005, POLYM TEST, V24, P863, DOI</reference>
+     <reference>10.1016/j.polymertesting.2005.06.012</reference>
+     <reference>GAMEZPEREZ J, 2005, J MATER SCI, V40, P1967</reference>
+     <reference>GAMEZPEREZ J, 2006, J APPL POLYM SCI, V101, P2714, DOI 10.1002/app.23024</reference>
+     <reference>GAMEZPEREZ J, 2007, POLYM ENG SCI, V47, P1365, DOI 10.1002/pen.20821</reference>
+     <reference>GAMEZPEREZ J, 2008, POLYM TEST, V27, P491, DOI</reference>
+     <reference>10.1016/j.polymertesting.2008.02.002</reference>
+     <reference>GANSS M, 2008, ACTA MATER, V56, P2247, DOI 10.1016/j.actamat.2008.01.010</reference>
+     <reference>GARNIER G, 2009, J MATER SCI, V44, P5537, DOI 10.1007/s10853-009-3775-2</reference>
+     <reference>GONG G, 2005, POLYM TEST, V24, P410, DOI</reference>
+     <reference>10.1016/j.polymertesting.2005.02.004</reference>
+     <reference>GONG G, 2006, POLYM TEST, V25, P98, DOI</reference>
+     <reference>10.1016/j.polymertesting.2005.09.010</reference>
+     <reference>GONG G, 2007, COMPOS PART A-APPL S, V38, P1683, DOI</reference>
+     <reference>10.1016/j.compositesa.2007.02.002</reference>
+     <reference>GONZALEZ I, 2009, POLYM TEST, V28, P760, DOI</reference>
+     <reference>10.1016/j.polymertesting.2009.06.008</reference>
+     <reference>GONZALEZ I, 2010, POLYM TEST, V29, P27, DOI</reference>
+     <reference>10.1016/j.polymertesting.2009.09.001</reference>
+     <reference>GREIN C, 2003, POLYM ENG SCI, V43, P223</reference>
+     <reference>GUPTA P, 2005, POLYMER, V46, P8819, DOI 10.1016/j.polymer.2005.05.137</reference>
+     <reference>HASHEMI S, 1993, J MATER SCI, V28, P3977</reference>
+     <reference>HASHEMI S, 1993, MAT SCI, V28, P6178</reference>
+     <reference>HASHEMI S, 1993, PLAST RUB COMPOS PRO, V20, P229</reference>
+     <reference>HASHEMI S, 1997, J MATER SCI, V32, P1563</reference>
+     <reference>HASHEMI S, 1997, POLYM ENG SCI, V37, P912</reference>
+     <reference>HASHEMI S, 2000, J MATER SCI, V35, P5851</reference>
+     <reference>HASHEMI S, 2000, PLAST RUBBER COMPOS, V29, P294</reference>
+     <reference>HASHEMI S, 2000, POLYM ENG SCI, V40, P132</reference>
+     <reference>HASHEMI S, 2000, POLYM ENG SCI, V40, P1435</reference>
+     <reference>HASHEMI S, 2000, POLYM ENG SCI, V40, P798</reference>
+     <reference>HASHEMI S, 2002, J MACROMOL SCI PHY B, V41, P863, DOI</reference>
+     <reference>10.1081/MB-120013070</reference>
+     <reference>HASHEMI S, 2002, POLYMER, V43, P4033</reference>
+     <reference>HASHEMI S, 2003, J MATER SCI, V38, P3055</reference>
+     <reference>HASHEMI S, 2003, POLYM TEST, V22, P589, DOI</reference>
+     <reference>10.1016/S0142-9418(02)00162-9</reference>
+     <reference>HASHEMI S, 2007, J MATER SCI, V42, P6197, DOI 10.1007/s10853-006-1157-6</reference>
+     <reference>HAUGHIE DW, 2006, BIOMATERIALS, V27, P3875, DOI</reference>
+     <reference>10.1016/j.biomaterials.2006.03.010</reference>
+     <reference>HEINO M, 1997, J APPL POLYM SCI, V66, P2209</reference>
+     <reference>HERNANDEZ M, 2008, POLYM TEST, V27, P881, DOI</reference>
+     <reference>10.1016/j.polymertesting.2008.07.005</reference>
+     <reference>HILL R, 1952, J MECH PHYS SOLIDS, V1, P19</reference>
+     <reference>HO CH, 2004, THEOR APPL FRACT MEC, V41, P103, DOI</reference>
+     <reference>10.1016/j.tafmec.2003.11.008</reference>
+     <reference>HOURSTON DJ, 1991, POLYMER, V32, P2215</reference>
+     <reference>HUANG J, 2006, POLYMER, V47, P3505, DOI 10.1016/j.polymer.2006.03.038</reference>
+     <reference>JING B, 2007, MAT SCI ENG A-STRUCT, V444, P84, DOI</reference>
+     <reference>10.1016/j.msea.2006.08.036</reference>
+     <reference>JING B, 2007, POLYM INT, V56, P1240, DOI 10.1002/pi.2266</reference>
+     <reference>KARAC A, 2003, ESIS PUBL, V32, P253</reference>
+     <reference>KARGERKOCSIS J, 1996, J APPL POLYM SCI, V62, P291</reference>
+     <reference>KARGERKOCSIS J, 1996, POLYM BULL, V37, P119</reference>
+     <reference>KARGERKOCSIS J, 1996, POLYM ENG SCI, V36, P203</reference>
+     <reference>KARGERKOCSIS J, 1996, POLYMER, V37, P2433</reference>
+     <reference>KARGERKOCSIS J, 1997, POLYM BULL, V39, P503</reference>
+     <reference>KARGERKOCSIS J, 1997, POLYMER, V38, P4587</reference>
+     <reference>KARGERKOCSIS J, 1998, POLYMER, V39, P3939</reference>
+     <reference>KARGERKOCSIS J, 1999, J MACROMOL SCI PHY B, V38, P635</reference>
+     <reference>KARGERKOCSIS J, 1999, J THERM ANAL CALORIM, V55, P21</reference>
+     <reference>KARGERKOCSIS J, 1999, MACROMOL SYMP, V143, P185</reference>
+     <reference>KARGERKOCSIS J, 1999, POLYM ENG SCI, V39, P1365</reference>
+     <reference>KARGERKOCSIS J, 2000, FRACTURE POLYM COMPO, V27, P213</reference>
+     <reference>KARGERKOCSIS J, 2000, NATO ADV SCI I E-APP, V370, P163</reference>
+     <reference>KARGERKOCSIS J, 2000, POLYM ENG SCI, V40, P1809</reference>
+     <reference>KARGERKOCSIS J, 2000, POLYMER, V41, P6301</reference>
+     <reference>KARGERKOCSIS J, 2001, J THERM ANAL CALORIM, V63, P671</reference>
+     <reference>KARGERKOCSIS J, 2001, POLYM BULL, V46, P507</reference>
+     <reference>KARGERKOCSIS J, 2002, HDB THERMOPLASTIC PO, P717</reference>
+     <reference>KARGERKOCSIS J, 2002, POLYM ENG SCI, V42, P1410</reference>
+     <reference>KARGERKOCSIS J, 2003, POLYMER, V44, P5691, DOI</reference>
+     <reference>10.1016/S0032-3861(03)00590-1</reference>
+     <reference>KARGERKOCSIS J, 2004, ESIS PUBL, V33, P25</reference>
+     <reference>KHODABANDELOU M, 2009, ENG FRACT MECH, V76, P2856, DOI</reference>
+     <reference>10.1016/j.engfracmech.2009.07.024</reference>
+     <reference>KIM BK, 2008, EXPRESS POLYM LETT, V2, P614, DOI</reference>
+     <reference>10.3144/expresspolymlett.2008.73</reference>
+     <reference>KIM HS, 2004, ACTA MATER, V52, P3123, DOI 10.1016/j.actamat.2004.03.013</reference>
+     <reference>KOBAYASHI H, 2007, J APPL POLYM SCI, V106, P152, DOI 10.1002/app.26685</reference>
+     <reference>KORSUNSKY AM, 2005, INT J FRACTURE, V132, P37</reference>
+     <reference>KORSUNSKY AM, 2005, INT J FRACTURE, V135, L19, DOI</reference>
+     <reference>10.1007/s10704-005-4391-z</reference>
+     <reference>KORSUNSKY AM, 2006, MAT SCI ENG A-STRUCT, V423, P192, DOI</reference>
+     <reference>10.1016/j.msea.2005.09.133</reference>
+     <reference>KUNO T, 2008, EXPRESS POLYM LETT, V2, P404, DOI</reference>
+     <reference>10.3144/expresspolymlett.2008.49</reference>
+     <reference>KUUSIPALO J, 2004, J MATER SCI, V39, P6909</reference>
+     <reference>KUUSIPALO J, 2006, J MATER SCI, V41, P301, DOI 10.1007/s10853-005-3650-8</reference>
+     <reference>KWON HJ, 2005, POLYMER, V46, P12480, DOI 10.1016/j.polymer.2005.10.074</reference>
+     <reference>KWON HJ, 2007, ENG FRACT MECH, V74, P2471, DOI</reference>
+     <reference>10.1016/j.engfracmech.2006.12.028</reference>
+     <reference>KWON HJ, 2007, INT J FRACTURE, V145, P123, DOI 10.1007/s10704-007-9110-5</reference>
+     <reference>KWON HJ, 2007, POLYM ENG SCI, V47, P1327, DOI 10.1002/pen.20814</reference>
+     <reference>KWON JA, 2002, ENG FRACT MECH, V69, P605</reference>
+     <reference>LACH R, 2004, MACROMOL RAPID COMM, V25, P2019, DOI</reference>
+     <reference>10.1002/marc.200400411</reference>
+     <reference>LACH R, 2005, EUR POLYM J, V41, P383, DOI</reference>
+     <reference>10.1016/j.europolymj.2004.09.021</reference>
+     <reference>LAU SW, 2002, J MATER SCI, V37, P1115</reference>
+     <reference>LAUKE B, 2001, INT J ADHES ADHES, V21, P55</reference>
+     <reference>LAURA DM, 2001, POLYMER, V42, P6161</reference>
+     <reference>LAURA DM, 2003, POLYMER, V44, P3347, DOI 10.1016/S0032-3861(03)00221-0</reference>
+     <reference>LEE J, 2001, MACROMOLECULES, V34, P5968</reference>
+     <reference>LEE JM, 2009, POLYM TEST, V28, P854, DOI</reference>
+     <reference>10.1016/j.polymertesting.2009.07.008</reference>
+     <reference>LESSER AJ, 2000, J APPL POLYM SCI, V76, P763</reference>
+     <reference>LEVITA G, 1994, J MATER SCI, V29, P4545</reference>
+     <reference>LEVITA G, 1996, J MATER SCI, V31, P1545</reference>
+     <reference>LEVITA G, 1996, POLYM ENG SCI, V36, P2534</reference>
+     <reference>LI B, 2007, J MATER SCI, V42, P3856, DOI 10.1007/s10853-006-0488-7</reference>
+     <reference>LI QG, 2007, J APPL POLYM SCI, V103, P3438, DOI 10.1002/app.25430</reference>
+     <reference>LI WD, 1997, POLYM TEST, V16, P563</reference>
+     <reference>LI ZM, 2003, MATER RES BULL, V38, P1867, DOI</reference>
+     <reference>10.1016/j.materresbull.2003.07.007</reference>
+     <reference>LI ZM, 2004, MACROMOL MATER ENG, V289, P426, DOI 10.1002/mame.200300397</reference>
+     <reference>LI ZM, 2004, POLYM ENG SCI, V44, P2165, DOI 10.1002/pen.20244</reference>
+     <reference>LIEVANA E, 2004, POLYM ENG SCI, V44, P1707, DOI 10.1002/pen.20171</reference>
+     <reference>LIGHT ME, 2005, J MATER SCI, V40, P2861, DOI 10.1007/s10853-005-2430-9</reference>
+     <reference>LIM JW, 2006, PLAST RUBBER COMPOS, V35, P37, DOI 10.1179/174328906X79897</reference>
+     <reference>LIU CH, 1998, POLYM ENG SCI, V38, P186</reference>
+     <reference>LIU Y, 2007, POLYM TEST, V26, P388, DOI</reference>
+     <reference>10.1016/j.polymertesting.2006.12.008</reference>
+     <reference>LIU Y, 2010, POLYM COMPOSITE, V31, P10, DOI 10.1002/pc.20804</reference>
+     <reference>LUNA P, 2003, POLYMER, V44, P1145</reference>
+     <reference>LV RH, 2008, J APPL POLYM SCI, V108, P3185, DOI 10.1002/app-27971</reference>
+     <reference>MAI YW, 1984, INT J FRACTURE, V24, P229</reference>
+     <reference>MAI YW, 1985, ENG FRACT MECH, V21, P123</reference>
+     <reference>MAI YW, 1986, INT J FRACTURE, V32, P105</reference>
+     <reference>MAI YW, 1991, J POLYM SCI POL PHYS, V29, P785</reference>
+     <reference>MAI YW, 2000, POLYM BLENDS, V2, P17</reference>
+     <reference>MAIER GA, 2005, MACROMOLECULES, V38, P6099, DOI 10.1021/ma050390f</reference>
+     <reference>MARCHAL Y, 1997, INT J FRACTURE, V87, P189</reference>
+     <reference>MARCHAL Y, 1998, POLYM ENG SCI, V38, P2063</reference>
+     <reference>MARTINATTI F, 1995, ESIS PUBL, V19, P83</reference>
+     <reference>MARTINEZ AB, 2009, ENG FAIL ANAL, V16, P2604, DOI</reference>
+     <reference>10.1016/j.engfailanal.2009.04.027</reference>
+     <reference>MARTINEZ AB, 2009, ENG FRACT MECH, V76, P1247, DOI</reference>
+     <reference>10.1016/j.engfracmech.2009.01.015</reference>
+     <reference>MASPOCH ML, 1997, POLYM BULL, V39, P249</reference>
+     <reference>MASPOCH ML, 1999, J APPL POLYM SCI, V73, P177</reference>
+     <reference>MASPOCH ML, 2000, POLYM TEST, V19, P559</reference>
+     <reference>MASPOCH ML, 2002, POLYMER, V43, P4177</reference>
+     <reference>MASPOCH ML, 2003, POLYM BULL, V50, P279</reference>
+     <reference>MASPOCH ML, 2009, POLYM INT, V58, P648, DOI 10.1002/pi.2574</reference>
+     <reference>MOHANRAJ J, 2003, J APPL POLYM SCI, V88, P1336, DOI 10.1002/app.11835</reference>
+     <reference>MOUZAKIS DE, 1998, J APPL POLYM SCI, V70, P873</reference>
+     <reference>MOUZAKIS DE, 1998, J MATER SCI, V33, P2551</reference>
+     <reference>MOUZAKIS DE, 1999, POLYM BULL, V42, P473</reference>
+     <reference>MOUZAKIS DE, 2000, J MATER SCI LETT, V19, P1615</reference>
+     <reference>MOUZAKIS DE, 2000, J MATER SCI, V35, P1219</reference>
+     <reference>MOUZAKIS DE, 2000, POLYM POLYM COMPOS, V8, P167</reference>
+     <reference>MOUZAKIS DE, 2001, J APPL POLYM SCI, V79, P842</reference>
+     <reference>MOUZAKIS DE, 2008, J NANOSTRUC POLYM NA, V4, P100</reference>
+     <reference>NA B, 2006, J POLYM SCI POL PHYS, V44, P2880, DOI 10.1002/polb.20932</reference>
+     <reference>NA B, 2007, J APPL POLYM SCI, V104, P1291, DOI 10.1002/app.25814</reference>
+     <reference>NA B, 2007, J APPL POLYM SCI, V105, P3274, DOI 10.1002/app.26594</reference>
+     <reference>NAZ S, 2010, J MATER SCI, V45, P448, DOI 10.1007/s10853-009-3961-2</reference>
+     <reference>OKADA O, 2004, J POLYM SCI POL PHYS, V42, P1739, DOI 10.1002/polb.20052</reference>
+     <reference>OZKOC G, 2008, J MATER SCI, V43, P2642, DOI 10.1007/s10853-008-2483-7</reference>
+     <reference>PASCUAL AL, 2010, ANGLE ORTHOD, V80, P554, DOI 10.2319/042809-232.1</reference>
+     <reference>PATON CA, 1992, J MATER SCI, V27, P2279</reference>
+     <reference>PEGORETTI A, 1997, POLYM ENG SCI, V37, P1045</reference>
+     <reference>PEGORETTI A, 2003, ESIS PUBL, V32, P89</reference>
+     <reference>PEGORETTI A, 2006, ENG FRACT MECH, V73, P2486, DOI</reference>
+     <reference>10.1016/j.engfracmech.2006.04.01</reference>
+     <reference>PEGORETTI A, 2009, ENG FRACT MECH, V76, P2788, DOI</reference>
+     <reference>10.1016/j.engfracmech.2009.05.013</reference>
+     <reference>PERES FM, 2008, J MATER SCI, V43, P1844, DOI 10.1007/s10853-007-2427-7</reference>
+     <reference>PETTARIN V, 2005, POLYM TEST, V24, P189, DOI</reference>
+     <reference>10.1016/j.polymertesting.2004.09.003</reference>
+     <reference>PFAFF FA, 2007, J COAT TECHNOL RES, V4, P151, DOI</reference>
+     <reference>10.1007/s11998-007-9013-4</reference>
+     <reference>PISHARATH S, 2004, J MATER SCI, V39, P6529</reference>
+     <reference>PLUCKNETT KP, 2000, POLYMER, V41, P6833</reference>
+     <reference>PLUMMER CJG, 2000, POLYM ENG SCI, V40, P985</reference>
+     <reference>POON WKY, 2001, POLYM TEST, V20, P395</reference>
+     <reference>PRESSLY TG, 2001, POLYMER, V42, P3043</reference>
+     <reference>QIAO Y, 2005, J APPL POLYM SCI, V95, P815, DOI 10.1002/app.21241</reference>
+     <reference>RAGOSTA G, 2005, MACROMOL SYMP, V228, P287, DOI 10.1002/masy.200551026</reference>
+     <reference>RAGOSTA G, 2009, EXPRESS POLYM LETT, V3, P413, DOI</reference>
+     <reference>10.3144/expresspolymlett.2009.51</reference>
+     <reference>RAMSTEINER F, 2001, ENG MAT SER, P27</reference>
+     <reference>RATNA D, 2008, J MATER SCI, V43, P254, DOI 10.1007/s10853-007-2176-7</reference>
+     <reference>RIEKEL C, 1999, POLYMER, V40, P541</reference>
+     <reference>RIVLIN RS, 1953, J POLYM SCI, V10, P291</reference>
+     <reference>SALEEMI AS, 1990, POLYM ENG SCI, V30, P211</reference>
+     <reference>SAMINATHAN K, 2008, POLYM TEST, V27, P296, DOI</reference>
+     <reference>10.1016/j.polymertesting.2007.11.008</reference>
+     <reference>SANCHEZ JJ, 2003, ESIS PUBL, V32, P77</reference>
+     <reference>SANTANA OO, 1997, POLYM BULL, V39, P511</reference>
+     <reference>SATAPATHY BK, 2005, MACROMOL RAPID COMM, V26, P1246, DOI</reference>
+     <reference>10.1002/marc.200500234</reference>
+     <reference>SATAPATHY BK, 2006, ENG FRACT MECH, V73, P2399, DOI</reference>
+     <reference>10.1016/j.engfracmech.2006.04.016</reference>
+     <reference>SATAPATHY BK, 2007, COMPOS SCI TECHNOL, V67, P867, DOI</reference>
+     <reference>10.1016/j.compscitech.2006.01.036</reference>
+     <reference>SATAPATHY BK, 2007, MACROMOL RAPID COMM, V28, P834, DOI</reference>
+     <reference>10.1002/marc.200600892</reference>
+     <reference>SHEN YX, 2007, J MACROMOL SCI B, V46, P1127, DOI</reference>
+     <reference>10.1080/00222340701582753</reference>
+     <reference>SHENG BR, 2008, POLYM DEGRAD STABIL, V93, P225, DOI</reference>
+     <reference>10.1016/j.polymdegradstab.2007.09.011</reference>
+     <reference>SINGH SK, 2004, J MATER SCI, V39, P2629</reference>
+     <reference>SOVA M, 1993, J MATER SCI, V28, P6516</reference>
+     <reference>SUI GX, 2001, COMPOS SCI TECHNOL, V61, P2481</reference>
+     <reference>SUI GX, 2001, J MATER PROCESS TECH, V113, P167</reference>
+     <reference>SUPATHAM P, 2005, POLYM-PLAST TECHNOL, V44, P363, DOI</reference>
+     <reference>10.1081/PTE-200048253</reference>
+     <reference>TAM WY, 2000, J MATER SCI, V35, P1525</reference>
+     <reference>TANG XG, 2009, EUR POLYM J, V45, P1448, DOI</reference>
+     <reference>10.1016/j.eurpolymj.2009.02.004</reference>
+     <reference>TJONG SC, 2000, J APPL POLYM SCI, V77, P2074</reference>
+     <reference>TJONG SC, 2002, COMPOS SCI TECHNOL, V62, P2017</reference>
+     <reference>TJONG SC, 2002, COMPOS SCI TECHNOL, V62, P831</reference>
+     <reference>TJONG SC, 2002, POLYM INT, V51, P1248, DOI 10.1002/pi.867</reference>
+     <reference>TJONG SC, 2003, J APPL POLYM SCI, V87, P441, DOI 10.1002/app.11398</reference>
+     <reference>TJONG SC, 2003, MAT SCI ENG A-STRUCT, V347, P338</reference>
+     <reference>TJONG SC, 2003, POLYM COMPOSITE, V24, P437</reference>
+     <reference>TJONG SC, 2005, J POLYM SCI POL PHYS, V43, P3112, DOI 10.1002/polb.20596</reference>
+     <reference>TJONG SC, 2005, J POLYM SCI POL PHYS, V43, P585, DOI 10.1002/polb.20360</reference>
+     <reference>TJONG SC, 2007, COMPOS SCI TECHNOL, V67, P314, DOI</reference>
+     <reference>10.1016/j.compscitech.2006.08.006</reference>
+     <reference>TJONG SC, 2008, J APPL POLYM SCI, V110, P864, DOI 10.1002/app.28560</reference>
+     <reference>TONG SC, 2002, J POLYM SCI POL LETT, V40, P1881</reference>
+     <reference>TORDJEMAN P, 2001, EUR PHYS J E, V4, P459</reference>
+     <reference>VINCENT L, 2006, J THERM ANAL CALORIM, V86, P147, DOI</reference>
+     <reference>10.1007/s10973-006-7595-1</reference>
+     <reference>VINCENT L, 2006, J THERM ANAL CALORIM, V86, P155, DOI</reference>
+     <reference>10.1007/s10973-006-7596-0</reference>
+     <reference>VU HN, 2008, J POLYM SCI POL PHYS, V46, P1820, DOI 10.1002/polb.21516</reference>
+     <reference>VUKHANH T, 1988, POLYMER, V29, P1979</reference>
+     <reference>VUKHANH T, 1994, THEOR APPL FRACT MEC, V21, P83</reference>
+     <reference>VUKHANH T, 1997, TRENDS POLYM SCI, V5, P356</reference>
+     <reference>VUKHANH T, 1998, THEOR APPL FRACT MEC, V29, P75</reference>
+     <reference>WALLNER GM, 2006, ADV ENG MATER, V8, P1140, DOI 10.1002/adem.200600130</reference>
+     <reference>WALLNER GM, 2008, POLYM TEST, V27, P392, DOI</reference>
+     <reference>10.1016/j.polymertesting.2008.01.006</reference>
+     <reference>WANG K, 2006, J APPL POLYM SCI, V99, P1207, DOI 10.1002/app.22596</reference>
+     <reference>WANG SW, 2008, J APPL POLYM SCI, V108, P591, DOI 10.1002/app.27678</reference>
+     <reference>WANG XL, 2005, POLYM TEST, V24, P699, DOI</reference>
+     <reference>10.1016/j.polymertesting.2005.05.005</reference>
+     <reference>WANG XL, 2007, MATER DESIGN, V28, P1934, DOI</reference>
+     <reference>10.1016/j.matdes.2006.05.003</reference>
+     <reference>WANG ZD, 2007, APPL COMPOS MATER, V14, P33, DOI</reference>
+     <reference>10.1007/s10443-006-9029-4</reference>
+     <reference>WELLS AA, 1963, BRIT WELD J, V10, P563</reference>
+     <reference>WETHERHOLD RC, 1999, J ENG MATER-T ASME, V121, P483</reference>
+     <reference>WETHERHOLD RC, 2000, J MATER SCI LETT, V19, P179</reference>
+     <reference>WHITTLE AJ, 2001, PLAST RUBBER COMPOS, V30, P434</reference>
+     <reference>WILLIAMS JG, 1987, FRACTURE MECH POLYM</reference>
+     <reference>WILLIAMS JG, 2007, ENG FRACT MECH, V74, P1009, DOI</reference>
+     <reference>10.1016/j.engfracmech.2006.12.017</reference>
+     <reference>WILLIAMS MA, 1991, POLYM ENG SCI, V31, P992</reference>
+     <reference>WONG JSS, 2003, ACTA MATER, V51, P4929, DOI</reference>
+     <reference>10.1016/S1359-6454(03)00335-5</reference>
+     <reference>WONG SC, 1999, POLYM ENG SCI, V39, P356</reference>
+     <reference>WONG SC, 2002, J MATER SCI, V37, P2659</reference>
+     <reference>WONG SC, 2008, COMPOS PART A-APPL S, V39, P579, DOI</reference>
+     <reference>10.1016/j.compositesa.2007.09.004</reference>
+     <reference>WU JS, 1993, J MATER SCI, V28, P3373</reference>
+     <reference>WU JS, 1995, MATER FORUM, V19, P181</reference>
+     <reference>WU JS, 1996, POLYM ENG SCI, V36, P2275</reference>
+     <reference>YAKIMETS I, 2007, MECH MATER, V39, P500, DOI</reference>
+     <reference>10.1016/j.mechmat.2006.08.003</reference>
+     <reference>YAMAKAWA RS, 2004, POLYM TEST, V23, P195, DOI</reference>
+     <reference>10.1016/S0142-9418(03)00080-1</reference>
+     <reference>YANG JL, 2005, COMPOS SCI TECHNOL, V65, P2374, DOI</reference>
+     <reference>10.1016/j.compscitech.2005.06.008</reference>
+     <reference>YANG W, 2005, J MATER SCI, V40, P5323, DOI 10.1007/s10853-005-4398-x</reference>
+     <reference>YANG W, 2006, J APPL POLYM SCI, V99, P1781, DOI 10.1002/app.22708</reference>
+     <reference>YANG W, 2006, PLAST RUBBER COMPOS, V35, P368, DOI</reference>
+     <reference>10.1179/174328906X128252</reference>
+     <reference>YOKOYAMA Y, 1998, POLYMER, V39, P3675</reference>
+     <reference>YOO YJ, 2007, POLYMER, V48, P4867, DOI 10.1016/j.polymer.2007.06.007</reference>
+     <reference>YU HY, 2009, J APPL POLYM SCI, V113, P181, DOI 10.1002/app.29531</reference>
+     <reference>YUAN YL, 2007, POLYM TEST, V26, P102, DOI</reference>
+     <reference>10.1016/j.polymertesting.2006.09.004</reference>
+     <reference>ZHANG H, 2006, POLYMER, V47, P679, DOI 10.1016/j.polymer.2005.11.084</reference>
+     <reference>ZHANG Z, 2003, POLYM ENG SCI, V43, P1071</reference>
+     <reference>ZHAO HX, 2006, MECH MATER, V38, P100, DOI 10.1016/j.mechmat.2005.05.013</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="RIS" year="2011"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2011-12-24" time="15:42" login="czigany"/>
+     <entry event="last-modified" date="2018-01-29" time="10:14"/>
+    </edited>
+    <independent independent-ok="false">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">13936958</identifier>
+     <identifier name="Scopus" validator="J" identifier="80052047965"/>
+     <identifier name="article identifier" identifier="86187"/>
+     <identifier type="isbn">9781934551110</identifier>
+    </identifiers>
+    <title>Mechanical properties of exfoliated graphite nanoplatelet (xGnP)-filled impact modified polypropylene (IMPP) nanocomposites</title>
+    <date year="2011" from="2011-05-23" to="2011-05-26"/>
+    <publisher>SAMPE</publisher>
+    <organizer>Society for the Advancement of Material and Process Engineering</organizer>
+    <location city="Long Beach" country="Amerikai Egyesült Államok"/>
+    <authors>
+     <author>
+      <name>Duguay A J</name>
+     </author>
+     <author>
+      <name>Nader J W</name>
+     </author>
+     <author>
+      <name>Kiziltas A</name>
+     </author>
+     <author>
+      <name>Gardner D J</name>
+     </author>
+     <author>
+      <name>Dagher H J</name>
+     </author>
+    </authors>
+    <classifications>
+     <classification>
+      <type identifier="31">egyéb konferenciaközlemény</type>
+      <subtype identifier="10000197">konferenciaközlemény</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>International SAMPE Technical Conference</title>
+    </container>
+    <references>
+     <reference>Chen, G.-H., Wu, D.-J., Weng, W.-G., Yan, W.-L., Preparation of polymer/graphite conducting nanocomposite by intercalation polymerization (2001) Journal of Applied Polymer Science, 82, pp. 2506-2513;</reference>
+     <reference>Miloaga, D.G., Hosein, H.A.A., Misra, M., Drzal, L.T., (2005) Nucleating Effect of Expanded Graphite Nanoplatelets on Poly(Hydroxybutyrate), , Composite Materials &amp; Structures Center, Michigan State University;</reference>
+     <reference>Stankovich, S., Dikin, D.A., Dommett, G.H.B., Kohlhaas, K.M., Zimney, E.J., Stach, E.A., Piner, R.D., Ruof, R.S., Graphene-based composite materials (2006) Nature, 442, pp. 282-286;</reference>
+     <reference>Kalaitzidou, K., Fukushima, H., Drzal, L.T., A new compounding method for exfoliated graphite-polypropylene nanocomposites with enhanced flexural properties and lower percolation threshold (2007) Composites Science and Technology, 67, pp. 2045-2051;</reference>
+     <reference>Kalaitzidou, K., Fukushima, H., Drzal, L.T., Multifunctional polypropylene composites produced by incorporation of exfoliated graphite nanoplatelets (2007) Carbon, 45, pp. 1446-1452;</reference>
+     <reference>Kalaitzidou, K., Fukushima, H., Miyagawa, H., Drzal, L.T., Flexural and tensile moduli of polypropylene nanocomposites and comparison of experimental data to halpin-tsai and tandon-weng models (2007) Polymer Engineering and Science, 47, pp. 1796-1803;</reference>
+     <reference>Kalaitzidou, K., Fukushima, H., Drzal, L.T., Mechanical properties and morphological characterization of exfoliated graphite-polypropylene nanocomposites (2007) Composites: Part A, 38, pp. 1675-1682;</reference>
+     <reference>Park, H.M., Kalaitzidou, K., Fukushima, H., Drzal, L.T., Exfoliated Graphite Nanoplatelet (xGnP) (2007) Polypropylene Nanocomposites, , Composite Materials &amp; Structures Center, Michigan State University;</reference>
+     <reference>He, F., Lau, S., Chan, H.L., Fan, J., High dielectric permittivity and low percolation threshold in nanocomposites based on poly(vinylidene fluoride) and exfoliated graphite nanoplates (2009) Advanced Materials, 21, pp. 710-715;</reference>
+     <reference>Kim, S., Drzal, L.T., High latent heat storage and high thermal conductive phase change materials using exfoliated graphite nanoplatelets (2009) Solar Energy Materials &amp; Solar Cells, 93, pp. 136-142;</reference>
+     <reference>Kim, S., Do, I., Drzal, L.T., Multifunctional xGnP/LLDPE nanocomposites prepared by solution compounding using various screw rotating systems (2009) Macromolecular Materials and Engineering, 294, pp. 196-205;</reference>
+     <reference>Jiang, X., Drzal, L.T., Multifunctional high density polyethylene nanocomposites produced by incorporation of exfoliated graphite nanoplatelets 1: Morphology and mechanical properties (2010) Polymer Composites, pp. 1091-1098;</reference>
+     <reference>Kim, S., Do, I., Drzal, L.T., Thermal stability and dynamic mechanical behavior of exfoliated graphite nanoplatelets-LLDPE nanocomposites (2010) Polymer Composites, 31 (5), pp. 755-761;</reference>
+     <reference>Kim, S., Seo, J., Drzal, L.T., Improvement of electric conductivity of LLDPE based nanocomposite by paraffin coating on exfoliated graphite nanoplatelets (2010) Composites: Part A, 41, pp. 581-587;</reference>
+     <reference>Ratnayake, U.N., Haworth, B., Hourston, D.J., Preparation of polypropylene-clay nanocomposites by the co-intercalation of modified polypropylene and short-chain amide molecules (2009) Journal of Applied Polymer Science, 112, pp. 320-334;</reference>
+     <reference>Teng, C.-C., Ma, C.-C.M., Huang, Y.W., Yuen, S.M., Weng, C.-C., Chen, C.-H., Su, S.F., Effect of MWCNT content on rheological and dynamic mechanical properties of multiwalled carbon nanotube/polypropylene composites (2008) Composites: Part A, 39, pp. 1869-1875;</reference>
+     <reference>Oksman, K., Clemons, C., Mechanical properties and morphology of impact modified polypropylene-wood flour composites (1998) Journal of Applied Polymer Science, 67, pp. 1503-1513;</reference>
+     <reference>Lim, J.W., Hassan, A., Rahmat, A.R., Wahit, M.U., Phase morphology and mechanical properties of rubber-toughened polypropylene nanocomposites: Effect of elastomer polarity (2008) Polymer-Plastics Technology and Engineering, 47, pp. 411-419;</reference>
+     <reference>Lesser, A.J., Fundamentals in toughening (2009) Proceedings of NSF Summer Institute on Nanomechanics, Nanomaterials, and Micro/Nanomanufacturing, , University of Massachusetts Lowell;</reference>
+     <reference>Ahmad, S.H., Rasid, R., Surip, S.N., Anuar, H., Czigany, T., Abdul Razak, S.B., Mechanical and fracture toughness behavior of TPNR nanocomposites (2007) Journal of Composite Materials, 41 (17), pp. 2147-2159;</reference>
+     <reference>Hussain, F., Hojjati, M., Okamoto, M., Gorga, R.E., Review article: Polymer-matrix nanocomposites, processing, manufacturing, and application: An overview (2006) Journal of Composite Materials, 40 (17), pp. 1511-1575;</reference>
+     <reference>Thostenson, E.T., Li, C., Chou, T.W., Nanocomposites in context (2005) Composites Science and Technology, 65, pp. 491-516;</reference>
+     <reference>Zhang, Q., Fu, Q., Jiang, L., Lei, Y., Preparation and properties of polypropylene montmorillonite layered nanocomposites (2000) Polymer International, 49, pp. 1561-1564;</reference>
+     <reference>Bera, J., Kale, D.D., Properties of polypropylene filled with chemically treated rice husk (2001) Journal of Applied Polymer Science, 82, pp. 2506-2513;</reference>
+     <reference>Lu, J.Z., Wu, Q., Negulescu, I.I., Chen, Y., The influences of fiber feature and polymer melt index on mechanical properties of sugarcane fiber/polymer composites (2006) Journal of Applied Polymer Science, 102, pp. 5607-5619</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="WOS" year="2012"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2012-04-18" time="01:26" login="czigany"/>
+     <entry event="last-modified" date="2018-01-29" time="10:14"/>
+    </edited>
+    <independent independent-ok="false">false</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">13936959</identifier>
+     <identifier name="WoS" validator="J" identifier="000298920300005"/>
+     <identifier name="Scopus" validator="J" identifier="84855705099"/>
+     <identifier name="DOI" identifier="10.1177/0731684411419318"/>
+     <identifier name="Google scholar" identifier="1617716601169884044"/>
+    </identifiers>
+    <title>Thermoplastic natural rubber composites reinforced with OMMT, MWNTs, and hybrid OMMT-MWNTs</title>
+    <volume>30</volume>
+    <issue>20</issue>
+    <date year="2011" from="2010-11-30" to="2010-11-30"/>
+    <authors>
+     <author>
+      <name>Tarawneh MA</name>
+     </author>
+     <author>
+      <name>Ahmad SH</name>
+     </author>
+     <author>
+      <name>Noum SYE</name>
+     </author>
+     <author>
+      <name>Ahmad KZK</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="1745" page_to="1752"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>JOURNAL OF REINFORCED PLASTICS AND COMPOSITES</title>
+     <identifiers>
+      <identifier type="issn">0731-6844</identifier>
+     </identifiers>
+    </container>
+    <references>
+     <reference>ROBERT S, 2011, COMPOS SCI TECHNOL, V71, P1053</reference>
+     <reference>MOUAD A, 2011, J REINFORC PLAST COM, V30, P363</reference>
+     <reference>JING L, 2008, MAT SCI ENG A-STRUCT, V483, P660, DOI 10.1016/j.msea.2006.08.145</reference>
+     <reference>Ahmad SH, 2007, J COMPOS MATER, V41, P2147, DOI 10.1177/0021998307074140</reference>
+     <reference>JIN HJ, 2007, COMPOS SCI TECHNOL, V67, P3434</reference>
+     <reference>Haggenmueller R, 2006, POLYMER, V47, P2381, DOI 10.1016/j.polymer.2006.01.087</reference>
+     <reference>Nakason C, 2006, POLYM TEST, V25, P34, DOI 10.1016/j.polymertesting.2005.09.007</reference>
+     <reference>LIYU L, 2006, COMPOS SCI TECHNOL, V66, P2116</reference>
+     <reference>Arbelaiz A, 2005, COMPOS SCI TECHNOL, V65, P1582, DOI 10.1016/j.compscitech.2005.01.008</reference>
+     <reference>Leong YW, 2004, POLYM DEGRAD STABIL, V83, P411, DOI 10.1016/j.polymdegradstab.2003.08.004</reference>
+     <reference>MAYA J, 2004, COMPOS SCI TECHNOL, V64, P955</reference>
+     <reference>Mishra S, 2003, COMPOS SCI TECHNOL, V63, P1377, DOI 10.1016/S0266-3538(03)00084-8</reference>
+     <reference>Kinloch AJ, 2003, J ADHESION, V79, P867, DOI 10.1080/00218460390242234</reference>
+     <reference>Yasmin A, 2003, SCRIPTA MATER, V49, P81, DOI 10.1016/S1359-6462(03)00173-8</reference>
+     <reference>Demczyk BG, 2002, MAT SCI ENG A-STRUCT, V334, P173</reference>
+     <reference>Gersappe D, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.058301</reference>
+     <reference>Potschke P, 2002, POLYMER, V43, P3247</reference>
+     <reference>Sreekala MS, 2002, COMPOS SCI TECHNOL, V62, P339</reference>
+     <reference>ADEBAHR T, 2001, EUR COATINGS J, V4, P144</reference>
+     <reference>ZHAOXIA J, 2001, CHEM PHYS LETT, V3, P33743</reference>
+     <reference>YU F, 2000, PHYS REV LETT, V84, P5552</reference>
+     <reference>Schadler LS, 1998, APPL PHYS LETT, V73, P3842</reference>
+     <reference>ABDULLAH I, 1998, PROG POLYM SCI, V23, P665</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="RIS" year="2012"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2012-06-20" time="14:23" login="czigany"/>
+     <entry event="last-modified" date="2018-01-29" time="10:14"/>
+    </edited>
+    <independent independent-ok="false">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">13936960</identifier>
+     <identifier name="Scopus" validator="J" identifier="84874017680"/>
+     <identifier name="DOI" identifier="10.1002/9780470823477.ch15"/>
+     <identifier name="Google scholar" identifier="5883482185228236222"/>
+     <identifier name="Teljes dokumentum" identifier="http://onlinelibrary.wiley.com/doi/10.1002/9780470823477.ch15/summary"/>
+     <identifier type="isbn">047082347X</identifier>
+    </identifiers>
+    <title>Electron Spin Resonance in Studying Nanocomposite Rubber Materials</title>
+    <date year="2010"/>
+    <publisher>Wiley Online Library</publisher>
+    <authors>
+     <author>
+      <name>Valić S</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="391" page_to="406"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="25">könyvrészlet</type>
+      <subtype identifier="10000398">könyvfejezet</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>Rubber Nanocomposites</title>
+    </container>
+    <references>
+     <reference>Berliner, L.J., (1976) Spin Labeling II: Theory and Application, , Academic Press New York;</reference>
+     <reference>Marsh, D., Electron spin resonance: spin labels (1981) Membrane Spectroscopy, pp. 51-142. , (ed. E. Grell), Springer-Verlag, Berlin;</reference>
+     <reference>Veksli, Z., Andreis, M., Rakvin, B., ESR spectroscopy for the study of polymer heterogeneity [Review] (2000) Progress in Polymer Science, 25, pp. 949-986;</reference>
+     <reference>Jeschke, G., Determination of the nanostructure of polymer materials by electron paramagnetic resonance spectroscopy [Review] (2002) Macromolecular Rapid Communications, 23, pp. 227-246;</reference>
+     <reference>Cornish, K., Wood, D.F., Wingle, J.J., Rubber particles from four different species, examined by transmission electron microscopy and electron-paramagnetic-resonance spin labeling, are found to consist of a homogeneous rubber core enclosed by a contiguous, monolayer biomembrane (1999) Planta, 210, pp. 85-96;</reference>
+     <reference>Didović, M., Klepac, D., Valić, S., ESR-spin probe method in studying natural rubber: an effect of the probe incorporation temperature (2008) Macromolecular Symposia, 265, pp. 144-147;</reference>
+     <reference>Pace, M.D., Snow, A.W., Nitroxide spin probe label study of hydrogen bonding and probe size effects in a linear epoxy polymer (1995) Macromolecules, 28, pp. 5300-5305;</reference>
+     <reference>Marinović, T., Valić, S., Andreis, M., Veksli, Z., Study of matrix inhomogeneity of natural rubber and synthetic polyisoprenes by a spin probe method (1991) Polymer, 32, pp. 2519-2522;</reference>
+     <reference>Valić, S., Andreis, M., Veksli, Z., Charlesby, A., Matrix inhomogeneity in crosslinked rubber and rubber emulsions (1991) Radiation Physics and Chemistry, 37, pp. 257-261;</reference>
+     <reference>Kovarskii, A.L., Kulish, E.I., Placek, Ya., Aplication of the spin-probe method for the study of 2-phase polymer systems-poly(vinyl chloride) polyethylene blends [in Russian] (1993) Visokomolekulyarnye Soedineniya A, 35, pp. 1669-1673;</reference>
+     <reference>Hloušková, Z., Tino, J., Chodák, I., Study of PE-based composites by the spin-probe method (1994) European Polymer Journal, 30, pp. 175-178;</reference>
+     <reference>Čulin, J., Andreis, M., Veksli, Z., ESR-spin labelling study of semi-interpenetrating networks and polymer mixtures based on functionalized polyurethanes and polymethacrylates (2005) European Polymer Journal, 41, pp. 1874-1882;</reference>
+     <reference>Schlick, S., Harvey, R.D., Alonso-Amigo, M.G., Klempner, D., Study of phase separation in IPNs using nitroxide spin labels (1989) Macromolecules, 22, pp. 822-830;</reference>
+     <reference>Cameron, G.G., Qureshi, M.Y., Stewart, D., Spin-label study of immiscible polymers (1994) Polymer, 36, pp. 3071-3074. , 5. Blends of labelled poly(2-ethyl hexyl methacrylate) with poly(methyl methacrylate) and polystyrene;</reference>
+     <reference>Kivelson, D., Theory of ESR linewidth of free radicals (1960) Journal of Chemical Physics, 33, pp. 1094-1106;</reference>
+     <reference>Goldman, S.A., Bruno, G.V., Freed, J.H., Estimating slow-motion rotational correlation times for nitroxides by electron-spin resonance (1972) Journal of Physical Chemistry, 76, pp. 1858-1860;</reference>
+     <reference>Dubrović, I., Klepac, D., Valić, S., Žauhar, G., Study of natural rubber crosslinked in the state of uniaxial deformation (2008) Radiation Physics and Chemistry, 77, pp. 811-817;</reference>
+     <reference>Kusumoto, N., Sano, S., Zaitsu, N., Motozato, Y., Molecular motions and segmental size of vulcanized natural and acrylonitrile-butadiene rubbers by the spin-probe method (1976) Polymer, 17, pp. 448-454;</reference>
+     <reference>Schneider, D.J., Freed, J.H., Calculating slow motional magnetic resonance spectra: a user's guide (1989) Biological Magnetic Resonance, 8, pp. 1-76;</reference>
+     <reference>Stoll, S., Schweiger, A., EasySpin, a comprehensive software package for spectral simulation and analysis in EPR (2006) Journal of Magnetic Resonance, 178, pp. 42-55;</reference>
+     <reference>Stoll, S., Schweiger, A., EasySpin: simulating cw ESR spectra (2007) Biological Magnetic Resonance, 27, pp. 299-321;</reference>
+     <reference>Veksli, Z., Andreis, M., Campbell, D.S., Aspin-probe study of heterogeneity in the natural rubber matrix - the effect of molecular weight molecular weight distribution and gel phase (1998) Polymer, 39, pp. 2083-2088;</reference>
+     <reference>Brik, M.E., Titman, J.J., Bayle, J.P., Judeinstein, P., Mapping of motional heterogeneity in organicinorganic nanocomposite gels (1996) Journal of Polymer Science Part B Polymer Physics, 34, pp. 2533-2542;</reference>
+     <reference>Veksli, Z., Andreis, M., Valić, S., Different spatial heterogeneity of networks prepared by a two stage irradiation of natural rubber (1998) Radiation Physics and Chemistry, 51, pp. 207-213;</reference>
+     <reference>Kim, B.H., Jung, J.H., Kim, J.W., Physical characterization of polyaniline-Nap-montmorillonite nanocomposite intercalated by emulsion polymerization (2001) Synthetic Metals, 117, pp. 115-118;</reference>
+     <reference>Kim, B.H., Jung, J.H., Kim, J.W., Effect of dopant and clay on nanocomposites of polyaniline (PAN) intercalated into Nap-montmorillonite (Np-MMT) (2001) Synthetic Metals, 121, pp. 1311-1312;</reference>
+     <reference>Kim, B.H., Hong, S.H., Kim, J.W., EPR signal of nanolayer in conducting polypyrrole (PPy) nanocomposites (2003) Synthetic Metals, 135-136, pp. 1771-1772;</reference>
+     <reference>Wu, K.H., Li, H.Y., Yang, C.C., Chen, H.B., Effect of pH on the EPR properties of NiZn ferrite/SiO2 nanocomposite (2004) Applied Surface Science, 228, pp. 285-291;</reference>
+     <reference>Wu, K.H., Chang, Y.C., Chen, H.B., Variable temperature electron paramagnetic resonance studies of the NiZn ferrite/SiO2 nanocomposite (2004) Journal of Magnetism and Magnetic Materials, 278, pp. 156-163;</reference>
+     <reference>Wu, K.H., Ting, T.H., Yang, C.C., Wang, G.P., Effect of complexant/fuel on the chemical and electromagnetic properties of SiO2-doped Ni-Zn ferrite (2005) Materials Science and Engineering B Solid State Materials for Advanced Technology, 123, pp. 227-233;</reference>
+     <reference>Wu, K.H., Shin, Y.M., Yang, C.C., Preparation and ferromagnetic properties of Ni0.5Zn0.5Fe2O4/polyaniline core-shell nanocomposites (2006) Journal of Polymer Science Part A Polymer Chemistry, 44, pp. 2657-2664;</reference>
+     <reference>Maddinelli, G., Montanari, L., Ferrando, A., Maestrimi, C., Application of magnetic resonance techniques in investigation of hydrocarbons interaction with composite polymers (2006) Journal of Applied Polymer Science, 102, pp. 2810-2817;</reference>
+     <reference>Patel, M., Morrell, P.R., Murphy, J.J., Gamma radiation induced effects on silica and on silica-polymer interfacial interactions in filled polysiloxane rubber (2006) Polymer Degradation and Stability, 91, pp. 406-413;</reference>
+     <reference>Wang, L., Chen, D., A one-pot approach to the preparation of silver-PMMA &quot;shell-core&quot; nanocomposite (2006) Colloid and Polymer Science, 284, pp. 449-454;</reference>
+     <reference>Dridi, C., Haouari, M., Ben Ouada, H., Spectroscopic investigations on hybrid nanocomposites: CdS: Mn nanocrystals in a conjugated polymer (2006) Materials Science and Engineering C, 26, pp. 415-420;</reference>
+     <reference>Lagadic, I.L., Schiff base chelate-functionalized organoclays (2006) Microporous and Mesoporous Materials, 95, pp. 226-233;</reference>
+     <reference>Datta, A., Gorai, S., Chaudhuri, S., Synthesis and characterization of sol-gel derived Mn2p doped In2S3 nanocrystallites embedded in a silica matrix (2006) Journal of. Nanoparticle Research, 8, pp. 919-926;</reference>
+     <reference>Sarathi, R., Rajesh Kumar, P., Sahu, R.K., Analysis of surface degradation of epoxy nanocomposite due to tracking under AC and DC voltages (2007) Polymer Degradation and Stability, 92, pp. 560-568;</reference>
+     <reference>Cabello, C.I., Botto, I.L., Filace, J., Intercluster porous nanocomposites from combination of [AlO4Al12(OH)24(H2O)12]7+ cation and Anderson-type [Al1-xCrxMo6O24H6]3- anion: XRD, TG-DTA, SEMEDAX and EPR studies (2007) Journal of Porous Materials, 14, pp. 331-337;</reference>
+     <reference>Chen, J., Liu, Y., Feng, W., Cai, W.M., Structure and photochromism of polyoxometalates nanoparticles in cross-linked polymer networks (2008) Journal of Materials Science-Materials in Electronics, 19, pp. 295-299;</reference>
+     <reference>Saleta, M.E., Curiale, J., Troiani, H.E., Influence of Ni doping on vanadium oxide/hexadecylamine multiwall nanotubes (2007) Physica B, 398, pp. 333-336;</reference>
+     <reference>Gonçalves, A.B., Mangrich, A.S., Zarbin, A.J.G., Polymerization of pyrrole between the layers of alphatin (IV) bis(hydrogenphosphate) (2000) Synthetic Metals, 114, pp. 119-124;</reference>
+     <reference>Vandermeulen, G.W.M., Hinderberger, D., Xu, H., Structure and dynamics of self-assembled poly (ethylene glycol) based coiled-coil nano objects (2004) ChemPhysChem, 5, pp. 488-494;</reference>
+     <reference>Jeschke, G., Panek, G., Schleidt, S., Jonas, U., Addressing the interface in polymer-clay nanocomposites by electron paramagnetic resonance spectroscopy on surfactant probes (2004) Polymer Engineering and Science, 44, pp. 1112-1121;</reference>
+     <reference>Schleidt, S., Spiess, H.W., Jeschke, G., Asite-directed spin-labeling study of surfactants in polymer-clay nanocomposites (2006) Colloid and Polymer Science, 284, pp. 1211-1219;</reference>
+     <reference>Cramer, S.E., Jeschke, G., Spiess, H.W., Measurement of diffusion coefficients of additive molecules in colloidal polymer particles by electron paramagnetic resonance (2002) Colloid and Polymer Science, 280, pp. 569-573;</reference>
+     <reference>Ionita, P., Wolkov, A., Jeschke, G., Chechik, V., Lateral diffusion of thiol ligands on the surface of Au nanoparticles: an electron paramagnetic resonance study (2008) Analytical Chemistry, 80, pp. 95-106;</reference>
+     <reference>Jeschke, G., Distance measurements in the nanometer range by pulse EPR (2002) ChemPhysChem, 3, pp. 927-932;</reference>
+     <reference>Lekić, A., Meera, A.P., Valić, S., In preparationDidović, M., Klepac, D., Meera, A.P., In preparationBandyopadhyay, A., De Sarkar, M., Bhowmick, A.K., Rheological behavior of hybrid rubber nanocomposites (2005) Rubber Chemistry and Technology, 78, pp. 806-826;</reference>
+     <reference>Bandyopadhyay, A., De Sarkar, M., Bhowmick, A.K., Poly(vinyl alcohol)/silica hybrid nanocomposites by sol-gel technique: Synthesis and properties (2005) Journal of Materials Science, 40, pp. 53-62;</reference>
+     <reference>Fiorentini, F., Cakmak, M., Mowdood, S.K., Influence of nanosilica particles on hysteresis and strain induced crystallization of natural rubber as investigated by a real time true stress-true strain birefringence system (2006) Rubber Chemistry and Technology, 79, pp. 55-71;</reference>
+     <reference>Rasid, R., Surip, S.N., Anuar, H., Mechanical and fracture toughness behavior of TPNR nanocomposites (2007) Journal of Composite Materials, 41, pp. 2147-2159;</reference>
+     <reference>Ammala, A., Pas, S.J., Lawrence, K.A., Poly(m-xylene adipamide)-montmorillonite nanocomposites: effect of organo-modifier structure on free volume and oxygen barrier properties (2008) Journal of Materials Chemistry, 18, pp. 911-916;</reference>
+     <reference>Hrachová, J., Komadel, P., Chodák, I., Effect of montmorillonite modification on mechanical properties of vulcanized natural rubber composites (2008) Journal of Materials Science, 43, pp. 2012-2017;</reference>
+     <reference>Wang, Y., Zhang, H., Wu, Y., Structure and properties of strain-induced crystallization rubber-clay nanocomposites by co-coagulating the rubber latex and clay aqueous suspension (2005) Journal of Applied Polymer Science, 96, pp. 318-323;</reference>
+     <reference>Samal, S.K., Nayak, S.K., Mohanty, S., Polypropylene nanocomposites: effect of organo-modified layered silicates on mechanical, thermal and morphological performance (2008) Journal of Thermoplastic Composite Materials, 21, pp. 243-263;</reference>
+     <reference>Carretero-Gonzalez, J., Retsos, H., Verdejo, R., Effect of nanoclay on natural rubber microstructure (2008) Macromolecules, 41, pp. 6763-6772;</reference>
+     <reference>Silva, S.M.L., Lopez-Manchado, M.A., Arroyo, M., Thermoplastic olefin/clay nanocomposites (2007) Journal of Nanoscience and Nanotechnology, 7, pp. 4456-4464. , Effect of matrix composition, and organoclay and compatibilizer structure on morphology/properties relationships</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="WOS" year="2013"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2013-04-12" time="17:41" login="czigany"/>
+     <entry event="last-modified" date="2018-01-29" time="10:14"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">13936962</identifier>
+     <identifier name="WoS" validator="J" identifier="000315910500060"/>
+     <identifier name="Scopus" validator="J" identifier="84874930100"/>
+     <identifier name="DOI" identifier="10.1002/app.38513"/>
+    </identifiers>
+    <title>Morphological properties of impact fracture surfaces and essential work of fracture analysis of cellulose nanofibril-filled polypropylene composites</title>
+    <volume>128</volume>
+    <issue>5</issue>
+    <date year="2013"/>
+    <authors>
+     <author>
+      <name>Yang HS</name>
+     </author>
+     <author>
+      <name>Gardner DJ</name>
+     </author>
+     <author>
+      <name>Nader JW</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="3064" page_to="3076"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>JOURNAL OF APPLIED POLYMER SCIENCE</title>
+     <identifiers>
+      <identifier type="issn">0021-8995</identifier>
+      <identifier type="eissn">1097-4628</identifier>
+     </identifiers>
+    </container>
+    <references>
+     <reference>Abe K, 2007, BIOMACROMOLECULES, V8, P3276, DOI 10.1021/bm700624p</reference>
+     <reference>Ahmad SH, 2007, J COMPOS MATER, V41, P2147, DOI 10.1177/0021998307074140</reference>
+     <reference>Alemdar A, 2008, COMPOS SCI TECHNOL, V68, P557, DOI 10.1016/j.compscitech.2007.05.044</reference>
+     <reference>Arencon D, 2007, POLYM TEST, V26, P761, DOI 10.1016/j.polymertesting.2007.03.009</reference>
+     <reference>Bao SP, 2007, COMPOS PART A-APPL S, V38, P378, DOI 10.1016/j.compositesa.2006.03.005</reference>
+     <reference>Bengtsson M, 2007, COMPOS PART A-APPL S, V38, P1922, DOI 10.1016/j.compositesa.2007.03.004</reference>
+     <reference>Bledzki AK, 2009, COMPOS PART A-APPL S, V40, P404, DOI 10.1016/j.compositesa.2009.01.002</reference>
+     <reference>Bureau MN, 2006, ENG FRACT MECH, V73, P2360, DOI 10.1016/j.engfracmech.2006.04.012</reference>
+     <reference>Bureau MN, 2004, POLYM ENG SCI, V44, P1142, DOI 10.1002/pen.20107</reference>
+     <reference>Cheng Q, 2007, CELLULOSE, V14, P593, DOI 10.1007/s10570-007-9141-0</reference>
+     <reference>Ching ECY, 2003, POLYM ENG SCI, V43, P558, DOI 10.1002/pen.10045</reference>
+     <reference>Dalmas F, 2006, POLYMER, V47, P2802, DOI 10.1016/j.polymer.2006.02.014</reference>
+     <reference>Dufresne A, 2000, J APPL POLYM SCI, V76, P2080, DOI 10.1002/(SICI)1097-4628(20000628)76:14&lt;2080::AID-APP12&gt;3.0.CO;2-U</reference>
+     <reference>Eichhorn SJ, 2001, CELLULOSE, V8, P197, DOI 10.1023/A:1013181804540</reference>
+     <reference>Fasce L, 2001, POLYM ENG SCI, V41, P1, DOI 10.1002/pen.10703</reference>
+     <reference>Gong G, 2005, POLYM TEST, V24, P410, DOI 10.1016/j.polymertesting.2005.02.004</reference>
+     <reference>Gonzalez I, 2009, POLYM TEST, V28, P760, DOI 10.1016/j.polymertesting.2009.06.008</reference>
+     <reference>Gousse C, 2004, POLYMER, V45, P1569, DOI 10.1016/j.polymer.2003.12.028</reference>
+     <reference>Gray A., 1993, TESTING PROTOCOL ESS, pTC4</reference>
+     <reference>Hristov VN, 2004, POLYM TEST, V23, P581, DOI 10.1016/j.polymertesting.2003.10.011</reference>
+     <reference>Hubbe M. A., 2008, BioResources, V3, P929</reference>
+     <reference>Jain AK, 2000, J APPL POLYM SCI, V78, P2089, DOI 10.1002/1097-4628(20001213)78:12&lt;2089::AID-APP50&gt;3.3.CO;2-8</reference>
+     <reference>Kudva RA, 2000, POLYMER, V41, P335, DOI 10.1016/S0032-3861(99)00244-X</reference>
+     <reference>Kvien I, 2005, BIOMACROMOLECULES, V6, P3160, DOI 10.1021/bm050479t</reference>
+     <reference>Lach R, 2005, EUR POLYM J, V41, P383, DOI 10.1016/j.europolymj.2004.09.021</reference>
+     <reference>Marcovich NE, 2006, J MATER RES, V21, P870, DOI 10.1557/JMR.2006.0105</reference>
+     <reference>Martinez AB, 2009, ENG FAIL ANAL, V16, P2604, DOI 10.1016/j.engfailanal.2009.04.027</reference>
+     <reference>Mi YL, 1997, J APPL POLYM SCI, V64, P1267, DOI 10.1002/(SICI)1097-4628(19970516)64:7&lt;1267::AID-APP4&gt;3.3.CO;2-B</reference>
+     <reference>Oksman K, 1998, J APPL POLYM SCI, V67, P1503, DOI 10.1002/(SICI)1097-4628(19980228)67:9&lt;1503::AID-APP1&gt;3.0.CO;2-H</reference>
+     <reference>Ozkoc G, 2008, J MATER SCI, V43, P2642, DOI 10.1007/s10853-008-2483-7</reference>
+     <reference>Pettarin V, 2005, POLYM TEST, V24, P189, DOI 10.1016/j.polymertesting.2004.09.003</reference>
+     <reference>Qiao Y, 2005, J APPL POLYM SCI, V95, P815, DOI 10.1002/app.21241</reference>
+     <reference>Saminathan K, 2008, POLYM TEST, V27, P296, DOI 10.1016/j.polymertesting.2007.11.008</reference>
+     <reference>Saminathan K, 2008, POLYM TEST, V27, P453, DOI 10.1016/j.polymertesting.2008.01.011</reference>
+     <reference>Stark NM, 2003, WOOD FIBER SCI, V35, P167</reference>
+     <reference>Svoboda P, 2002, J APPL POLYM SCI, V85, P1562, DOI 10.1002/app.10789</reference>
+     <reference>Tjong SC, 2005, J POLYM SCI POL PHYS, V43, P585, DOI 10.1002/polb.20360</reference>
+     <reference>Tjong SC, 2003, MAT SCI ENG A-STRUCT, V347, P338, DOI 10.1016/S0921-5093(02)00609-3</reference>
+     <reference>Vu-Khanh T., 1985, Polymer Engineering and Science, V25, DOI 10.1002/pen.760251309</reference>
+     <reference>Wainstein J, 2007, ENG FRACT MECH, V74, P2070, DOI 10.1016/j.engfracmech.2006.10.001</reference>
+     <reference>Wu QJ, 2007, BIOMACROMOLECULES, V8, P3687, DOI 10.1021/bm701061t</reference>
+     <reference>Yang HS, 2011, COMPOS PART A-APPL S, V42, P2028, DOI 10.1016/j.compositesa.2011.09.009</reference>
+     <reference>Yang HS, 2004, COMPOS STRUCT, V63, P305, DOI 10.1016/S0263-8223(03)00179-X</reference>
+     <reference>Yoo YJ, 2007, POLYMER, V48, P4867, DOI 10.1016/j.polymer.2007.06.007</reference>
+     <reference>Yu HY, 2009, J APPL POLYM SCI, V113, P181, DOI 10.1002/app.29531</reference>
+     <reference>Yuan Q, 2006, POLYMER, V47, P4421, DOI 10.1016/j.polymer.2006.03.105</reference>
+     <reference>Zhang QX, 2004, POLYMER, V45, P5985, DOI 10.1016/j.polymer.2004.06.044</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="WOS" year="2013"/>
+    <owner>
+     <name first="Szmolyán" last="Mária"></name>
+     <comment>BME admin 5</comment>
+     <identifiers>
+      <identifier>10014110</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2013-11-26" time="14:42" login="mszmolyan"/>
+     <entry event="last-modified" date="2018-01-29" time="10:14"/>
+    </edited>
+    <independent independent-ok="false">false</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">13936963</identifier>
+     <identifier name="WoS" validator="J" identifier="000316327600011"/>
+     <identifier name="Scopus" validator="J" identifier="84875332762"/>
+    </identifiers>
+    <title>Properties Enhancement of TPNR-MWNTs-OMMT Hybrid Nanocomposites by Using Ultrasonic Treatment</title>
+    <volume>42</volume>
+    <issue>4</issue>
+    <date year="2013"/>
+    <authors>
+     <author>
+      <name>Tarawneh MA</name>
+     </author>
+     <author>
+      <name>Ahmad SH</name>
+     </author>
+     <author>
+      <name>Zarina KAK</name>
+     </author>
+     <author>
+      <name>Hassan IN</name>
+     </author>
+     <author>
+      <name>Jiun YL</name>
+     </author>
+     <author>
+      <name>Flaifel MH</name>
+     </author>
+     <author>
+      <name>Bahri ARS</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="503" page_to="507"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>SAINS MALAYSIANA</title>
+     <identifiers>
+      <identifier type="issn">0126-6039</identifier>
+     </identifiers>
+    </container>
+    <references>
+     <reference>Ahmad SH, 2007, J COMPOS MATER, V41, P2147, DOI 10.1177/0021998307074140</reference>
+     <reference>Avella M, 2006, EUR POLYM J, V42, P1548, DOI 10.1016/j.eurpolymj.2006.01.009</reference>
+     <reference>Haggenmueller R, 2006, POLYMER, V47, P2381, DOI 10.1016/j.polymer.2006.01.087</reference>
+     <reference>Jing Li, 2008, Materials Science &amp; Engineering: A (Structural Materials: Properties, Microstructure and Processing), V483-484, DOI 10.1016/j.msea.2006.08.145</reference>
+     <reference>Kim GM, 2001, POLYMER, V42, P1095, DOI 10.1016/S0032-3861(00)00468-7</reference>
+     <reference>Leong YW, 2004, POLYM DEGRAD STABIL, V83, P411, DOI 10.1016/j.polymdegradstab.2003.08.004</reference>
+     <reference>Lin LY, 2006, COMPOS SCI TECHNOL, V66, P2116, DOI 10.1016/j.compscitech.2005.12.025</reference>
+     <reference>Liu XH, 2001, POLYMER, V42, P10013, DOI 10.1016/S0032-3861(01)00561-4</reference>
+     <reference>Mishra S, 2003, COMPOS SCI TECHNOL, V63, P1377, DOI 10.1016/S0266-3538(03)00084-8</reference>
+     <reference>Mou'ad A., 2011, J REINFORCED PLASTIC, V30, P524</reference>
+     <reference>Robert S., 2011, COMPOS SCI TECHNOL, V71, P1053</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="WOS" year="2014"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2014-03-20" time="18:43" login="czigany"/>
+     <entry event="last-modified" date="2018-01-29" time="10:14"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">13936964</identifier>
+     <identifier name="WoS" validator="J" identifier="000331728500001"/>
+     <identifier name="Scopus" validator="J" identifier="84893703472"/>
+     <identifier name="DOI" identifier="10.1007/s11051-014-2307-4"/>
+     <identifier name="article identifier" identifier="2307"/>
+    </identifiers>
+    <title>Impact properties and rheological behavior of exfoliated graphite nanoplatelet-filled impact modified polypropylene nanocomposites</title>
+    <volume>16</volume>
+    <issue>3</issue>
+    <date year="2014"/>
+    <authors>
+     <author>
+      <name>Duguay AJ</name>
+     </author>
+     <author>
+      <name>Kiziltas A</name>
+     </author>
+     <author>
+      <name>Nader JW</name>
+     </author>
+     <author>
+      <name>Gardner DJ</name>
+     </author>
+     <author>
+      <name>Dagher HJ</name>
+     </author>
+    </authors>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>JOURNAL OF NANOPARTICLE RESEARCH</title>
+     <identifiers>
+      <identifier type="issn">1388-0764</identifier>
+      <identifier type="eissn">1572-896X</identifier>
+     </identifiers>
+    </container>
+    <references>
+     <reference>Ahmad SH, 2007, J COMPOS MATER, V41, P2147, DOI 10.1177/0021998307074140</reference>
+     <reference>[Anonymous], 2008, JMP STAT DISC SOFTW</reference>
+     <reference>Balasuriya PW, 2001, COMPOS PART A-APPL S, V32, P619, DOI 10.1016/S1359-835X(00)00160-3</reference>
+     <reference>Bera J, 2001, J APPL POLYM SCI, V82, P2506</reference>
+     <reference>CANTWELL WJ, 1991, COMPOSITES, V22, P347, DOI 10.1016/0010-4361(91)90549-V</reference>
+     <reference>Duguay AJ, 2013, APPL NANOSCI, DOI [10.1007/s13204-013-0204-2, DOI 10.1007/S13204-013-0204-2]</reference>
+     <reference>Jiang X, 2010, POLYM COMPOSITE, V31, P1091, DOI 10.1002/pc.20896</reference>
+     <reference>Kalaitzidou K, 2007, COMPOS PART A-APPL S, V38, P1675, DOI 10.1016/j.compositesa.2007.02.003</reference>
+     <reference>Kiziltas A, 2013, P SPE AUT COMP C EXH</reference>
+     <reference>Lesser AJ, 2009, P NSF SUMM I NAN NAN</reference>
+     <reference>Lim JW, 2008, POLYM-PLAST TECHNOL, V47, P411, DOI 10.1080/03602550801898289</reference>
+     <reference>Lu JZ, 2006, J APPL POLYM SCI, V102, P5607, DOI 10.1002/app.24929</reference>
+     <reference>Oksman K, 1998, J APPL POLYM SCI, V67, P1503, DOI 10.1002/(SICI)1097-4628(19980228)67:9&lt;1503::AID-APP1&gt;3.0.CO;2-H</reference>
+     <reference>Park HM, 2007, EXFOLIATED GRAPHITE</reference>
+     <reference>Ratnayake UN, 2009, J APPL POLYM SCI, V112, P320, DOI 10.1002/app.29371</reference>
+     <reference>Teng CC, 2008, COMPOS PART A-APPL S, V39, P1869, DOI 10.1016/j.compositesa.2008.09.004</reference>
+     <reference>Thostenson ET, 2005, COMPOS SCI TECHNOL, V65, P491, DOI 10.1016/j.compscitech.2004.11.003</reference>
+     <reference>Zhang Q, 2000, POLYM INT, V49, P1561, DOI 10.1002/1097-0126(200012)49:12&lt;1561::AID-PI509&gt;3.3.CO;2-K</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="WOS" year="2018"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-01-13" time="08:39" login="czigany"/>
+     <entry event="last-modified" date="2018-01-13" time="08:40"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17076177</identifier>
+     <identifier name="WoS" identifier="000209843300004"/>
+     <identifier name="DOI" identifier="10.1007/s13204-013-0204-2"/>
+    </identifiers>
+    <title>Exfoliated graphite nanoplatelet-filled impact modified polypropylene nanocomposites: influence of particle diameter, filler loading, and coupling agent on the mechanical properties</title>
+    <comment>OA gold</comment>
+    <volume>4</volume>
+    <issue>3</issue>
+    <date year="2014"/>
+    <authors>
+     <author>
+      <name>Duguay AJ</name>
+     </author>
+     <author>
+      <name>Nader JW</name>
+     </author>
+     <author>
+      <name>Kiziltas A</name>
+     </author>
+     <author>
+      <name>Gardner DJ</name>
+     </author>
+     <author>
+      <name>Dagher HJ</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="279" page_to="291" page_number="13"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>APPLIED NANOSCIENCE</title>
+     <identifiers>
+      <identifier type="issn">2190-5509</identifier>
+      <identifier type="eissn">2190-5517</identifier>
+     </identifiers>
+    </container>
+    <references>
+     <reference>Ahmad SH, 2007, J COMPOS MATER, V41, P2147, DOI 10.1177/0021998307074140</reference>
+     <reference>Chen GH, 2001, J APPL POLYM SCI, V82, P2506, DOI 10.1002/app.2101</reference>
+     <reference>Gopakumar TG, 2004, POLYM ENG SCI, V44, P1162, DOI 10.1002/pen.20109</reference>
+     <reference>Hussain F, 2006, J COMPOS MATER, V40, P1511, DOI 10.1177/0021998306067321</reference>
+     <reference>Jiang X, 2010, POLYM COMPOSITE, V31, P1091, DOI 10.1002/pc.20896</reference>
+     <reference>Kalaitzidou K, 2007, POLYM ENG SCI, V47, P1796, DOI 10.1002/pen.20879</reference>
+     <reference>Kalaitzidou K, 2007, CARBON, V45, P1446, DOI 10.1016/j.carbon.2007.03.029</reference>
+     <reference>Kalaitzidou K, 2007, COMPOS SCI TECHNOL, V67, P2045, DOI 10.1016/j.compscitech.2006.11.014</reference>
+     <reference>Kalaitzidou K, 2007, COMPOS PART A-APPL S, V38, P1675, DOI 10.1016/j.compositesa.2007.02.003</reference>
+     <reference>Kim H, 2010, MACROMOLECULES, V43, P6515, DOI 10.1021/ma100572e</reference>
+     <reference>Kim S, 2010, POLYM COMPOSITE, V31, P755, DOI 10.1002/pc.20781</reference>
+     <reference>Kim S, 2010, COMPOS PART A-APPL S, V41, P581, DOI 10.1016/j.compositesa.2009.05.002</reference>
+     <reference>Kim S, 2009, MACROMOL MATER ENG, V294, P196, DOI 10.1002/mame.200800319</reference>
+     <reference>Kim S, 2009, SOL ENERG MAT SOL C, V93, P136, DOI 10.1016/j.solmat.2008.09.010</reference>
+     <reference>Miloaga DG, 2005, NUCLEATING EFFECT EX</reference>
+     <reference>Oksman K, 1998, J APPL POLYM SCI, V67, P1503, DOI 10.1002/(SICI)1097-4628(19980228)67:9&lt;1503::AID-APP1&gt;3.0.CO;2-H</reference>
+     <reference>Page DJYS, 2006, POLYM J, V38, P920, DOI 10.1295/polymj.PJ2006020</reference>
+     <reference>Pan YX, 2000, J POLYM SCI POL PHYS, V38, P1626, DOI 10.1002/(SICI)1099-0488(20000615)38:12&lt;1626::AID-POLB80&gt;3.0.CO;2-R</reference>
+     <reference>Park H, 2007, EXFOLIATED GRAPHITE</reference>
+     <reference>Ratnayake UN, 2009, J APPL POLYM SCI, V112, P320, DOI 10.1002/app.29371</reference>
+     <reference>[Anonymous], 2008, JMP STAT DISC SOFTW</reference>
+     <reference>Sherman L., 2004, PLAST TECHNOL, P56</reference>
+     <reference>Spoljaric S, 2009, COMPOS PART A-APPL S, V40, P791, DOI 10.1016/j.compositesa.2009.03.011</reference>
+     <reference>Stankovich S, 2006, J PHYS CHEM C, V442, P282, DOI [10.1038/ nature04969., DOI 10.1038/NATURE04969]</reference>
+     <reference>Teng CC, 2008, COMPOS PART A-APPL S, V39, P1869, DOI 10.1016/j.compositesa.2008.09.004</reference>
+     <reference>Thostenson ET, 2005, COMPOS SCI TECHNOL, V65, P491, DOI 10.1016/j.compscitech.2004.11.003</reference>
+    </references>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="kézi felvitel"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-01-13" time="08:59" login="czigany"/>
+     <entry event="last-modified" date="2018-01-13" time="09:01"/>
+    </edited>
+    <independent independent-ok="not given">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17076261</identifier>
+     <identifier name="Google scholar" identifier="10183783570952890110"/>
+     <identifier name="Teljes dokumentum" identifier="http://studentsrepo.um.edu.my/5986/1/PhD_Thesis_2013_NOR_MAS_MIRA.pdf"/>
+    </identifiers>
+    <title>Preparation and characterisation of glass fibre/nanoclay/polypropylene nanocomposites</title>
+    <comment>University of Malaya</comment>
+    <date year="2013"/>
+    <authors>
+     <author>
+      <name>Normasmira AR</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_number="261"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="28">disszertáció</type>
+      <subtype identifier="9">phd</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <references/>
+   </citation>
+   <citation status="jóváhagyva">
+    <source name="Scopus-RIS" year="2018"/>
+    <owner>
+     <name first="Czigány" last="Tibor"></name>
+     <comment>Gépészet, polimer szerkezeti anyagok, anyagvizsgálat</comment>
+     <identifiers>
+      <identifier type="MTA ID">10007961</identifier>
+      <identifier type="ResearcherID">A-5301-2008</identifier>
+      <identifier type="Scopus ID">35502123300</identifier>
+      <identifier type="Google Scholar ID">JxAx-88AAAAJ</identifier>
+      <identifier type="ResearchGate">Tibor_Czigany</identifier>
+      <identifier type="ODT ID">2767</identifier>
+      <identifier type="Microsoft Academic Search">19690576</identifier>
+      <identifier type="ORCID">0000-0002-5138-0141</identifier>
+      <identifier>10001225</identifier>
+     </identifiers>
+    </owner>
+    <edited>
+     <entry event="created" date="2018-03-12" time="10:57" login="czigany"/>
+     <entry event="last-modified" date="2018-03-12" time="10:59"/>
+    </edited>
+    <independent independent-ok="true">true</independent>
+    <language>Angol</language>
+    <foreign_only>true</foreign_only>
+    <published_abroad>true</published_abroad>
+    <identifiers>
+     <identifier type="Éles MTMT felület.">17206923</identifier>
+     <identifier name="WoS" identifier="000429869000003"/>
+     <identifier name="Scopus" identifier="85042470380"/>
+     <identifier name="DOI" identifier="10.1177/0095244317708594"/>
+    </identifiers>
+    <title>Improved morphology and mechanical properties of UPA6/TPEE blends by reactive compatibilization</title>
+    <volume>50</volume>
+    <issue>2</issue>
+    <date year="2018"/>
+    <authors>
+     <author>
+      <name>Peng S</name>
+     </author>
+     <author>
+      <name>Ren X</name>
+     </author>
+     <author>
+      <name>Zhang W</name>
+     </author>
+     <author>
+      <name>Yi C</name>
+     </author>
+     <author>
+      <name>Su S</name>
+     </author>
+     <author>
+      <name>Wang X</name>
+     </author>
+    </authors>
+    <length>
+     <entry page_from="124" page_to="139"/>
+    </length>
+    <classifications>
+     <classification>
+      <type identifier="24">folyóiratcikk</type>
+      <subtype identifier="10000059">szakcikk</subtype>
+      <character identifier="1">tudományos</character>
+     </classification>
+    </classifications>
+    <container>
+     <title>JOURNAL OF ELASTOMERS AND PLASTICS</title>
+     <identifiers>
+      <identifier type="issn">0095-2443</identifier>
+     </identifiers>
+    </container>
+    <references/>
+   </citation>
+  </citations>
+ </record>
+
+</records>

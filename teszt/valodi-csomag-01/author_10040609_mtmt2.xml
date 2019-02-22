@@ -2,7 +2,7 @@
 <myciteResultList>
   <serverUrl>https://m2.mtmt.hu/</serverUrl>
   <labelLang>hun</labelLang>
-  <responseDate>2019-02-20 14:27</responseDate>
+  <responseDate>2019-02-22 21:26</responseDate>
   <paging>
     <apiVersion>application/xml;charset=UTF-8</apiVersion>
     <last>false</last>
@@ -42,7 +42,7 @@
         <oldTimestamp>2017-03-27T11:43:01.000+0000</oldTimestamp>
         <deleted>false</deleted>
         <oldId>10040609</oldId>
-        <lastRefresh>2019-02-11T13:04:31.141+0000</lastRefresh>
+        <lastRefresh>2019-02-20T16:42:10.023+0000</lastRefresh>
         <lastModified>2018-11-02T07:13:19.857+0000</lastModified>
         <created>2014-01-08T23:00:00.000+0000</created>
         <lastDuplumOK>2018-11-14T10:34:32.479+0000</lastDuplumOK>
@@ -68,7 +68,7 @@
         <independentCitationCount>93</independentCitationCount>
         <unhandledCitationCount>0</unhandledCitationCount>
         <nationalOriginCitationCount>20</nationalOriginCitationCount>
-        <foreignEditionCitationCount>109</foreignEditionCitationCount>
+        <foreignEditionCitationCount>107</foreignEditionCitationCount>
         <doiCitationCount>113</doiCitationCount>
         <wosCitationCount>104</wosCitationCount>
         <scopusCitationCount>122</scopusCitationCount>
@@ -573,6 +573,14 @@
             </oaStats2>
           </years>
         </pubStats>
+        <summaryTable>
+          <snippet>true</snippet>
+          <mtid>132000</mtid>
+          <link>/api/report/132000</link>
+          <otype>Report</otype>
+          <label>KollárZsolt összesítő táblázata</label>
+          <published>false</published>
+        </summaryTable>
         <altTab>false</altTab>
         <affiliationsForSort>Szélessávú Hírközlés és Villamosságtan Tanszék (BME / VIK)</affiliationsForSort>
         <validAffiliations>
@@ -2923,7 +2931,7 @@
         <citation>
           <otype>Citation</otype>
           <mtid>26350106</mtid>
-          <status>ADMIN_APPROVED</status>
+          <status>VALIDATED</status>
           <published>true</published>
           <unhandledTickets>0</unhandledTickets>
           <oldTimestamp>2017-03-21T12:41:53.000+0000</oldTimestamp>
@@ -3355,7 +3363,7 @@
           <externalCitation>false</externalCitation>
           <externalCitationOK>true</externalCitationOK>
           <link>/api/citation/26350106</link>
-          <label>Csuka Barna et al. Software and Hardware Solutions for Channel Estimation Based on Cyclic Golay Sequences. (2016) RADIOENGINEERING 1210-2512 25 4 801-807</label><template>&lt;div class=&quot;Citation short-list&quot;&gt; &lt;div class=&quot;publication Publication&quot;&gt;Forrásközlemény: [3090648] Csuka Barna. Comparison of Signal Processing Methods for Calculating Point-by-point Discrete Fourier Transforms. (2016) Megjelent: Proceedings of the 26th International Conference Radioelektronika pp. 217-221 &lt;/div&gt; &lt;div class=&quot;related Publication&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;Idéző: &lt;div class=&quot;JournalArticle Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; mtid=&quot;10050648&quot;&gt;&lt;a href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10050648&quot; target=&quot;_blank&quot;&gt;Csuka, Barna&lt;/a&gt; &lt;/span&gt; ; &lt;span class=&quot;author-name&quot; mtid=&quot;10040609&quot;&gt;&lt;a href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10040609&quot; target=&quot;_blank&quot;&gt;Kollár, Zsolt&lt;/a&gt; &lt;/span&gt; &lt;/div &gt;&lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;3155420&quot; mtid=&quot;3155420&quot; target=&quot;_blank&quot;&gt;Software and Hardware Solutions for Channel Estimation Based on Cyclic Golay Sequences&lt;/a&gt;&lt;/div&gt; &lt;div class=&quot;pub-info&quot;&gt;&lt;span class=&quot;journal-title&quot;&gt;RADIOENGINEERING&lt;/span&gt; &lt;span class=&quot;journal-volume&quot;&gt;25&lt;/span&gt; : &lt;span class=&quot;journal-issue&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;page&quot;&gt; pp. 801-807. , 7 p. &lt;/span&gt; &lt;span class=&quot;year&quot;&gt;(2016)&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_GOLD&quot; title=&quot; Gold &quot;&gt; &lt;a style=&quot;color: blue&quot; title=&quot;10.13164/re.2016.0801&quot; target=&quot;_blank&quot; href=&quot;http://dx.doi.org/10.13164/re.2016.0801&quot;&gt;DOI&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_GREEN&quot; title=&quot; Green &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;63544&quot; target=&quot;_blank&quot; href=&quot;http://real.mtak.hu/63544&quot;&gt;REAL&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: blue&quot; title=&quot;000390180800023&quot; target=&quot;_blank&quot; href=&quot;http://gateway.isiknowledge.com/gateway/Gateway.cgi?&amp;GWVersion=2&amp;SrcAuth=CustomerName&amp;SrcApp=CustomerName&amp;DestLinkType=FullRecord&amp;KeyUT=000390180800023&amp;DestApp=WOS&quot;&gt;WoS&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;85008222892&quot; target=&quot;_blank&quot; href=&quot;http://www.scopus.com/record/display.url?origin=inward&amp;eid=2-s2.0-85008222892&quot;&gt;Scopus&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:3155420 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-VALIDATED&quot;&gt; Érvényesített &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt;Forrás Idéző &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Folyóiratcikk (Szakcikk ) &lt;/span&gt; &lt;span class=&quot;citing-count1&quot;&gt;Nyilvános idézők összesen: 1&lt;/span&gt; &lt;span class=&quot;citing-count-independent&quot;&gt;Független: 0&lt;/span&gt; &lt;span class=&quot;citing-count-self&quot;&gt;Függő: 1&lt;/span&gt; &lt;span class=&quot;citing-count2&quot;&gt;Idézett közlemények száma: 3 &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;citation&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;&lt;i&gt;Kapcsolat: [26350106] Admin láttamozott | Függő | Magyarországi szerző: Igen | Külföldi kiadás: Igen | Forrás: WoS-XML&lt;/i&gt;&lt;/div&gt; &lt;/div&gt;</template>
+          <label>Csuka Barna et al. Software and Hardware Solutions for Channel Estimation Based on Cyclic Golay Sequences. (2016) RADIOENGINEERING 1210-2512 25 4 801-807</label><template>&lt;div class=&quot;Citation short-list&quot;&gt; &lt;div class=&quot;publication Publication&quot;&gt;Forrásközlemény: [3090648] Csuka Barna et al. Comparison of Signal Processing Methods for Calculating Point-by-point Discrete Fourier Transforms. (2016) Megjelent: Proceedings of the 26th International Conference Radioelektronika pp. 217-221 &lt;/div&gt; &lt;div class=&quot;related Publication&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;Idéző: &lt;div class=&quot;JournalArticle Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; mtid=&quot;10050648&quot;&gt;&lt;a href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10050648&quot; target=&quot;_blank&quot;&gt;Csuka, Barna&lt;/a&gt; &lt;/span&gt; ; &lt;span class=&quot;author-name&quot; mtid=&quot;10040609&quot;&gt;&lt;a href=&quot;/gui2/?type=authors&amp;mode=browse&amp;sel=10040609&quot; target=&quot;_blank&quot;&gt;Kollár, Zsolt&lt;/a&gt; &lt;/span&gt; &lt;/div &gt;&lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;3155420&quot; mtid=&quot;3155420&quot; target=&quot;_blank&quot;&gt;Software and Hardware Solutions for Channel Estimation Based on Cyclic Golay Sequences&lt;/a&gt;&lt;/div&gt; &lt;div class=&quot;pub-info&quot;&gt;&lt;span class=&quot;journal-title&quot;&gt;RADIOENGINEERING&lt;/span&gt; &lt;span class=&quot;journal-volume&quot;&gt;25&lt;/span&gt; : &lt;span class=&quot;journal-issue&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;page&quot;&gt; pp. 801-807. , 7 p. &lt;/span&gt; &lt;span class=&quot;year&quot;&gt;(2016)&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_GOLD&quot; title=&quot; Gold &quot;&gt; &lt;a style=&quot;color: blue&quot; title=&quot;10.13164/re.2016.0801&quot; target=&quot;_blank&quot; href=&quot;http://dx.doi.org/10.13164/re.2016.0801&quot;&gt;DOI&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_GREEN&quot; title=&quot; Green &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;63544&quot; target=&quot;_blank&quot; href=&quot;http://real.mtak.hu/63544&quot;&gt;REAL&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: blue&quot; title=&quot;000390180800023&quot; target=&quot;_blank&quot; href=&quot;http://gateway.isiknowledge.com/gateway/Gateway.cgi?&amp;GWVersion=2&amp;SrcAuth=CustomerName&amp;SrcApp=CustomerName&amp;DestLinkType=FullRecord&amp;KeyUT=000390180800023&amp;DestApp=WOS&quot;&gt;WoS&lt;/a&gt; &lt;/span&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: black&quot; title=&quot;85008222892&quot; target=&quot;_blank&quot; href=&quot;http://www.scopus.com/record/display.url?origin=inward&amp;eid=2-s2.0-85008222892&quot;&gt;Scopus&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:3155420 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-VALIDATED&quot;&gt; Érvényesített &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt;Forrás Idéző &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Folyóiratcikk (Szakcikk ) &lt;/span&gt; &lt;span class=&quot;citing-count1&quot;&gt;Nyilvános idézők összesen: 1&lt;/span&gt; &lt;span class=&quot;citing-count-independent&quot;&gt;Független: 0&lt;/span&gt; &lt;span class=&quot;citing-count-self&quot;&gt;Függő: 1&lt;/span&gt; &lt;span class=&quot;citing-count2&quot;&gt;Idézett közlemények száma: 3 &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;citation&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;&lt;i&gt;Kapcsolat: [26350106] &lt;span class=&quot;status-data status-VALIDATED&quot;&gt; Érvényesített &lt;/span&gt; | Függő | Magyarországi szerző: Igen | Külföldi kiadás: Igen | Forrás: WoS-XML&lt;/i&gt;&lt;/div&gt; &lt;/div&gt;</template>
         </citation>
         <citation>
           <otype>Citation</otype>
@@ -6687,7 +6695,7 @@ Varga L., 2012, 19 INT C SYST SIGN I, P130</referenceList>
         <oldTimestamp>2017-03-27T11:43:01.000+0000</oldTimestamp>
         <deleted>false</deleted>
         <oldId>10040609</oldId>
-        <lastRefresh>2019-02-11T13:04:31.141+0000</lastRefresh>
+        <lastRefresh>2019-02-20T16:42:10.023+0000</lastRefresh>
         <lastModified>2018-11-02T07:13:19.857+0000</lastModified>
         <created>2014-01-08T23:00:00.000+0000</created>
         <lastDuplumOK>2018-11-14T10:34:32.479+0000</lastDuplumOK>
@@ -6713,7 +6721,7 @@ Varga L., 2012, 19 INT C SYST SIGN I, P130</referenceList>
         <independentCitationCount>93</independentCitationCount>
         <unhandledCitationCount>0</unhandledCitationCount>
         <nationalOriginCitationCount>20</nationalOriginCitationCount>
-        <foreignEditionCitationCount>109</foreignEditionCitationCount>
+        <foreignEditionCitationCount>107</foreignEditionCitationCount>
         <doiCitationCount>113</doiCitationCount>
         <wosCitationCount>104</wosCitationCount>
         <scopusCitationCount>122</scopusCitationCount>
@@ -7218,6 +7226,14 @@ Varga L., 2012, 19 INT C SYST SIGN I, P130</referenceList>
             </oaStats2>
           </years>
         </pubStats>
+        <summaryTable>
+          <snippet>true</snippet>
+          <mtid>132000</mtid>
+          <link>/api/report/132000</link>
+          <otype>Report</otype>
+          <label>KollárZsolt összesítő táblázata</label>
+          <published>false</published>
+        </summaryTable>
         <altTab>false</altTab>
         <affiliationsForSort>Szélessávú Hírközlés és Villamosságtan Tanszék (BME / VIK)</affiliationsForSort>
         <validAffiliations>
@@ -10519,7 +10535,7 @@ ISSN: 2064-5260
         <citation>
           <otype>Citation</otype>
           <mtid>27107357</mtid>
-          <status>ADMIN_APPROVED</status>
+          <status>VALIDATED</status>
           <published>true</published>
           <unhandledTickets>0</unhandledTickets>
           <oldTimestamp>2018-01-25T10:33:50.000+0000</oldTimestamp>
@@ -10882,7 +10898,7 @@ ISSN: 2064-5260
           <externalCitation>false</externalCitation>
           <externalCitationOK>true</externalCitationOK>
           <link>/api/citation/27107357</link>
-          <label>Kovacs Marton. Effects of Quantization on Golay Sequence based Channel Estimation. (2017) Megjelent: 2017 27TH INTERNATIONAL CONFERENCE RADIOELEKTRONIKA (RADIOELEKTRONIKA) pp. 52-55</label><template>&lt;div class=&quot;Citation short-list&quot;&gt; &lt;div class=&quot;publication Publication&quot;&gt;Forrásközlemény: [3155420] Csuka Barna. Software and Hardware Solutions for Channel Estimation Based on Cyclic Golay Sequences. (2016) RADIOENGINEERING 1210-2512 25 4 801-807 &lt;/div&gt; &lt;div class=&quot;related Publication&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;Idéző: &lt;div class=&quot;BookChapter Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; &gt;Kovacs, Marton &lt;/span&gt; ; &lt;span class=&quot;author-name&quot; &gt;Csuka, Barna &lt;/span&gt; ; &lt;span class=&quot;author-name&quot; &gt;Kollar, Zsolt &lt;/span&gt; &lt;/div &gt;&lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;27107357&quot; mtid=&quot;27107357&quot; target=&quot;_blank&quot;&gt;Effects of Quantization on Golay Sequence based Channel Estimation&lt;/a&gt; &lt;span class=&quot;page&quot;&gt; pp. 52-55. , 4 p. &lt;/span&gt;&lt;/div&gt; &lt;div class=&quot;InBook&quot;&gt;In: &lt;span class=&quot;booktitle&quot;&gt;2017 27TH INTERNATIONAL CONFERENCE RADIOELEKTRONIKA (RADIOELEKTRONIKA) &lt;/span &gt; &lt;/div&gt;&lt;div class=&quot;pub-info&quot;&gt; &lt;span class=&quot;publishedAt&quot;&gt;New York, Amerikai Egyesült Államok : &lt;span class=&quot;publisher&quot;&gt;IEEE&lt;/span&gt;, &lt;span class=&quot;year&quot;&gt;(2017)&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: blue&quot; title=&quot;000414280400007&quot; target=&quot;_blank&quot; href=&quot;http://gateway.isiknowledge.com/gateway/Gateway.cgi?&amp;GWVersion=2&amp;SrcAuth=CustomerName&amp;SrcApp=CustomerName&amp;DestLinkType=FullRecord&amp;KeyUT=000414280400007&amp;DestApp=WOS&quot;&gt;WoS&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:27107357 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-ADMIN_APPROVED&quot;&gt; Admin láttamozott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt; Idéző &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Könyvrészlet (Konferenciaközlemény ) &lt;/span&gt; &lt;span class=&quot;citing-count2&quot;&gt;Idézett közlemények száma: 1 &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;citation&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;&lt;i&gt;Kapcsolat: [27107357] Admin láttamozott | Függő | Magyarországi szerző: Nem vizsgált | Külföldi kiadás: Nem vizsgált | Forrás: WoS-XML&lt;/i&gt;&lt;/div&gt; &lt;/div&gt;</template>
+          <label>Kovacs Marton. Effects of Quantization on Golay Sequence based Channel Estimation. (2017) Megjelent: 2017 27TH INTERNATIONAL CONFERENCE RADIOELEKTRONIKA (RADIOELEKTRONIKA) pp. 52-55</label><template>&lt;div class=&quot;Citation short-list&quot;&gt; &lt;div class=&quot;publication Publication&quot;&gt;Forrásközlemény: [3155420] Csuka Barna et al. Software and Hardware Solutions for Channel Estimation Based on Cyclic Golay Sequences. (2016) RADIOENGINEERING 1210-2512 25 4 801-807 &lt;/div&gt; &lt;div class=&quot;related Publication&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;Idéző: &lt;div class=&quot;BookChapter Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; &gt;Kovacs, Marton &lt;/span&gt; ; &lt;span class=&quot;author-name&quot; &gt;Csuka, Barna &lt;/span&gt; ; &lt;span class=&quot;author-name&quot; &gt;Kollar, Zsolt &lt;/span&gt; &lt;/div &gt;&lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;27107357&quot; mtid=&quot;27107357&quot; target=&quot;_blank&quot;&gt;Effects of Quantization on Golay Sequence based Channel Estimation&lt;/a&gt; &lt;span class=&quot;page&quot;&gt; pp. 52-55. , 4 p. &lt;/span&gt;&lt;/div&gt; &lt;div class=&quot;InBook&quot;&gt;In: &lt;span class=&quot;booktitle&quot;&gt;2017 27TH INTERNATIONAL CONFERENCE RADIOELEKTRONIKA (RADIOELEKTRONIKA) &lt;/span &gt; &lt;/div&gt;&lt;div class=&quot;pub-info&quot;&gt; &lt;span class=&quot;publishedAt&quot;&gt;New York, Amerikai Egyesült Államok : &lt;span class=&quot;publisher&quot;&gt;IEEE&lt;/span&gt;, &lt;span class=&quot;year&quot;&gt;(2017)&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: blue&quot; title=&quot;000414280400007&quot; target=&quot;_blank&quot; href=&quot;http://gateway.isiknowledge.com/gateway/Gateway.cgi?&amp;GWVersion=2&amp;SrcAuth=CustomerName&amp;SrcApp=CustomerName&amp;DestLinkType=FullRecord&amp;KeyUT=000414280400007&amp;DestApp=WOS&quot;&gt;WoS&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:27107357 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-ADMIN_APPROVED&quot;&gt; Admin láttamozott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt; Idéző &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Könyvrészlet (Konferenciaközlemény ) &lt;/span&gt; &lt;span class=&quot;citing-count2&quot;&gt;Idézett közlemények száma: 1 &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;citation&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;&lt;i&gt;Kapcsolat: [27107357] &lt;span class=&quot;status-data status-VALIDATED&quot;&gt; Érvényesített &lt;/span&gt; | Függő | Magyarországi szerző: Nem vizsgált | Külföldi kiadás: Igen | Forrás: WoS-XML&lt;/i&gt;&lt;/div&gt; &lt;/div&gt;</template>
         </citation>
       </citations>
       <publicationPending>false</publicationPending>
@@ -14236,7 +14252,7 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
         <oldTimestamp>2018-04-03T06:39:25.000+0000</oldTimestamp>
         <deleted>false</deleted>
         <oldId>10039119</oldId>
-        <lastRefresh>2018-12-01T10:11:22.412+0000</lastRefresh>
+        <lastRefresh>2019-02-22T14:07:47.705+0000</lastRefresh>
         <lastModified>2018-04-03T06:39:25.000+0000</lastModified>
         <created>2013-10-03T22:00:00.000+0000</created>
         <duplumSearchResult>
@@ -14277,11 +14293,11 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
         <citationCount>219</citationCount>
         <independentCitationCount>167</independentCitationCount>
         <unhandledCitationCount>0</unhandledCitationCount>
-        <nationalOriginCitationCount>0</nationalOriginCitationCount>
-        <foreignEditionCitationCount>0</foreignEditionCitationCount>
-        <doiCitationCount>0</doiCitationCount>
-        <wosCitationCount>0</wosCitationCount>
-        <scopusCitationCount>0</scopusCitationCount>
+        <nationalOriginCitationCount>25</nationalOriginCitationCount>
+        <foreignEditionCitationCount>112</foreignEditionCitationCount>
+        <doiCitationCount>179</doiCitationCount>
+        <wosCitationCount>150</wosCitationCount>
+        <scopusCitationCount>172</scopusCitationCount>
         <citingPubCount>209</citingPubCount>
         <independentCitingPubCount>162</independentCitingPubCount>
         <unhandledCitingPubCount>0</unhandledCitingPubCount>
@@ -14687,11 +14703,11 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
             </oaStats>
             <oaStats>
               <type>NONE</type>
-              <count>1</count>
+              <count>2</count>
             </oaStats>
             <oaStats>
               <type/>
-              <count>4</count>
+              <count>3</count>
             </oaStats>
             <oaStats2>
               <type>GOLD</type>
@@ -14702,8 +14718,12 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
               <count>3</count>
             </oaStats2>
             <oaStats2>
+              <type>NONE</type>
+              <count>1</count>
+            </oaStats2>
+            <oaStats2>
               <type/>
-              <count>4</count>
+              <count>3</count>
             </oaStats2>
           </years>
           <years>
@@ -14723,11 +14743,11 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
             </oaStats>
             <oaStats>
               <type>NONE</type>
-              <count>6</count>
+              <count>7</count>
             </oaStats>
             <oaStats>
               <type/>
-              <count>2</count>
+              <count>1</count>
             </oaStats>
             <oaStats2>
               <type>GOLD</type>
@@ -14739,11 +14759,11 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
             </oaStats2>
             <oaStats2>
               <type>NONE</type>
-              <count>6</count>
+              <count>7</count>
             </oaStats2>
             <oaStats2>
               <type/>
-              <count>2</count>
+              <count>1</count>
             </oaStats2>
           </years>
           <years>
@@ -14755,11 +14775,11 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
             <independentCitingPubCount>12</independentCitingPubCount>
             <oaStats>
               <type>NONE</type>
-              <count>2</count>
+              <count>3</count>
             </oaStats>
             <oaStats>
               <type/>
-              <count>2</count>
+              <count>1</count>
             </oaStats>
             <oaStats2>
               <type>NONE</type>
@@ -14782,7 +14802,7 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
               <count>2</count>
             </oaStats>
             <oaStats>
-              <type/>
+              <type>NONE</type>
               <count>1</count>
             </oaStats>
             <oaStats2>
@@ -14790,7 +14810,7 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
               <count>2</count>
             </oaStats2>
             <oaStats2>
-              <type/>
+              <type>NONE</type>
               <count>1</count>
             </oaStats2>
           </years>
@@ -14810,7 +14830,7 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
               <count>3</count>
             </oaStats>
             <oaStats>
-              <type/>
+              <type>NONE</type>
               <count>1</count>
             </oaStats>
             <oaStats2>
@@ -14822,7 +14842,7 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
               <count>3</count>
             </oaStats2>
             <oaStats2>
-              <type/>
+              <type>NONE</type>
               <count>1</count>
             </oaStats2>
           </years>
@@ -14838,7 +14858,7 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
               <count>2</count>
             </oaStats>
             <oaStats>
-              <type/>
+              <type>NONE</type>
               <count>1</count>
             </oaStats>
             <oaStats2>
@@ -14846,7 +14866,7 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
               <count>2</count>
             </oaStats2>
             <oaStats2>
-              <type/>
+              <type>NONE</type>
               <count>1</count>
             </oaStats2>
           </years>
@@ -15082,7 +15102,7 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
         <citation>
           <otype>Citation</otype>
           <mtid>26476430</mtid>
-          <status>ADMIN_APPROVED</status>
+          <status>APPROVED</status>
           <published>true</published>
           <comment>A4</comment>
           <unhandledTickets>0</unhandledTickets>
@@ -15426,12 +15446,12 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
           <externalCitation>false</externalCitation>
           <externalCitationOK>false</externalCitationOK>
           <link>/api/citation/26476430</link>
-          <label>Horváth B. Establishing lower bounds on the peak-to-average-power ratio in filter bank multicarrier systems. (2015) Megjelent: 21st European Wireless Conference, European Wireless 2015</label><template>&lt;div class=&quot;Citation short-list&quot;&gt; &lt;div class=&quot;publication Publication&quot;&gt;Forrásközlemény: [2764084] Horvath Balint. Bridging the gap between optimal and suboptimal ACE PAPR reduction scheme for OFDM. (2014) Megjelent: Radioelektronika, 2014 24th International Conference &lt;/div&gt; &lt;div class=&quot;related Publication&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;Idéző: &lt;div class=&quot;BookChapter Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; &gt;Horváth, B &lt;/span&gt; ; &lt;span class=&quot;author-name&quot; &gt;Horváth, P &lt;/span&gt; &lt;/div &gt;&lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;26476430&quot; mtid=&quot;26476430&quot; target=&quot;_blank&quot;&gt;Establishing lower bounds on the peak-to-average-power ratio in filter bank multicarrier systems&lt;/a&gt; &lt;span class=&quot;page&quot;&gt; Paper: 7147685 &lt;/span&gt;&lt;/div&gt; &lt;div class=&quot;InBook&quot;&gt;In: &lt;span class=&quot;booktitle&quot;&gt;21st European Wireless Conference, European Wireless 2015 &lt;/span &gt; &lt;/div&gt;&lt;div class=&quot;pub-info&quot;&gt; : &lt;span class=&quot;publisher&quot;&gt;Institute of Electrical and Electronics Engineers Inc.&lt;/span&gt;, &lt;span class=&quot;year&quot;&gt;(2015)&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: blue&quot; title=&quot;84979675913&quot; target=&quot;_blank&quot; href=&quot;http://www.scopus.com/record/display.url?origin=inward&amp;eid=2-s2.0-84979675913&quot;&gt;Scopus&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:26476430 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-ADMIN_APPROVED&quot;&gt; Admin láttamozott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt; Idéző &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Könyvrészlet (Konferenciaközlemény ) &lt;/span&gt; &lt;span class=&quot;citing-count2&quot;&gt;Idézett közlemények száma: 1 &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;citation&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;&lt;i&gt;Kapcsolat: [26476430] Admin láttamozott | Függő | Magyarországi szerző: Nem vizsgált | Külföldi kiadás: Nem vizsgált | Forrás: Scopus-RIS&lt;/i&gt;&lt;/div&gt; &lt;/div&gt;</template>
+          <label>Horváth B. Establishing lower bounds on the peak-to-average-power ratio in filter bank multicarrier systems. (2015) Megjelent: 21st European Wireless Conference, European Wireless 2015</label><template>&lt;div class=&quot;Citation short-list&quot;&gt; &lt;div class=&quot;publication Publication&quot;&gt;Forrásközlemény: [2764084] Horvath Balint. Bridging the gap between optimal and suboptimal ACE PAPR reduction scheme for OFDM. (2014) Megjelent: Radioelektronika, 2014 24th International Conference &lt;/div&gt; &lt;div class=&quot;related Publication&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;Idéző: &lt;div class=&quot;BookChapter Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; &gt;Horváth, B &lt;/span&gt; ; &lt;span class=&quot;author-name&quot; &gt;Horváth, P &lt;/span&gt; &lt;/div &gt;&lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;26476430&quot; mtid=&quot;26476430&quot; target=&quot;_blank&quot;&gt;Establishing lower bounds on the peak-to-average-power ratio in filter bank multicarrier systems&lt;/a&gt; &lt;span class=&quot;page&quot;&gt; Paper: 7147685 &lt;/span&gt;&lt;/div&gt; &lt;div class=&quot;InBook&quot;&gt;In: &lt;span class=&quot;booktitle&quot;&gt;21st European Wireless Conference, European Wireless 2015 &lt;/span &gt; &lt;/div&gt;&lt;div class=&quot;pub-info&quot;&gt; &lt;span class=&quot;year&quot;&gt;(2015)&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: blue&quot; title=&quot;84979675913&quot; target=&quot;_blank&quot; href=&quot;http://www.scopus.com/record/display.url?origin=inward&amp;eid=2-s2.0-84979675913&quot;&gt;Scopus&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:26476430 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-ADMIN_APPROVED&quot;&gt; Admin láttamozott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt; Idéző &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Könyvrészlet (Konferenciaközlemény ) &lt;/span&gt; &lt;span class=&quot;citing-count2&quot;&gt;Idézett közlemények száma: 1 &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;citation&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;&lt;i&gt;Kapcsolat: [26476430] &lt;span class=&quot;status-data status-APPROVED&quot;&gt; Jóváhagyott &lt;/span&gt; | Függő | Magyarországi szerző: Nem vizsgált | Külföldi kiadás: Nem vizsgált | Forrás: Scopus-RIS&lt;/i&gt;&lt;/div&gt; &lt;/div&gt;</template>
         </citation>
         <citation>
           <otype>Citation</otype>
           <mtid>26476429</mtid>
-          <status>ADMIN_APPROVED</status>
+          <status>APPROVED</status>
           <published>true</published>
           <unhandledTickets>0</unhandledTickets>
           <oldTimestamp>2017-03-21T12:47:35.000+0000</oldTimestamp>
@@ -15766,7 +15786,7 @@ Előzménye: EcMARKinfo, ISSN: 1216-058X&lt;/pre&gt;
           <externalCitation>false</externalCitation>
           <externalCitationOK>false</externalCitationOK>
           <link>/api/citation/26476429</link>
-          <label>Horváth B. Establishing lower bounds on the peak-to-average-power ratio in Filter bank multicarrier systems. (2015) INFOCOMMUNICATIONS JOURNAL 2061-2079 2061-2125 7 3 10-16</label><template>&lt;div class=&quot;Citation short-list&quot;&gt; &lt;div class=&quot;publication Publication&quot;&gt;Forrásközlemény: [2764084] Horvath Balint. Bridging the gap between optimal and suboptimal ACE PAPR reduction scheme for OFDM. (2014) Megjelent: Radioelektronika, 2014 24th International Conference &lt;/div&gt; &lt;div class=&quot;related Publication&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;Idéző: &lt;div class=&quot;JournalArticle Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; &gt;Horváth, B &lt;/span&gt; ; &lt;span class=&quot;author-name&quot; &gt;Horváth, P &lt;/span&gt; &lt;/div &gt;&lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;26476429&quot; mtid=&quot;26476429&quot; target=&quot;_blank&quot;&gt;Establishing lower bounds on the peak-to-average-power ratio in Filter bank multicarrier systems&lt;/a&gt;&lt;/div&gt; &lt;div class=&quot;pub-info&quot;&gt;&lt;span class=&quot;journal-title&quot;&gt;INFOCOMMUNICATIONS JOURNAL&lt;/span&gt; &lt;span class=&quot;journal-volume&quot;&gt;7&lt;/span&gt; : &lt;span class=&quot;journal-issue&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;page&quot;&gt; pp. 10-16. &lt;/span&gt; &lt;span class=&quot;year&quot;&gt;(2015)&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: blue&quot; title=&quot;84944076430&quot; target=&quot;_blank&quot; href=&quot;http://www.scopus.com/record/display.url?origin=inward&amp;eid=2-s2.0-84944076430&quot;&gt;Scopus&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:26476429 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-ADMIN_APPROVED&quot;&gt; Admin láttamozott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt; Idéző &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Folyóiratcikk &lt;/span&gt; &lt;span class=&quot;citing-count2&quot;&gt;Idézett közlemények száma: 1 &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;citation&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;&lt;i&gt;Kapcsolat: [26476429] Admin láttamozott | Függő | Magyarországi szerző: Nem vizsgált | Külföldi kiadás: Nem vizsgált | Forrás: Scopus-RIS&lt;/i&gt;&lt;/div&gt; &lt;/div&gt;</template>
+          <label>Horváth B. Establishing lower bounds on the peak-to-average-power ratio in Filter bank multicarrier systems. (2015) INFOCOMMUNICATIONS JOURNAL 2061-2079 2061-2125 7 3 10-16</label><template>&lt;div class=&quot;Citation short-list&quot;&gt; &lt;div class=&quot;publication Publication&quot;&gt;Forrásközlemény: [2764084] Horvath Balint. Bridging the gap between optimal and suboptimal ACE PAPR reduction scheme for OFDM. (2014) Megjelent: Radioelektronika, 2014 24th International Conference &lt;/div&gt; &lt;div class=&quot;related Publication&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;Idéző: &lt;div class=&quot;JournalArticle Publication short-list&quot;&gt; &lt;div class=&quot;authors&quot;&gt; &lt;span class=&quot;author-name&quot; &gt;Horváth, B &lt;/span&gt; ; &lt;span class=&quot;author-name&quot; &gt;Horváth, P &lt;/span&gt; &lt;/div &gt;&lt;div class=&quot;title&quot;&gt;&lt;a href=&quot;/gui2/?mode=browse&amp;params=publication;26476429&quot; mtid=&quot;26476429&quot; target=&quot;_blank&quot;&gt;Establishing lower bounds on the peak-to-average-power ratio in Filter bank multicarrier systems&lt;/a&gt;&lt;/div&gt; &lt;div class=&quot;pub-info&quot;&gt;&lt;span class=&quot;journal-title&quot;&gt;INFOCOMMUNICATIONS JOURNAL&lt;/span&gt; &lt;span class=&quot;journal-volume&quot;&gt;7&lt;/span&gt; : &lt;span class=&quot;journal-issue&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;page&quot;&gt; pp. 10-16. , 7 p. &lt;/span&gt; &lt;span class=&quot;year&quot;&gt;(2015)&lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;pub-end&quot;&gt;&lt;div class=&quot;identifier-list&quot;&gt; &lt;span class=&quot;identifiers&quot;&gt; &lt;span class=&quot;id identifier oa_&quot; title=&quot; &quot;&gt; &lt;a style=&quot;color: blue&quot; title=&quot;84944076430&quot; target=&quot;_blank&quot; href=&quot;http://www.scopus.com/record/display.url?origin=inward&amp;eid=2-s2.0-84944076430&quot;&gt;Scopus&lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;span class=&quot;short-pub-prop-list&quot;&gt;&lt;span class=&quot;short-pub-mtid&quot;&gt; Közlemény:26476429 &lt;/span&gt; &lt;span class=&quot;status-holder&quot;&gt;&lt;span class=&quot;status-data status-ADMIN_APPROVED&quot;&gt; Admin láttamozott &lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;pub-core&quot;&gt; Idéző &lt;/span&gt; &lt;span class=&quot;pub-type&quot;&gt;Folyóiratcikk &lt;/span&gt; &lt;span class=&quot;citing-count2&quot;&gt;Idézett közlemények száma: 1 &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;citation&quot; style=&quot;margin-top: 6px; margin-left: 20px&quot;&gt;&lt;i&gt;Kapcsolat: [26476429] &lt;span class=&quot;status-data status-APPROVED&quot;&gt; Jóváhagyott &lt;/span&gt; | Függő | Magyarországi szerző: Nem vizsgált | Külföldi kiadás: Nem | Forrás: Scopus-RIS&lt;/i&gt;&lt;/div&gt; &lt;/div&gt;</template>
         </citation>
         <citation>
           <otype>Citation</otype>
@@ -17725,7 +17745,7 @@ Zhou YT, 2009, ICIECS 2009 INT C IN, P1</referenceList>
         <oldTimestamp>2017-10-10T08:39:14.000+0000</oldTimestamp>
         <deleted>false</deleted>
         <oldId>10032316</oldId>
-        <lastRefresh>2019-02-04T13:42:00.848+0000</lastRefresh>
+        <lastRefresh>2019-02-22T14:01:52.001+0000</lastRefresh>
         <lastModified>2019-02-04T10:19:51.789+0000</lastModified>
         <created>2012-10-13T22:00:00.000+0000</created>
         <lastDuplumOK>2019-02-06T11:59:56.888+0000</lastDuplumOK>
@@ -17751,10 +17771,10 @@ Zhou YT, 2009, ICIECS 2009 INT C IN, P1</referenceList>
         <citationCount>21</citationCount>
         <independentCitationCount>15</independentCitationCount>
         <unhandledCitationCount>0</unhandledCitationCount>
-        <nationalOriginCitationCount>3</nationalOriginCitationCount>
+        <nationalOriginCitationCount>4</nationalOriginCitationCount>
         <foreignEditionCitationCount>12</foreignEditionCitationCount>
         <doiCitationCount>16</doiCitationCount>
-        <wosCitationCount>13</wosCitationCount>
+        <wosCitationCount>14</wosCitationCount>
         <scopusCitationCount>16</scopusCitationCount>
         <citingPubCount>21</citingPubCount>
         <independentCitingPubCount>15</independentCitingPubCount>
@@ -18012,7 +18032,7 @@ Zhou YT, 2009, ICIECS 2009 INT C IN, P1</referenceList>
               <count>1</count>
             </oaStats>
             <oaStats>
-              <type/>
+              <type>NONE</type>
               <count>1</count>
             </oaStats>
             <oaStats2>
@@ -18020,7 +18040,7 @@ Zhou YT, 2009, ICIECS 2009 INT C IN, P1</referenceList>
               <count>1</count>
             </oaStats2>
             <oaStats2>
-              <type/>
+              <type>NONE</type>
               <count>1</count>
             </oaStats2>
           </years>
