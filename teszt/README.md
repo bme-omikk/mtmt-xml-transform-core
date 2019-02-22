@@ -6,6 +6,8 @@ Az MTMT2 XML fájlokban a gyökérelem `myciteResult`, de lehet `myciteResultLis
 
 ## MTMT2 lekérdezés
 
+Lekérdezési paraméter (lásd még ill. frissítendő a `retrieve-records.sh` fájlban is.
+
 ```
 export FIELDS='citations:1,publishers.cities.partOf:1,book.publishers.cities.partOf:1,journal.publishers.cities.partOf:1,creator.identifiers:1'
 ```
