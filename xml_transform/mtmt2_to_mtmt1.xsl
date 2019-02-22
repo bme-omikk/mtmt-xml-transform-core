@@ -123,6 +123,10 @@
     </xsl:if>
     <xsl:apply-templates select="publishedYear" />
     <identifiers>
+      <xsl:if test="./citation='true'">
+        <!-- note: this is the identifier of the Citation object, not the citing publication. -->
+        <identifier type="{$source_name}"><xsl:value-of select="../mtid" /></identifier>
+      </xsl:if>
       <xsl:apply-templates select="identifiers/identifier" />
     </identifiers>
 
