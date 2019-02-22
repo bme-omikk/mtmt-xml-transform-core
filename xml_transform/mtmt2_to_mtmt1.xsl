@@ -100,7 +100,14 @@
     <editors>
       <xsl:for-each select="authorships/authorship[./type/otype='AuthorshipType' and ./type/mtid='2']"> <!-- AuthorshipType/mtid=2 is editor -->
         <editor>
-          <xsl:apply-templates select="./author" />
+          <xsl:choose>
+            <xsl:when test="./author">
+              <xsl:apply-templates select="./author" />
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:apply-templates select="." />
+            </xsl:otherwise>
+          </xsl:choose>
         </editor>
       </xsl:for-each>
     </editors>
@@ -249,15 +256,24 @@
     <character identifier="{mtid}"><xsl:value-of select="translate(label, $uppercase, $lowercase)" /></character>
   </xsl:template>
 
-  <xsl:template match="creator|author|adminApprover">
+  <xsl:template name="process-name-w-share">
+    <xsl:param name="share" />
     <name first="{./givenName}" last="{./familyName}">
-      <xsl:if test="../share">
+      <xsl:if test="$share">
         <xsl:attribute name="share">
-          <xsl:value-of select="../share" />
+          <xsl:value-of select="$share" />
         </xsl:attribute>
-        <xsl:value-of select="./label" />
       </xsl:if>
+      <xsl:value-of select="./label" />
     </name>
+  </xsl:template>
+
+  <!-- used for identified authorships/admins etc -->
+  <xsl:template match="creator|author|adminApprover">
+    <xsl:call-template name="process-name-w-share">
+      <xsl:with-param name="share" select="../share" />
+    </xsl:call-template>
+
     <identifiers>
       <identifier type="{$source_name}"><xsl:value-of select="./mtid" /></identifier>
       <xsl:apply-templates select="./identifiers/identifier" />
@@ -265,6 +281,12 @@
     <institutes>
       <xsl:apply-templates select="./affiliations/affiliation" />
     </institutes>
+  </xsl:template>
+  <!-- used for unidentified authorships -->
+  <xsl:template match="authorship">
+    <xsl:call-template name="process-name-w-share">
+      <xsl:with-param name="share" select="./share" />
+    </xsl:call-template>
   </xsl:template>
 
   <xsl:template match="publisher">
