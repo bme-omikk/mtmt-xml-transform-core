@@ -35,7 +35,7 @@ def run_one(original_xml_path, expected_xml_path):
     text_diff_ratio = SequenceMatcher(None, expected_xml_str, transformed_xml_str).ratio()
     #diff = main.diff_trees(transformed_xml, expected_xml, formatter=formatting.XMLFormatter())
     #print(diff)
-    print(transformed_xml_str.decode("utf-8"))
+    #print(transformed_xml_str.decode("utf-8"))
     validation_error = '' if is_valid(transformed_xml) else '!'
     print(original_xml_path, text_diff_ratio, validation_error)
 
@@ -43,5 +43,7 @@ def run_one(original_xml_path, expected_xml_path):
 if __name__ == '__main__':
     if len(argv) == 3:
         run_one(argv[1], argv[2])
+    elif len(argv) == 2:
+        run_all(argv[1])
     else:
         run_all()
