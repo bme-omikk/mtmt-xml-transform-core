@@ -22,6 +22,13 @@ def transform(original_xml_path, raise_if_invalid=True, source_name=etree.XSLT.s
     return transformed_xml
 
 
+def sort_transform(original_xml):
+    xsl_path = '../mtmt1-xml-sorter.xsl'
+    xslt = etree.parse(xsl_path)
+    transformer = etree.XSLT(xslt)
+    return transformer(original_xml)
+
+
 def is_valid(xml, schema_path='../util/mtmt1.xsd'):
     xml_schema = etree.XMLSchema(etree.parse(schema_path))
     valid = xml_schema.validate(xml)

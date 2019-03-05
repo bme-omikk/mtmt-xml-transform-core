@@ -3,7 +3,7 @@ import lxml.etree as ET
 from os import listdir, path
 from xmldiff import main, formatting
 
-from transform import transform, is_valid
+from transform import transform, is_valid, sort_transform
 from sys import argv
 
 xml_declaration_props = dict(xml_declaration=True, encoding='UTF-8', standalone=True)
@@ -23,13 +23,17 @@ def run_all(data_path='../teszt/szintetikus-rekordok'):
                 raise ValueError('No mtmt2 file for %s' % file1)
 
 
-def run_one(original_xml_path, expected_xml_path):
+def run_one(original_xml_path, expected_xml_path, apply_sorter=True):
     transformed_xml = transform(original_xml_path, raise_if_invalid=False)
+    if apply_sorter:
+        transformed_xml = sort_transform(transformed_xml)
     transformed_xml_str = ET.tostring(transformed_xml, pretty_print=True, **xml_declaration_props)
     with open(original_xml_path.replace('.xml', '_converted.xml'), 'wb') as f:
         f.write(transformed_xml_str)
 
     expected_xml = ET.parse(expected_xml_path)
+    if apply_sorter:
+        expected_xml = sort_transform(expected_xml)
     expected_xml_str = ET.tostring(expected_xml, pretty_print=True)
 
     text_diff_ratio = SequenceMatcher(None, expected_xml_str, transformed_xml_str).ratio()
