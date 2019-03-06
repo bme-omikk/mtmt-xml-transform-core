@@ -161,7 +161,12 @@
         <xsl:otherwise>not given</xsl:otherwise>
       </xsl:choose>
     </published_abroad>
-    <!-- TODO: process Impact Factor (noIF tag) -->
+    <!-- HACK: we provide information on the existence of impact factor to the calling environment -->
+    <xsl:if test="./noIF='false'">
+      <xsl:comment>Note: this is a hack and heuristics. We have information only on the existence of impact factor for the journal in general, not for a particular year. We assume that the impact factor existed for all years. As we don't have the value, we wire-in a non-zero value to enable scoring to utilize this.
+      </xsl:comment>
+      <impactfactor type="warning:hack">1</impactfactor>
+    </xsl:if>
     <identifiers>
       <xsl:if test="pIssn">
         <identifier type="issn"><xsl:value-of select="pIssn" /></identifier>
