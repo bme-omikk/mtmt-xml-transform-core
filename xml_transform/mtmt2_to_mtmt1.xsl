@@ -93,7 +93,14 @@
     <authors>
       <xsl:for-each select="authorships/authorship[./type/otype='AuthorshipType' and ./type/mtid='1']"> <!-- AuthorshipType/mtid=1 is author -->
         <author>
-          <xsl:apply-templates select="./author" />
+          <xsl:choose>
+            <xsl:when test="./author">
+              <xsl:apply-templates select="./author" />
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:apply-templates select="." />
+            </xsl:otherwise>
+          </xsl:choose>
         </author>
       </xsl:for-each>
     </authors>
