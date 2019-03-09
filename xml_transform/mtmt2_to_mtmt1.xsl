@@ -129,6 +129,12 @@
       </volume>
     </xsl:if>
     <xsl:apply-templates select="publishedYear" />
+    <published_abroad>
+      <xsl:choose>
+        <xsl:when test="./foreignEdition"><xsl:value-of select="./foreignEdition" /></xsl:when>
+        <xsl:otherwise>not given</xsl:otherwise>
+      </xsl:choose>
+    </published_abroad>
     <identifiers>
       <xsl:if test="./citation='true'">
         <!-- note: this is the identifier of the Citation object, not the citing publication. -->
